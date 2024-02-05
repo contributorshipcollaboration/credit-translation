@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "",
+    "$id": "https://github.com/contributorshipcollaboration/credit-translation/blob/main/credit_translation_schema.json",
     "title": "JSON schema for CRediT translation",
     "version": "1.0",
     "type": "object",
@@ -12,10 +12,19 @@
                     "type": "string",
                     "pattern": "^[a-zA-Z]{2,3}$",
                     "description": "The language code of the metadata (ISO 639-2 compatible)"
+                },
+                "translators": {
+                    "type": "array",
+                    "items": {"$ref": "#/definitions/roleTranslation"},
+                    "description": "List of identifying information on each translator"
+                },
+                "translationProcedure": {
+                    "type": "string",
+                    "description": "Free-text description of the translation procedure"
                 }
             },
             "required": [
-                "languageCode"
+                "languageCode", "translation", "translationProcedure"
             ]
         },
         "translations": {
@@ -328,6 +337,28 @@
                 "name",
                 "description"
             ]
+        },
+        "translator": {
+            "type": "object",
+            "properties": {
+                "firstName": {
+                    "type": "string",
+                    "description": "First name of the translator"
+                },
+                "lastName": {
+                    "type": "string",
+                    "description": "Last name of the translator"
+                },
+                "middleName": {
+                    "type": "string",
+                    "description": "Middle name of the translator"
+                },
+                "ORCID": {
+                    "type": "string",
+                    "description": "ORCID of the translator"
+                }
+            },
+            "required": ["firstName", "lastName"]
         }
     }
 }
