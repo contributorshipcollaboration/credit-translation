@@ -1,13 +1,13 @@
 {
     "metadata": {
-        "languageCode": "hu",
+        "languageCode": "pl",
         "translators": {
             "firstName": "",
             "lastName": "",
             "middleName": "",
             "ORCID": ""
         },
-        "translationProcedure": ""
+        "translationProcedure": "Malgorzata Lagisz and Marta Kowal, native speakers of Polish, translated from English to Polish together, conferring as they went through the translation. Then, Jakub Krasucki, native speaker of Polish, naive to the original CRediT, performed a back-translation. In the next step, we compared the two versions and arrived at the final translation."
     },
     "translations": {
         "Conceptualization": {
@@ -94,8 +94,8 @@
             "description": "Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.",
             "id": "4b1bf348-faf2-4fc4-bd66-4cd3a84b9d44",
             "translation": {
-                "name": "",
-                "description": ""
+                "name": "Walidacja",
+                "description": "Weryfikacja, włączając w to weryfyfikację w ramach projektu lub jako część innej aktywności, ogólnej replikowalności/reprodukowalności wyników/eksperymentów i innych elementów badań."
             }
         },
         "Visualization": {
