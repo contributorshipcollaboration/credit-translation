@@ -15,7 +15,7 @@
                 },
                 "translators": {
                     "type": "array",
-                    "items": {"$ref": "#/definitions/roleTranslation"},
+                    "items": {"$ref": "#/definitions/translator"},
                     "description": "List of identifying information on each translator"
                 },
                 "translationProcedure": {

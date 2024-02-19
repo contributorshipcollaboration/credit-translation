@@ -1,6 +1,13 @@
 {
     "metadata": {
-        "languageCode": "hu"
+        "languageCode": "hu",
+        "translators": {
+            "firstName": "",
+            "lastName": "",
+            "middleName": "",
+            "ORCID": ""
+        },
+        "translationProcedure": ""
     },
     "translations": {
         "Conceptualization": {
