@@ -24,7 +24,7 @@
                 }
             },
             "required": [
-                "languageCode", "translation", "translationProcedure"
+                "languageCode", "translators", "translationProcedure"
             ]
         },
         "translations": {
