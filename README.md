@@ -14,9 +14,9 @@ Everyone is welcome to contribute to the project by providing a new translation 
 
 ### Creating a translation
 
-* Actually do the translation work.
- * For examples of the procedure to do the translation work, see the `translation-process.md` files for different languages that you can find in the subdirectories of the [translations directory](translations/). Here's a recommended example of steps:
-  * One speaker fluent in both languages translates the English into the target language
+* Actually do the translation work. For examples of the procedure to do the translation work, see the `translation-process.md` files for different languages that you can find in the subdirectories of the [translations directory](translations/). Here's a recommended example of steps:
+  * To edit the file, click on the pencil icon. Insert the content for your translation. See [the file for Hungarian](translations/hu/credit_translation_hu.json) for an example.
+  *  One speaker fluent in both languages translates the English into the target language
   * A second speaker, ideally one not familiar with CRediT, back-translates the translation into English.
   * Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
 * To make your translation machine-readable, you must create a JSON file, following the format of the [schema](credit_translation_schema.json). See instructions below.
