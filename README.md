@@ -46,7 +46,7 @@ Contributors will be recognized in that their names will appear in the attributi
 | Afrikaans | Not started - 1 volunteer
 | Turkish | Not started - 1 volunteer
 | Persian | Not started - 1 volunteer
-| Dutch | Not started - 1 volunteer
+| Dutch | Not started - Eli Thoré 
 
 ## Contributing to other facets of the project
 
