@@ -1,10 +1,10 @@
-# CRediT translations into other natural human languages
+# CRediT translations from English into other languages
 
-The repository is for translations of [CRediT](https://credit.niso.org/). The translations are unofficial - NISO policy is that they welcome translations but do not endorse any particular translation as official.
+The repository is for translations of [CRediT](https://credit.niso.org/). The translations are unofficial (NISO policy is that although they welcome translations, they do not endorse any particular translation as official).
 
-Translations here are stored as JSON files, in a format created for this project. The human-readable translations are generated automatically from the JSON files as markdown and can be viewed on the Contributorship Collaboration's website at [https://contributorshipcollaboration.github.io/](https://contributorshipcollaboration.github.io/).
+Translations here are stored as JSON files. The human-readable translations are generated automatically from the JSON files as markdown and can be viewed on the Contributorship Collaboration's website at [https://contributorshipcollaboration.github.io/](https://contributorshipcollaboration.github.io/) (NOT DONE YET).
 
-Each translation was provided by volunteers whose names are listed in the license file that is in the same directory as the corresponding JSON file.
+Each translation was provided by volunteers whose names are listed. When using the translations, please provide attribution, e.g. for Hungarian "CC-BY Marton Kovacs and Marton Varga".
 
 ## New contributors welcome!
 
