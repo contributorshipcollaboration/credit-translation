@@ -8,7 +8,7 @@ Each translation was provided by volunteers whose names are listed in the licens
 
 ## New contributors welcome!
 
-Everyone is welcome to contribute to the project by providing a new translation or proposing changes to the existing translations. If you would like to contribute please contact Marton Kovacs at marton.balazs.kovacs at gmail.com.
+Everyone is welcome to contribute to the project by providing a new translation or proposing changes to the existing translations. All contributors are bound by the [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md). If you would like to contribute please contact Marton Kovacs at marton.balazs.kovacs at gmail.com.
 
 ## Contributing 
 
