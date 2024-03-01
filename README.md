@@ -8,7 +8,46 @@ Each translation was provided by volunteers whose names are listed in the licens
 
 ## New contributors welcome!
 
-Everyone is welcome to contribute to the project by providing a new translation or proposing changes to the existing translations. All contributors are bound by the [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md). If you would like to contribute please contact Marton Kovacs at marton.balazs.kovacs at gmail.com.
+All contributors are bound by the [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
+
+### Contributing to translations 
+
+Anyone fluent in a language not already translated can help provide a new translation, or propose a change to an existing translation.
+
+Before starting on a new translation:
+
+* Fill out a form to 
+* 
+first check if your language has already been started.
+
+Translators will be recognized in that their names will appear in the attribution for the translation they helped create. For example, the human-readable page for Hungarian will state "CC-BY Marton Kovacs and Marton Varga".
+
+| Language  | Translation Status | Github status
+| ------------- | ------------- | ------------- |
+| Hungarian  | Completed | Completed
+| German  | Completed  | Completed
+| Portuguese  | Completed  | Completed
+| Polish  | Completed  | Completed
+| Chinese (traditional)  | Completed  | Not done
+| Chinese (simplified)  | Completed | Not done
+| Japanese  | Completed  | Not done
+| French  | waiting on back-translation?  | 
+| Spanish  | back-translation / 2nd translator needed?  | 
+| Russian  | Started |
+| Afrikaans  | 1? volunteer |
+| Swahili  | 1? volunteer |
+| Danish  | Not started - 2 volunteers |
+| Norwegian  | started - Bjørn Sætrevik & Ulvhild Færøvik |
+| Hindi  | Not started - 2 volunteers |
+| Greek  | Not started - 2 volunteers |
+| Malayalam | Not started - 1 volunteer
+| Slovak | Not started - 1 volunteer
+| Czech | Not started - 1 volunteer
+| Afrikaans | Not started - 1 volunteer
+| Turkish | Not started - 1 volunteer
+| Persian | Not started - 1 volunteer
+| Dutch | Not started - 1 volunteer
+
 
 ## Contributing 
 
