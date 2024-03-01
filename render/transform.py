@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime
-from langcodes import Language
+# from langcodes import Language
 
 # Get the absolute directory path where the script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -16,7 +16,7 @@ def json_to_md(json_data):
     """
     # YAML header with title and date
     language_code = json_data["metadata"]["languageCode"]
-    language_name = Language.get(language_code).language_name()
+    # language_name = Language.get(language_code).language_name()
     md_content = f"""---
 title: "{language_code} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
@@ -25,7 +25,7 @@ date: {datetime.now().strftime('%Y-%m-%d')}
 """
 
     # Translations section as a table
-    md_content += "| English | " + language_name + " |\n"
+    md_content += "| English | " + language_code + " |\n"
     md_content += "| --- | --- |\n"
 
     for role, details in json_data["translations"].items():
