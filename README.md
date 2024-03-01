@@ -58,8 +58,9 @@ Contributors will be recognized in that their names will appear in the attributi
 ### Creating a translation
 
 *  We have created a Google Sheet for entering your translation work and seeing how others did it. Contact us for access to the Google Sheet.
-* First, one speaker fluent in both languages translates the English into the target language and enters that on the Google Sheet.
+* First, one speaker fluent in both languages translates the English into the target language and enters that on the Google Sheet. 
 * A second speaker, ideally one not familiar with CRediT, back-translates the translation into English.
+* Feel free to use Google Translate to assist, just don't rely on it, for example don't use it for both the forward and back-translation.
 * Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
 * To make your translation machine-readable, you must create a JSON file, following the format of the [schema](credit_translation_schema.json). See instructions below.
 
