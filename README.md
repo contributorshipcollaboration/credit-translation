@@ -20,23 +20,20 @@ Everyone is welcome to contribute to the project by providing a new translation 
 * Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
 * To make your translation machine-readable, you must create a JSON file, following the format of the [schema](credit_translation_schema.json). See instructions below.
 
-### When a directory for your language does NOT exist:
+### When a .json file for your language does NOT already exist here:
 
 Download one of the existing JSON files, such as [this Hungarian one](translations/hu/credit_translation_hu.json) and change all the Hungarian text to your target language. Then send it to us.
 
-### When a directory for your language already exists: 
+### When a .json for your language DOES already exist: 
 
-* To see if a directory already exists, look [here](translations/) for a directory with the [two-letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language. If it doesn't exist, contact us, unless you know how to use Github to create directories, in which case follow the instructions [in the next section](#-Github-procedure-for-new-languages-if-you-are-very-comfortable-with-Github)
-*  Go to the Github page for the JSON file for your language, in your language's subdirectory of the [translations directory](translations/).
-  * To edit the file, click on the pencil icon. Insert the content for your translation. See [the file for Hungarian](translations/hu/credit_translation_hu.json) for an example.
-  * So that the Github repository gets updated, create a pull request by clicking on BLAH BLAH
-  * Validate that your edits have not messed up the formatting by entering both the [schema](credit_translation_schema.json) and your file at [https://www.jsonschemavalidator.net/](https://www.jsonschemavalidator.net/).
-* Edit the license file by inserting the names of the translators. See [the license file for Hungarian](translations/hu/license.html) FIX for an example.
-  * Generate a pull request
-* Edit the translation-process.md file to describe how you did the translation and validated it, for example by doing back-translation and comparing the back-translation to the original English.
-  * Generate a pull request
+* To see if a file already exists, look [here](translations/) for a file with the [two-letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language. If it doesn't exist, contact us, unless you know how to use Github to create files, in which case follow the instructions [in the next section](#-Github-procedure-for-new-languages-if-you-are-very-comfortable-with-Github)
+* To edit the file, click on the pencil icon. Insert the content for your translation. See [the file for Hungarian](translations/hu/credit_translation_hu.json) for an example.
+* So that the Github repository gets updated, create a pull request by clicking on BLAH BLAH
+* Don't forget to add information about how you did the translation in the "translationProcedure" string of the .json file, here is an example: "TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties." In this case, two forward translations were created, yielding discrepancies that surfaced parts to attend more to. As described in the above [Creating a translation](#-Creating-a-translation) section, however, another way to do that is to look at discrepancies highlighted by doing a back translation.
+* Validate that your edits have not messed up the formatting by entering both the [schema](credit_translation_schema.json) and your file at [https://www.jsonschemavalidator.net/](https://www.jsonschemavalidator.net/). This checks for most formatting errors.
+* Generate a pull request
  
-### Github procedure for new languages if you are very comfortable with Github
+### Github procedure for new languages if you are experienced with Github
 
 * Fork the repository, clone it, and create a branch for your translation
 * Create a subdirectory for your translation in the `translations/` directory using the [ISO 639-2 language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) of the translated language
