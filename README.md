@@ -14,16 +14,19 @@ Everyone is welcome to contribute to the project by providing a new translation 
 
 ### Creating a translation
 
-* Actually do the translation work. For examples of the procedure to do the translation work, see the `translation-process.md` files for different languages that you can find in the subdirectories of the [translations directory](translations/). Here's a recommended example of steps:
-  * To edit the file, click on the pencil icon. Insert the content for your translation. See [the file for Hungarian](translations/hu/credit_translation_hu.json) for an example.
-  *  One speaker fluent in both languages translates the English into the target language
-  * A second speaker, ideally one not familiar with CRediT, back-translates the translation into English.
-  * Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
+*  We have created a Google Sheet for entering your translation work and seeing how others did it. Contact us for access to the Google Sheet.
+* First, one speaker fluent in both languages translates the English into the target language and enters that on the Google Sheet.
+* A second speaker, ideally one not familiar with CRediT, back-translates the translation into English.
+* Discrepancies between the original English and the back-translated English can tip one off to parts of the translation that deserve attention, where one should consider alternative phrasings. So, the two speakers confer and resolve any discrepancies.
 * To make your translation machine-readable, you must create a JSON file, following the format of the [schema](credit_translation_schema.json). See instructions below.
 
-### Editing the translation files, when a directory for your language already exists
+### When a directory for your language does NOT exist:
 
-* Check whether a directory exists yet for your translation. Look [here](translations/) for a directory with the [two-letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language. If it doesn't exist, contact us, unless you know how to use Github to create directories, in which case follow the instructions [in the next section](#-Github-procedure-for-new-languages-if-you-are-very-comfortable-with-Github)
+Download one of the existing JSON files, such as [this Hungarian one](translations/hu/credit_translation_hu.json) and change all the Hungarian text to your target language. Then send it to us.
+
+### When a directory for your language already exists: 
+
+* To see if a directory already exists, look [here](translations/) for a directory with the [two-letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) for your language. If it doesn't exist, contact us, unless you know how to use Github to create directories, in which case follow the instructions [in the next section](#-Github-procedure-for-new-languages-if-you-are-very-comfortable-with-Github)
 *  Go to the Github page for the JSON file for your language, in your language's subdirectory of the [translations directory](translations/).
   * To edit the file, click on the pencil icon. Insert the content for your translation. See [the file for Hungarian](translations/hu/credit_translation_hu.json) for an example.
   * So that the Github repository gets updated, create a pull request by clicking on BLAH BLAH
