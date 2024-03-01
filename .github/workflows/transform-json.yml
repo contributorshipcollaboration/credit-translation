@@ -1,0 +1,37 @@
+name: Transform JSON to Markdown
+
+on:
+  push:
+    paths:
+      - 'translation/**.json'
+      - 'render/transform.py'
+      - 'requirements.txt' 
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Transform JSON to Markdown
+        run: |
+          cd render/
+          python transform.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add md_files/*
+          git commit -m "Auto-update Markdown files" || echo "No changes to commit"
+          git push

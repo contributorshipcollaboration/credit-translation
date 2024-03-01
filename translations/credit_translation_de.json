@@ -1,139 +1,139 @@
 {
     "metadata": {
-        "languageCode": "pl",
+        "languageCode": "de",
         "translators": [
             {
-                "firstName": "Malgorzata",
-                "lastName": "Lagisz",
+                "firstName": "Timo",
+                "lastName": "Lüke",
                 "middleName": "",
-                "ORCID": "https://orcid.org/0000-0002-3993-6127"
+                "ORCID": "0000-0002-2603-7341"
             },
             {
-                "firstName": "Marta",
-                "lastName": "Kowal",
+                "firstName": "Caro",
+                "lastName": "Jansky",
                 "middleName": "",
-                "ORCID": "https://orcid.org/0000-0001-9050-1471"
+                "ORCID": "tba"
             },
             {
-                "firstName": "Jakub",
-                "lastName": "Krasucki",
+                "firstName": "Helena",
+                "lastName": "Hartmann",
                 "middleName": "",
-                "ORCID": ""
-            },
+                "ORCID": "0000-0002-1331-6683"
+            }
         ],
-        "translationProcedure": "Malgorzata Lagisz and Marta Kowal, native speakers of Polish, translated from English to Polish together, conferring as they went through the translation. Then, Jakub Krasucki, native speaker of Polish, naive to the original CRediT, performed a back-translation. In the next step, we compared the two versions and arrived at the final translation."
+        "translationProcedure": "TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties."
     },
     "translations": {
         "Conceptualization": {
             "description": "Ideas; formulation or evolution of overarching research goals and aims.",
             "id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
             "translation": {
-                "name": "Konceptualizacja",
-                "description": "Pomysły; formułowanie lub tworzenie nadrzędnych celów i zadań badawczych."
+                "name": "Konzeptualisierung",
+                "description": "Ideen; Formulierung oder Entwicklung der übergeordneten Forschungsziele."
             }
         },
         "Data Curation": {
             "description": "Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.",
             "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
             "translation": {
-                "name": "Zarządzanie danymi",
-                "description": "Działania związane z dodawaniem adnotacji (tworzeniem metadanych), zarządzanie i porządkowanie danych badawczych (w tym tworzenie kodu oprogramowania, jeśli jest to konieczne do interpretacji samych danych) do początkowego i późniejszego ponownego wykorzystania."
+                "name": "Datenpflege",
+                "description": "Tätigkeiten zur Dokumentation (Erstellung von Metadaten), Bereinigung und Pflege von Forschungsdaten (einschließlich Softwarecode, sofern dieser für die Interpretation der Daten selbst erforderlich ist) für die Erstnutzung und spätere Wiederverwendung."
             }
         },
         "Formal Analysis": {
             "description": "Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data.",
             "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
             "translation": {
-                "name": "Formalna analiza",
-                "description": "Zastosowanie technik statystycznych, matematycznych, lub innych formalnych technik, w celu wykonania analiz lub syntez danych badawczych."
+                "name": "Formale Analyse",
+                "description": "Anwendung statistischer, mathematischer, computergestützter oder anderer formalisierter Techniken zur Analyse oder Synthese von Studiendaten."
             }
         },
         "Funding Acquisition": {
             "description": "Acquisition of the financial support for the project leading to this publication.",
             "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
             "translation": {
-                "name": "Pozyskanie funduszy",
-                "description": "Zapewnienie środkow finansowych na wykonanie badań prowadzacych do publikacji."
+                "name": "Akquise von Finanzmitteln",
+                "description": "Beschaffung der finanziellen Unterstützung für das Projekt, das zu dieser Veröffentlichung führt."
             }
         },
         "Investigation": {
             "description": "Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection.",
             "id": "2451924d-425e-4778-9f4c-36c848ca70c2",
             "translation": {
-                "name": "Przeprowadzenie badań",
-                "description": "Przeprowadzenie czynności badawczych, w szczególności wykonanie eksperymentów, lub zbieranie danych badawczych."
+                "name": "Untersuchung",
+                "description": "Durchführung eines Forschungs- und Untersuchungsprozesses, insbesondere die Durchführung von Experimenten oder die Sammlung von Daten/Belegen."
             }
         },
         "Methodology": {
             "description": "Development or design of methodology; creation of models.",
             "id": "f21e2be9-4e38-4ab7-8691-d6f72d5d5843",
             "translation": {
-                "name": "Metodologia",
-                "description": "Opracowanie lub zaprojektowanie metodologii; tworzenie modeli."
+                "name": "Methodik",
+                "description": "Entwicklung oder Design der Methodik; Erstellung von Modellen."
             }
         },
         "Project Administration": {
             "description": "Management and coordination responsibility for the research activity planning and execution.",
             "id": "a693fe76-ea33-49ad-9dcc-5e4f3ac5f938",
             "translation": {
-                "name": "Administracja projektu",
-                "description": "Odpowiedzialność za zarządzanie i koordynację planowania i realizacji działań badawczych."
+                "name": "Projektverwaltung",
+                "description": "Management- und Koordinationsverantwortung für die Planung und Durchführung der Forschungsaktivitäten."
             }
         },
         "Resources": {
             "description": "Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools.",
             "id": "ebd781f0-bf79-492c-ac21-b31b9c3c990c",
             "translation": {
-                "name": "Zasoby",
-                "description": "Dostarczanie materiałów badawczych, odczynników, materiałów, pacjentów, próbek laboratoryjnych, zwierząt, oprzyrządowania, zasobów obliczeniowych lub innych narzędzi analitycznych."
+                "name": "Ressourcen",
+                "description": "Bereitstellung von Studienmaterial, Reagenzien, Materialien, Teilnehmer, Laborproben, Tieren, Instrumenten, Computerressourcen oder anderen Analysewerkzeugen."
             }
         },
         "Software": {
             "description": "Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.",
             "id": "f89c5233-01b0-4778-93e9-cc7d107aa2c8",
             "translation": {
-                "name": "Oprogramowanie",
-                "description": "Programowanie, tworzenie oprogramowania; projektowanie programów komputerowych; implementacja kodu komputerowego i algorytmów wspomagających; testowanie istniejących komponentów kodu."
+                "name": "Software",
+                "description": "Programmierung, Softwareentwicklung; Entwicklung von Computerprogrammen; Implementierung des Computercodes und unterstützender Algorithmen; Testen bestehender Codekomponenten."
             }
         },
         "Supervision": {
             "description": "Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team.",
             "id": "0c8ca7d4-06ad-4527-9cea-a8801fcb8746",
             "translation": {
-                "name": "Nadzór",
-                "description": "Nadzór i odpowiedzialność kierownicza za planowanie i realizację działań badawczych, w tym mentoring zewnętrzny w stosunku do głównego zespołu."
+                "name": "Supervision",
+                "description": "Aufsichts- und Führungsverantwortung für die Planung und Durchführung der Forschungstätigkeit, einschließlich der Betreuung von außerhalb des Kernteams."
             }
         },
         "Validation": {
             "description": "Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.",
             "id": "4b1bf348-faf2-4fc4-bd66-4cd3a84b9d44",
             "translation": {
-                "name": "Walidacja",
-                "description": "Weryfikacja, włączając w to weryfyfikację w ramach projektu lub jako część innej aktywności, ogólnej replikowalności/reprodukowalności wyników/eksperymentów i innych elementów badań."
+                "name": "Validierung",
+                "description": "Überprüfung der allgemeinen Replikation/Reproduzierbarkeit von Ergebnissen/Experimenten und anderen Forschungsleistungen, entweder als Teil der Tätigkeit oder eigenständig."
             }
         },
         "Visualization": {
             "description": "Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.",
             "id": "76b9d56a-e430-4e0a-84c9-59c11be343ae",
             "translation": {
-                "name": "Wizualizacja",
-                "description": "Przygotowanie, stworzenie i/lub prezentacja opublikowanej pracy, w szczególności wizualizacja/prezentacja danych."
+                "name": "Visualisierung",
+                "description": "Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit, insbesondere Visualisierung/Datenpräsentation."
             }
         },
         "Writing – Original Draft Preparation": {
             "description": "Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).",
             "id": "43ebbd94-98b4-42f1-866b-c930cef228ca",
             "translation": {
-                "name": "Pisanie – pierwszy szkic",
-                "description": "Przygotowanie, stworzenie i/lub prezentacja opublikowanej pracy, w szczególności napisanie wstępnego szkicu (w tym merytoryczne tłumaczenie)."
+                "name": "Schreiben – Originalentwurf",
+                "description": "Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit, insbesondere das Schreiben des ersten Entwurfs (einschließlich wesentlicher Übersetzung)."
             }
         },
         "Writing – Review & Editing": {
             "description": "Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages.",
             "id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
             "translation": {
-                "name": "Pisanie – recenzja i edycja",
-                "description": "Przygotowanie, stworzenie i/lub prezentacja opublikowanej pracy przez osoby z początkowej grupy badawczej, w szczególności krytyczna recenzja, komentarz lub korekta - włączając etapy przed lub po publikacji."
+                "name": "Schreiben - Überprüfung und Überarbeitung",
+                "description": "Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit durch die Mitglieder der ursprünglichen Forschungsgruppe, insbesondere kritische Überprüfung, Kommentierung oder Überarbeitung - einschließlich der Phasen vor oder nach der Veröffentlichung."
             }
         }
     }
