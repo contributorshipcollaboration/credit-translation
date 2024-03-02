@@ -23,7 +23,7 @@ Before starting on a new translation:
 Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [draft human-readable page for German](https://github.com/contributorshipcollaboration/credit-translation/blob/main/md_files/credit_translation_de.md).
 
 
-## Contributing to other facets of the project
+## Contributing to other facets of the project (we'd love your help!)
 
 * Code: check the Github issues or email us
 * Outreach and implementation 
