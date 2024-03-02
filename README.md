@@ -36,7 +36,7 @@ Contributors will be recognized in that their names will appear in the attributi
 | Russian  | Started |
 | Afrikaans  | 1? volunteer |
 | Swahili  | 1? volunteer |
-| Danish  | Not started - 2 volunteers |
+| Danish  | Not started - Rasmus Pedersen, Eli Thoré? |
 | Norwegian  | started - Bjørn Sætrevik & Ulvhild Færøvik |
 | Hindi  | Not started - 2 volunteers |
 | Greek  | Not started - 2 volunteers |
@@ -47,6 +47,7 @@ Contributors will be recognized in that their names will appear in the attributi
 | Turkish | Not started - 1 volunteer
 | Persian | Not started - 1 volunteer
 | Dutch | Not started - Eli Thoré 
+| Swedish | Not started - , Eli Thoré?
 
 ## Contributing to other facets of the project
 
