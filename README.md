@@ -17,37 +17,12 @@ Anyone fluent in a language not already translated can help provide a new transl
 Before starting on a new translation:
 
 * Fill out [our Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link) so we have a record of your interest
-* Check below the status of your language.
+* [Check the current status](language_status.md) of translation for your language.
 * Follow the instructions in the below [translation section](#-Creating-a-translation)
 
 Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [draft human-readable page for German](https://github.com/contributorshipcollaboration/credit-translation/blob/main/md_files/credit_translation_de.md).
 
-| Language  | Translation Status | Github status
-| ------------- | ------------- | ------------- |
-| Hungarian  | Completed | Completed
-| German  | Completed  | Completed
-| Portuguese  | Completed  | Completed
-| Polish  | Completed  | Completed
-| Chinese (traditional)  | Completed  | Not done
-| Chinese (simplified)  | Completed | Not done
-| Japanese  | Completed  | Not done
-| French  | waiting on back-translation?  | 
-| Spanish  | back-translation / 2nd translator needed?  | 
-| Russian  | Started |
-| Afrikaans  | 1? volunteer |
-| Swahili  | 1? volunteer |
-| Danish  | Not started - Rasmus Pedersen, Eli Thoré? |
-| Norwegian  | started - Bjørn Sætrevik & Ulvhild Færøvik |
-| Hindi  | Not started - 2 volunteers |
-| Greek  | Not started - 2 volunteers |
-| Malayalam | Not started - 1 volunteer
-| Slovak | Not started - 1 volunteer
-| Czech | Not started - 1 volunteer
-| Afrikaans | Not started - 1 volunteer
-| Turkish | Not started - 1 volunteer
-| Persian | Not started - 1 volunteer
-| Dutch | Not started - Eli Thoré 
-| Swedish | Not started - , Eli Thoré?
+
 
 ## Contributing to other facets of the project
 
