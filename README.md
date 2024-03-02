@@ -16,9 +16,9 @@ Anyone fluent in a language not already translated can help provide a new transl
 
 Before starting on a new translation:
 
-* Fill out [our Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link) so we have a record of your interest
 * [Check the current status](language_status.md) of translation for your language.
-* Follow the instructions in the below [translation section](#-Creating-a-translation)
+* Fill out [our Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfdhqlnk4sw61MkkDuufZyqO1SKmnp--QE6vEG1_7qnP9MzJg/viewform?usp=sf_link) so we have a record of your interest and potentially to help match you with another translator or project contributor.
+* Follow the instructions in the below [translation section](#-Creating-a-translation).
 
 Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [draft human-readable page for German](https://github.com/contributorshipcollaboration/credit-translation/blob/main/md_files/credit_translation_de.md).
 
