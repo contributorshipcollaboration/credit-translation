@@ -1,6 +1,6 @@
 ---
 title: "pl translation of CRediT"
-date: 2024-03-01
+date: 2024-03-06
 ---
 
 | English | pl |
@@ -39,6 +39,9 @@ date: 2024-03-01
 [Malgorzata  Lagisz](https://orcid.org/https://orcid.org/0000-0002-3993-6127), [Marta  Kowal](https://orcid.org/https://orcid.org/0000-0001-9050-1471), Jakub  Krasucki
 
 
+## License
+
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Malgorzata  Lagisz](https://orcid.org/https://orcid.org/0000-0002-3993-6127), [Marta  Kowal](https://orcid.org/https://orcid.org/0000-0001-9050-1471), Jakub  Krasucki, Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
 Malgorzata Lagisz and Marta Kowal, native speakers of Polish, translated from English to Polish together, conferring as they went through the translation. Then, Jakub Krasucki, native speaker of Polish, naive to the original CRediT, performed a back-translation. In the next step, we compared the two versions and arrived at the final translation.

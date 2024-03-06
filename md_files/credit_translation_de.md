@@ -1,6 +1,6 @@
 ---
 title: "de translation of CRediT"
-date: 2024-03-01
+date: 2024-03-06
 ---
 
 | English | de |
@@ -39,6 +39,9 @@ date: 2024-03-01
 [Timo  Lüke](https://orcid.org/0000-0002-2603-7341), [Caro  Jansky](https://orcid.org/tba), [Helena  Hartmann](https://orcid.org/0000-0002-1331-6683)
 
 
+## License
+
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Timo  Lüke](https://orcid.org/0000-0002-2603-7341), [Caro  Jansky](https://orcid.org/tba), [Helena  Hartmann](https://orcid.org/0000-0002-1331-6683), Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
 TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties.
