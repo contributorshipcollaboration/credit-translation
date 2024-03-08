@@ -9,7 +9,7 @@
 | Japanese  | Completed  | Not done
 | French  | waiting on back-translation?  | 
 | Spanish  | back-translation   | yes, 2nd translator needed, email XXX
-| Russian  | Started |
+| Russian  | almost done |
 | Afrikaans  | 1? volunteer |
 | Swahili  | 1? volunteer |
 | Danish  | Not started - Rasmus Pedersen, Eli Thoré? |
