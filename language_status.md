@@ -1,14 +1,14 @@
-| Language  | Translation Status | Github status
-| ------------- | ------------- | ------------- |
-| Hungarian  | Completed | Completed
-| German  | Completed  | Completed
+| Language  | Translation Status | Github status | Help needed?
+| ------------- | ------------- | ------------- | ------------- 
+| Hungarian  | Completed | Completed | No
+| German  | Completed  | Completed  | 
 | Portuguese  | Completed  | Completed
 | Polish  | Completed  | Completed
 | Chinese (traditional)  | Completed  | Not done
 | Chinese (simplified)  | Completed | Not done
 | Japanese  | Completed  | Not done
 | French  | waiting on back-translation?  | 
-| Spanish  | back-translation / 2nd translator needed?  | 
+| Spanish  | back-translation   | yes, 2nd translator needed, email XXX
 | Russian  | Started |
 | Afrikaans  | 1? volunteer |
 | Swahili  | 1? volunteer |
