@@ -8,14 +8,12 @@ Each translation was provided by volunteers whose names are listed. When using t
 
 ## New contributors welcome!
 
-All contributors are bound by the [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
-
-## Contributing to translations 
-
 See our [Instructions for Contributors](https://contributorshipcollaboration.github.io/projects/translation/instructions/)
 
+All contributors are bound by the [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
 
-## For programmers and project coordinators
+
+## Notes for programmers and project coordinators
 
 How the translation file is created:
 JSON->new file table of finished languages .md->HTML
