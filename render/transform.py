@@ -25,7 +25,7 @@ def json_to_md(json_data):
     language_code = json_data["metadata"]["languageCode"]
     language_name = get_language_name(language_code)
     md_content = f"""---
-title: "{language_code} translation of CRediT"
+title: "{language_name} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
 language: "{language_name}"
 translationStatus: "Completed"
@@ -36,7 +36,7 @@ helpNeeded: "No"
 """
 
     # Translations section as a table
-    md_content += "| English | " + language_code + " |\n"
+    md_content += "| English | " + language_name + " |\n"
     md_content += "| --- | --- |\n"
 
     for role, details in json_data["translations"].items():
