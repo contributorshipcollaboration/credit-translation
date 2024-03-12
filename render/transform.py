@@ -50,6 +50,11 @@ date: {datetime.now().strftime('%Y-%m-%d')}
     translator_names = ', '.join(translator_lines)
     md_content += f"\n## Translators\n\n{translator_names}\n\n"
 
+    # License section 
+    md_content += f"\n## License\n\n[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    # copyright is held by the translators together with the originators of CRediT
+    md_content += f" {translator_names}, Brand, Allen, Altman, Hlava, & Scott"
+    
     # Translation procedure section
     translation_procedure = json_data["metadata"]["translationProcedure"]
     md_content += f"\n## Translation Procedure\n\n{translation_procedure}\n\n"

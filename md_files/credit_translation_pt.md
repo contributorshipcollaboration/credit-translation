@@ -1,6 +1,6 @@
 ---
 title: "pt translation of CRediT"
-date: 2024-03-01
+date: 2024-03-06
 ---
 
 | English | pt |
@@ -39,6 +39,9 @@ date: 2024-03-01
 [Pietro  Pollo](https://orcid.org/https://orcid.org/0000-0001-6555-5400), [Erika Marques Santana](https://orcid.org/https://orcid.org/0000-0001-5883-4284)
 
 
+## License
+
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Pietro  Pollo](https://orcid.org/https://orcid.org/0000-0001-6555-5400), [Erika Marques Santana](https://orcid.org/https://orcid.org/0000-0001-5883-4284), Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
 PP did the translation and EMS (unfamiliar with CRediT) did the back-translation, then both discussed discrepancies between versions and agreed on a refinement. Both are native speakers.
