@@ -28,9 +28,6 @@ def json_to_md(json_data, filename):
 title: "{language_name} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
 language: "{language_name}"
-translationStatus: "Completed"
-githubStatus: "Completed"
-helpNeeded: "No"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/{filename}"
 ---
