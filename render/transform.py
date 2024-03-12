@@ -1,7 +1,14 @@
 import json
 import os
 from datetime import datetime
-# from langcodes import Language
+import pycountry
+
+# Function to get full language name
+def get_language_name(iso_code):
+    try:
+        return pycountry.languages.get(alpha_2=iso_code).name
+    except AttributeError:
+        return "Unknown"
 
 # Get the absolute directory path where the script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -16,10 +23,11 @@ def json_to_md(json_data):
     """
     # YAML header with title and date
     language_code = json_data["metadata"]["languageCode"]
-    # language_name = Language.get(language_code).language_name()
+    language_name = get_language_name(language_code)
     md_content = f"""---
 title: "{language_code} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
+language: "{language_name}"
 ---
 
 """
