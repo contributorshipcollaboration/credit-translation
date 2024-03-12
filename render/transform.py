@@ -28,6 +28,9 @@ def json_to_md(json_data):
 title: "{language_code} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
 language: "{language_name}"
+translationStatus: "Completed"
+githubStatus: "Completed"
+helpNeeded: "No"
 ---
 
 """
