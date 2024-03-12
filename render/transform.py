@@ -17,7 +17,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 translation_dir = os.path.join(script_dir, "../translation/")
 md_files_dir = os.path.join(script_dir, "../md_files/")
 
-def json_to_md(json_data):
+def json_to_md(json_data, filename):
     """
     Convert JSON data to Markdown text following the specified structure.
     """
@@ -31,6 +31,8 @@ language: "{language_name}"
 translationStatus: "Completed"
 githubStatus: "Completed"
 helpNeeded: "No"
+layout: "translation/single"
+githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/{filename}"
 ---
 
 """
@@ -86,7 +88,7 @@ def transform_json_to_md(directory, output_directory):
                 json_data = json.load(json_file)
 
             # Convert JSON to Markdown
-            md_content = json_to_md(json_data)
+            md_content = json_to_md(json_data, filename)
 
             # Save Markdown content to a new file
             md_filename = filename.replace(".json", ".md")

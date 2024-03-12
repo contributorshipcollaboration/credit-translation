@@ -1,10 +1,15 @@
 ---
-title: "pl translation of CRediT"
+title: "Polish translation of CRediT"
 date: 2024-03-12
 language: "Polish"
+translationStatus: "Completed"
+githubStatus: "Completed"
+helpNeeded: "No"
+layout: "translation/single"
+githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_pl.json"
 ---
 
-| English | pl |
+| English | Polish |
 | --- | --- |
 | **Conceptualization** | **Konceptualizacja** |
 | Ideas; formulation or evolution of overarching research goals and aims. | Pomysły; formułowanie lub tworzenie nadrzędnych celów i zadań badawczych. |

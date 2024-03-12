@@ -1,10 +1,15 @@
 ---
-title: "de translation of CRediT"
+title: "German translation of CRediT"
 date: 2024-03-12
 language: "German"
+translationStatus: "Completed"
+githubStatus: "Completed"
+helpNeeded: "No"
+layout: "translation/single"
+githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_de.json"
 ---
 
-| English | de |
+| English | German |
 | --- | --- |
 | **Conceptualization** | **Konzeptualisierung** |
 | Ideas; formulation or evolution of overarching research goals and aims. | Ideen; Formulierung oder Entwicklung der übergeordneten Forschungsziele. |
