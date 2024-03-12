@@ -2,6 +2,9 @@
 title: "de translation of CRediT"
 date: 2024-03-12
 language: "German"
+translationStatus: "Completed"
+githubStatus: "Completed"
+helpNeeded: "No"
 ---
 
 | English | de |
