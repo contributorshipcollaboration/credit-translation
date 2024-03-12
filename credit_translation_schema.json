@@ -13,6 +13,10 @@
                     "pattern": "^[a-zA-Z]{2,3}$",
                     "description": "The language code of the metadata (ISO 639-2 compatible)"
                 },
+                "languageName": {
+                    "type": "string",
+                    "description": "The full name of the language"
+                },
                 "translators": {
                     "type": "array",
                     "items": {"$ref": "#/definitions/translator"},
@@ -24,7 +28,7 @@
                 }
             },
             "required": [
-                "languageCode", "translators", "translationProcedure"
+                "languageCode", "languageName", "translators", "translationProcedure"
             ]
         },
         "translations": {

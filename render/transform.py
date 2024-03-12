@@ -2,13 +2,25 @@ import json
 import os
 from datetime import datetime
 import pycountry
+import chardet
 
+# Function to open json with guessed encoding style
+def open_json_file(json_path):
+    with open(json_path, 'rb') as f:  # Open the file in binary mode
+        raw_data = f.read()
+        encoding = chardet.detect(raw_data)['encoding']
+        if encoding:
+            print(f"The detected encoding is: {encoding}")
+            return json.loads(raw_data.decode(encoding))
+        else:
+            raise ValueError("Encoding could not be determined.")
+        
 # Function to get full language name
 def get_language_name(iso_code):
     try:
         return pycountry.languages.get(alpha_2=iso_code).name
     except AttributeError:
-        return "Unknown"
+        return iso_code
 
 # Get the absolute directory path where the script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -22,8 +34,12 @@ def json_to_md(json_data, filename):
     Convert JSON data to Markdown text following the specified structure.
     """
     # YAML header with title and date
-    language_code = json_data["metadata"]["languageCode"]
-    language_name = get_language_name(language_code)
+    # Check if "languageName" exists in metadata, otherwise use get_language_name
+    if "languageName" in json_data["metadata"]:
+        language_name = json_data["metadata"]["languageName"]
+    else:
+        language_code = json_data["metadata"]["languageCode"]
+        language_name = get_language_name(language_code)
     md_content = f"""---
 title: "{language_name} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
@@ -81,9 +97,11 @@ def transform_json_to_md(directory, output_directory):
     for filename in os.listdir(directory):
         if filename.startswith("credit_translation_") and filename.endswith(".json"):
             json_path = os.path.join(directory, filename)
-            with open(json_path, 'r', encoding='utf-8') as json_file:
-                json_data = json.load(json_file)
-
+            try:
+                json_data = open_json_file(json_path)
+            except ValueError as e:
+                print(f"Error processing {filename}: {e}")
+            
             # Convert JSON to Markdown
             md_content = json_to_md(json_data, filename)
 
