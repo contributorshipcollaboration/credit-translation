@@ -6,12 +6,9 @@ filename: contributing.md
 
 > Back to [Main Page](README.md).    
 
+**Our mission:** *Make CRediT more inclusive by translating it into other languages and making those in various language communities aware of it* 🌟  
 
-# CONTRIBUTION GUIDE    
-
-**Our mission statement:** *Making CRediT more inclusive by translating it into other languages and making those in various language communities aware of it* 🌟  
-
-## 💛  Contributing 
+# 💛  Contributing 
 
 We invite all interested to contribute to the project.     
 
@@ -31,7 +28,7 @@ Slack (invites will be sent to project participants who filled in the [EOI form]
 ## Other contributions 
 
 
-## 💝  Acknowledgement of contributions   
+# 💝  Acknowledgement of contributions   
 All project participants who contributed any amount of work, and provided their details, will be acknowledged as project contributors on the project page, report, presentations, and manuscript. We will mainly use a CRediT-like statement format, but we will also keep a more detailed record of individual contributions to specific tasks within the stages of the project. This record will be also made publicly availabe as part of the open project materials (as a publicly available dataset). You can request to have your details removed or obscured at any time.    
 
 ## 📄 Co-authorship  
@@ -47,14 +44,13 @@ Additional contribution oportunities will be available via data cleaning, analys
 
 In the manuscript, first and last authorship positions will be reserved to the project leads (they could be co-first and co-last positions). Subsequent authorship positions will be determined by the total amount and quality of contributions, as in the project records. For equal contributions the order of mid-authorship will be alphabetic. All authors must read and approve the final manuscript draft before submission. The manuscript will contain a CRediT statement detailing the roles of individual authors and contributors.   
 
-
-## 📍 Final notes   
+# 📍 Final notes   
 Project leads reserve the right to interpret and change the contribution rules at any time, if such need arises. In case of any disputes decisions of project leads will be final.    
 
-## 🔧  Maintainer(s)
+# 🔧  Maintainer(s)
 * [Alex Holcombe](https://github.com/alexholcombe).   
 
-## 🖍️  License 
+# 🖍️  License 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (cc-by)](/LICENSE.md).   
 
 > Back to [Main Page](README.md).  
