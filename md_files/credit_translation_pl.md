@@ -1,6 +1,7 @@
 ---
 title: "pl translation of CRediT"
 date: 2024-03-12
+language: "Polish"
 ---
 
 | English | pl |
