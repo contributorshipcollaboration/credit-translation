@@ -12,6 +12,8 @@ All contributors are bound by the [code of conduct](https://github.com/marton-ba
 
 ## Contributing to translations 
 
+See our translation Contributors landing page
+
 Anyone fluent in a language not already translated can help provide a new translation, or propose a change to an existing translation.
 
 Before starting on a new translation:
@@ -22,6 +24,17 @@ Before starting on a new translation:
 
 Contributors will be recognized in that their names will appear in the attribution for the translation they helped create. For example, see the [draft human-readable page for German](https://github.com/contributorshipcollaboration/credit-translation/blob/main/md_files/credit_translation_de.md).
 
+
+
+## For programmers and project coordinators
+
+How the translation file is created:
+JSON->new file table of finished languages .md->HTML
+
+How the polished landing page is created:
+Hugo partial, then the top of the page can be edited without affecting the rendering of the list of languages. 
+
+How the Contributors welcome pages is created:
 
 ## Contributing to other facets of the project (we'd love your help!)
 

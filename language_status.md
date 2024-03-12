@@ -1,4 +1,4 @@
-| Language  | Translation Status | Github status | Help needed?
+| Language  | Translation Status | Github status | Help needed? 
 | ------------- | ------------- | ------------- | ------------- 
 | Hungarian  | Completed | Completed | No
 | German  | Completed  | Completed  | 
@@ -13,7 +13,8 @@
 | Afrikaans  | 1? volunteer |
 | Swahili  | 1? volunteer |
 | Danish  | Not started - Rasmus Pedersen, Eli Thoré? |
-| Norwegian  | started - Bjørn Sætrevik & Ulvhild Færøvik |
+| Norwegian - Nynorsk  | completed by Bjørn Sætrevik & Ulvhild Færøvik |
+| Norwegia - Bokmal | completed by Bjørn Sætrevik & Ulvhild Færøvik |
 | Hindi  | Not started - 2 volunteers |
 | Greek  | Not started - 2 volunteers |
 | Malayalam | Not started - 1 volunteer
