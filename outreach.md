@@ -1,7 +1,3 @@
-| Language  | Society/Publisher | Contacted? | Response
-| ------------- | ------------- | ------------- | ------------- 
-| German  | ZPID? | No | 
-| Chinese (traditional)  |   | 
-| Russian  |  |
-| Norwegian (both) 
-| Polish | Polish Academy of Science published several journals |  Losia will contact
+Moved to https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/content/projects/translation/outreach.md
+
+This file marked for deletion
