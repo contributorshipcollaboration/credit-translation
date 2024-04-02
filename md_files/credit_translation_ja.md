@@ -1,12 +1,12 @@
 ---
-title: "japanese translation of CRediT"
+title: "Japanese translation of CRediT"
 date: 2024-04-02
-language: "japanese"
+language: "Japanese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_ja.json"
 ---
 
-| English | japanese |
+| English | Japanese |
 | --- | --- |
 | **Conceptualization** | **研究の立案** |
 | Ideas; formulation or evolution of overarching research goals and aims. | アイデア，研究全体の目標および目的の策定や展開． |
