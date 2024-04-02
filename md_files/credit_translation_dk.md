@@ -1,12 +1,12 @@
 ---
-title: "danish translation of CRediT"
+title: "Danish translation of CRediT"
 date: 2024-04-02
-language: "danish"
+language: "Danish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_dk.json"
 ---
 
-| English | danish |
+| English | Danish |
 | --- | --- |
 | **Conceptualization** | **Konceptualisering** |
 | Ideas; formulation or evolution of overarching research goals and aims. | Ideer; formulering eller udvikling af overordnede mål og formål for forskningen. |
