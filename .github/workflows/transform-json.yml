@@ -3,7 +3,7 @@ name: Transform JSON to Markdown
 on:
   push:
     paths:
-      - 'translation/**.json'
+      - 'translations/**.json'
       - 'render/transform.py'
       - 'requirements.txt' 
 
