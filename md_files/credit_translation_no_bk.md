@@ -1,12 +1,12 @@
 ---
-title: "Norwegian - bokmål translation of CRediT"
+title: "Norwegian - Bokmål translation of CRediT"
 date: 2024-04-02
-language: "Norwegian - bokmål"
+language: "Norwegian - Bokmål"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_no_bk.json"
 ---
 
-| English | Norwegian - bokmål |
+| English | Norwegian - Bokmål |
 | --- | --- |
 | **Conceptualization** | **Idéutforming** |
 | Ideas; formulation or evolution of overarching research goals and aims. | Ideer, utforme eller utvikle overordnede mål og delmål for forskningen. |

@@ -1,12 +1,12 @@
 ---
-title: "no_nn translation of CRediT"
+title: "Norwegian - Nynorsk translation of CRediT"
 date: 2024-04-02
-language: "no_nn"
+language: "Norwegian - Nynorsk"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_no_nn.json"
 ---
 
-| English | no_nn |
+| English | Norwegian - Nynorsk |
 | --- | --- |
 | **Conceptualization** | **Id�utforming** |
 | Ideas; formulation or evolution of overarching research goals and aims. | Idear, utforme eller utvikle overordna m�l og delm�l for forskinga. |
