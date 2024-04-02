@@ -1,6 +1,6 @@
 ---
 title: "no_bk translation of CRediT"
-date: 2024-03-12
+date: 2024-04-02
 language: "no_bk"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_no_bk.json"
