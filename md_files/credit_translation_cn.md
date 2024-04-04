@@ -1,6 +1,6 @@
 ---
 title: "Chinese - simplified translation of CRediT"
-date: 2024-04-02
+date: 2024-04-04
 language: "Chinese - simplified"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_cn.json"
@@ -47,5 +47,5 @@ Yefeng  Yang, Wawa  Yu, Alex  Holcombe
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Yefeng  Yang, Wawa  Yu, Alex  Holcombe, Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
-Yefeng did the forward-translation and Keren did the back-translation. Then, Keren (and Alex who doesn't know Chinese) looked through it comparing the original to the back translation and using their own judgment, made small changes and finalized the translation.
+Yefeng did the forward-translation and Wawa did the back-translation. Then, Wawa (and Alex, who doesn't know Chinese) looked through it comparing the original to the back translation and using their own judgment, made small changes and finalized the translation.
 
