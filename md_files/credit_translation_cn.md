@@ -26,7 +26,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools. | 提供研究材料、试剂、材料、患者、实验室样本、动物、仪器、计算资源或其他分析工具。 |
 | **Software** | **软件** |
 | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components. | 编程、软件开发；设计计算机程序；植入计算机代码和支持算法；测试现有代码组件。 |
-| **Supervision** | **指导 ** |
+| **Supervision** | **指导** |
 | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team. | 指导和领导研究活动的规划和执行，包括对核心团队的外部指导。 |
 | **Validation** | **验证** |
 | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. | 对成果/实验成果 (无论是作为独立的研究活动还是其中一部分) 和其他研究成果的整体复制/再现性进行核查。 |
