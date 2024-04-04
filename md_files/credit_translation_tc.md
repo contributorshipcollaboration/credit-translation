@@ -39,13 +39,13 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Yefeng  Yang, Wawa  Yu, Alex  Holcombe
+Yefeng  Yang, Wawa  Yu, [Alex O. Holcombe](https://orcid.org/0000-0003-2869-0085)
 
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Yefeng  Yang, Wawa  Yu, Alex  Holcombe, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Yefeng  Yang, Wawa  Yu, [Alex O. Holcombe](https://orcid.org/0000-0003-2869-0085), Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
-Yefeng did the forward-translation and Keren did the back-translation. Then, Keren (and Alex who doesn't know Chinese) looked through it comparing the original to the back translation and using their own judgment, made small changes and finalized the translation.
+Yefeng did the forward-translation and Wawa did the back-translation. Then, Wawa (and Alex, who doesn't know Chinese) looked through it comparing the original to the back translation and using their own judgment, made small changes and finalized the translation.
 
