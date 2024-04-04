@@ -29,24 +29,24 @@
             "description": "Ideas; formulation or evolution of overarching research goals and aims.",
             "id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
             "translation": {
-                "name": "概念化 ",
-                "description": "科研想法；总体研究目标和目的的制定或迭代。 "
+                "name": "概念化",
+                "description": "科研想法；总体研究目标和目的的制定或迭代。"
             }
         },
         "Data Curation": {
             "description": "Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.",
             "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
             "translation": {
-                "name": "数据管理 ",
-                "description": "注释（生成元数据）、清洗数据和维护研究数据（包括用于数据解读的必要性软件代码）的管理活动，以便初步使用和后续重复使用 。"
+                "name": "数据管理",
+                "description": "注释（生成元数据）、清洗数据和维护研究数据（包括用于数据解读的必要性软件代码）的管理活动，以便初步使用和后续重复使用。"
             }
         },
         "Formal Analysis": {
             "description": "Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data.",
             "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
             "translation": {
-                "name": "正式分析 ",
-                "description": "应用统计学、数学、计算机或其他正式技术来分析或综合研究数据 。"
+                "name": "正式分析",
+                "description": "应用统计学、数学、计算机或其他正式技术来分析或综合研究数据。"
             }
         },
         "Funding Acquisition": {
@@ -78,14 +78,14 @@
             "id": "a693fe76-ea33-49ad-9dcc-5e4f3ac5f938",
             "translation": {
                 "name": "项目管理",
-                "description": "管理和协调研究活动的规划和执行 。"
+                "description": "管理和协调研究活动的规划和执行。"
             }
         },
         "Resources": {
             "description": "Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools.",
             "id": "ebd781f0-bf79-492c-ac21-b31b9c3c990c",
             "translation": {
-                "name": "资源供给 ",
+                "name": "资源供给",
                 "description": "提供研究材料、试剂、材料、患者、实验室样本、动物、仪器、计算资源或其他分析工具。"
             }
         },
@@ -110,7 +110,7 @@
             "id": "4b1bf348-faf2-4fc4-bd66-4cd3a84b9d44",
             "translation": {
                 "name": "验证",
-                "description": "对成果/实验成果 (无论是作为独立的研究活动还是其中一部分) 和其他研究成果的整体复制/再现性进行核查 。"
+                "description": "对成果/实验成果 (无论是作为独立的研究活动还是其中一部分) 和其他研究成果的整体复制/再现性进行核查。"
             }
         },
         "Visualization": {
