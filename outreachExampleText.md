@@ -7,4 +7,4 @@ Your journals X and Y that use CREdiT might benefit from the Polish translation
 About your journals X and Y, it appears that they currently don't use CRediT. It is possible that CRediT would be a worthy addition to .
 CRediT is a standardized way to indicate who did what in the project associated with a scientific paper. Compared to the traditional system of 
 
-	Bjørn Sætrevik <bjorn.satrevik@uib.no> has started a [Google Doc with more](https://docs.google.com/document/d/1uUkyTRW_XZqkOyNOmsM6tKTBAu3_FOXxSr7uBTtDvWg/edit)
+Bjørn Sætrevik has started a [Google Doc with more](https://docs.google.com/document/d/1uUkyTRW_XZqkOyNOmsM6tKTBAu3_FOXxSr7uBTtDvWg/edit)
