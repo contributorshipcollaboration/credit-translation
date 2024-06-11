@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "languageCode": "tc",
+        "languageName": "Chinese - traditional",
+        "translators": [
+            {
+                "firstName": "Yefeng",
+                "lastName": "Yang",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Wawa",
+                "lastName": "Yu",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Alex",
+                "lastName": "Holcombe",
+                "middleName": "O.",
+                "ORCID": "0000-0003-2869-0085"
+            }
+        ],
+        "translationProcedure": "Yefeng did the forward-translation and Wawa did the back-translation. Then, Wawa (and Alex, who doesn't know Chinese) looked through it comparing the original to the back translation and using their own judgment, made small changes and finalized the translation."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "概念化",
+            "description": "科研想法；總體研究目標和目的的製定或迭代。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "資料庋用",
+            "description": "註釋（生成元資料）、清洗資料和維護研究資料（包括用於資料解讀的必要性軟體代碼）的管理活動，以便初步使用和後續重復使用。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "正式分析",
+            "description": "應用統計學、數學、計算機或其他正式技術來分析或綜合研究資料。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "基金獲取",
+            "description": "为本研究企劃爭取基金支持"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "做研究",
+            "description": "開展研究和探索過程，特別是開展實驗或資料\/證據蒐集。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "方法學",
+            "description": "開發或設計方法；構建模型。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "專案管理",
+            "description": "管理和協調研究活動的規劃和執行。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "資源供給",
+            "description": "提供研究材料、試劑、材料、患者、實驗室樣本、動物、儀器、計算資源或其它分析工具。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "軟體",
+            "description": "編程、軟體開發；設計計算機程式；植入計算機代碼和支持算法；測試現有代碼組件。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "指導",
+            "description": "指導和領導研究活動的規劃和執行，包括對核心團隊的外部指導。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "驗證",
+            "description": " 對成果\/實驗成果 (無論是作為獨立的研究活動還是其中一部分) 和其他研究成果的整體復製\/再現性進行核查。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "可視化",
+            "description": "準備、創建和\/或展示已發表的出版作品，特別是可視化\/資料展示。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "撰寫 - 原始草稿",
+            "description": "準備、創作和\/或介紹出版作品，特別是撰寫初稿（包括實質性翻譯）。"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "撰寫 - 評論和編輯",
+            "description": "原研究小組成員對現有工作的關鍵審閱、評述或修訂（包括出版前及出版後的階段）。"
+        }
+    }
+}
