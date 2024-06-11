@@ -115,7 +115,7 @@
                 "description": "Forberede, skape og/eller presentere det publiserte arbeidet, spesifikt visualisering eller datapresentasjon."
             }
         },
-        "Writing â€“ Original Draft Preparation": {
+        "Writing – Original Draft Preparation": {
             "description": "Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).",
             "id": "43ebbd94-98b4-42f1-866b-c930cef228ca",
             "translation": {
@@ -123,8 +123,8 @@
                 "description": "Forberede, skape og/eller presentere det publiserte arbeidet, spesifikt å skrive første utkast (inkludert omfattende oversettelse)."
             }
         },
-        "Writing â€“ Review & Editing": {
-            "description": "Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision â€“ including pre- or post-publication stages.",
+        "Writing – Review & Editing": {
+            "description": "Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages.",
             "id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
             "translation": {
                 "name": "Skriving – revisjon og redigering",
