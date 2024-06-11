@@ -1,6 +1,6 @@
 ---
 title: "Amharic translation of CRediT"
-date: 2024-05-28
+date: 2024-06-11
 language: "Amharic"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_am.json"
@@ -39,12 +39,12 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Befkadu  Mewded](https://orcid.org/https://orcid.org/0000-0002-2853-8430), Mengesha X X
+[Befkadu  Mewded](https://orcid.org/https://orcid.org/0000-0002-2853-8430), [Mengesha  Asefa](https://orcid.org/https://orcid.org/0000-0002-6868-6390)
 
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Befkadu  Mewded](https://orcid.org/https://orcid.org/0000-0002-2853-8430), Mengesha X X, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Befkadu  Mewded](https://orcid.org/https://orcid.org/0000-0002-2853-8430), [Mengesha  Asefa](https://orcid.org/https://orcid.org/0000-0002-6868-6390), Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
 Befkadu Mewded is native speaker of Amharic language and used a reference document of ICT Development Office and Ethiopian Languages Research Center (ELRC) for translation of some ICT terms. Mengesha is a native speaker unfamiliar with CRediT who back-translated the draft translation into English. Then Befkadu compared the original with the back translation and found no problems.
