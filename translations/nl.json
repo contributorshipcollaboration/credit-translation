@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "nl",
+        "languageName": "Dutch",
+        "translators": [
+            {
+                "firstName": "Eli",
+                "lastName": "Thoré",
+                "middleName": "S.J.",
+                "ORCID": "0000-0002-0029-8404"
+            },
+            {
+                "firstName": "Ruben",
+                "lastName": "Thoré",
+                "middleName": "",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "Both translators are native Dutch speakers. ET conducted the initial translation from English to Dutch. RT, who was unfamiliar with CRediT, performed the back-translation from Dutch to English. ET and RT subsequently compared and discussed the two versions, refining the Dutch translation until reaching a consensus. The final translation was approved by both parties."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Conceptualisatie",
+            "description": "Ideeën; formulering of evolutie van overkoepelende onderzoeksdoelen en -doelstellingen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Datacuratie",
+            "description": "Beheersactiviteiten voor het annoteren (metadata produceren), het opschonen en het onderhouden van onderzoeksgegevens (inclusief softwarecode, waar dit nodig is voor het interpreteren van de gegevens zelf) voor initieel gebruik en later hergebruik."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formele analyse",
+            "description": "Toepassing van statistische, wiskundige, computationele of andere formele technieken om studiegegevens te analyseren of te synthetiseren."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Fondsenwerving",
+            "description": "Verwerving van de financiële steun voor het project dat heeft geleid tot deze publicatie."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Onderzoek",
+            "description": "Uitvoeren van een onderzoeksproces, in het bijzonder het uitvoeren van de experimenten of het verzamelen van gegevens\/bewijsmateriaal."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Methodologie",
+            "description": "De ontwikkeling of het ontwerp van de methodologie; het maken van modellen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Projectadministratie",
+            "description": "Verantwoordelijk voor het beheer en de coördinatie van de planning en de uitvoering van onderzoeksactiviteiten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Middelen",
+            "description": "Voorziening van studiematerialen, reagentia, materialen, patiënten, laboratoriummonsters, dieren, instrumentatie, computerbronnen of andere analyse-instrumenten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Software",
+            "description": "Programmeren, softwareontwikkeling; ontwerpen van computerprogramma's; implementatie van de computercode en ondersteunende algoritmen; testen van bestaande codecomponenten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervisie",
+            "description": "Verantwoordelijk voor het toezicht en het leiden van de planning en de uitvoering van onderzoeksactiviteiten, inclusief mentorschap buiten het kernteam."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validatie",
+            "description": "Verificatie, al dan niet als onderdeel van de activiteit, van de algemene replicatie\/herhaalbaarheid van resultaten\/experimenten en andere onderzoeksresultaten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualisatie",
+            "description": "Voorbereiding, creatie en\/of presentatie van het gepubliceerde werk, in het bijzonder visualisatie\/data presentatie."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Schrijven – eerste versie",
+            "description": "Voorbereiding, creatie en\/of presentatie van het gepubliceerde werk, in het bijzonder het schrijven van de initiële versie (inclusief inhoudelijke vertaling)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Schrijven – review en bewerking",
+            "description": "Voorbereiding, creatie en\/of presentatie van het gepubliceerde werk door de leden van de oorspronkelijke onderzoeksgroep, in het bijzonder kritische beoordeling, commentaar of revisie – inclusief pre- of post-publicatiefasen."
+        }
+    }
+}

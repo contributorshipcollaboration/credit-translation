@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "am",
+        "languageName": "Amharic",
+        "translators": [
+            {
+                "firstName": "Befkadu",
+                "lastName": "Mewded",
+                "middleName": "",
+                "ORCID": "https:\/\/orcid.org\/0000-0002-2853-8430"
+            },
+            {
+                "firstName": "Mengesha",
+                "lastName": "Asefa",
+                "middleName": "",
+                "ORCID": "https:\/\/orcid.org\/0000-0002-6868-6390"
+            }
+        ],
+        "translationProcedure": "Befkadu Mewded is native speaker of Amharic language and used a reference document of ICT Development Office and Ethiopian Languages Research Center (ELRC) for translation of some ICT terms. Mengesha is a native speaker unfamiliar with CRediT who back-translated the draft translation into English. Then Befkadu compared the original with the back translation and found no problems."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "ጽንሰ-ሀሳብ",
+            "description": "መነሻ ሀሳብ; አጠቃላይ የምርምር ግቦች እና ዓላማዎችን መቅረጽ"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "የውሂብ አያያዝ",
+            "description": "የምርምር መረጃዎች በዘላቂነት ጥቅም ላይ እንዲውሉ የሚያግዙ የመረጃ ትንተና   (ዝርዝር መግለጫ ማዘጋጀት)፣ ማጥራት እና  መጠበቅ ተግባራት (የሶፍትዌር ኮድን ጨምሮ፡ መረጃውን በራሱ ለመተርጎም አስፈላጊ ሆኖ ከተገኘ)።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "መደበኛ ትንታኔ",
+            "description": "የጥናት መረጃን ለመተንተን ወይም ለማዋሃድ የስነ-ናሙና (ስታቲስቲካል)፣ ሂሳብ፣ ስሌት ወይም ሌሎች መደበኛ ስልቶችን መተግበር።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "የገንዘብ ድጋፍ ማግኘት",
+            "description": "ይህን ህትመት ለሚመራው ፕሮጀክት የገንዘብ ድጋፍ ማግኘት።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "ምርመራ",
+            "description": "ጥናትና ምርምር ሂደት በተለይም ሙከራዎችን (ኢክስፐርመንቶችን)  መስራትና መረጃ መሰብሰብ።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "የአሰራር ዘዴ\/ሜተድ",
+            "description": "የአሰራር ዘዴን መቅረጽ ወይም ማሳደግ; ሞደሎችን መስራት።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "የፕሮጀክት አስተዳደር",
+            "description": "ለምርምር እንቅስቃሴ እቅድ እና አፈፃፀም አስተዳደር እና ማስተባበር ኃላፊነት።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "ሀብት",
+            "description": "የጥናት ቁሳቁሶች, አዋሃጅ, ቁሳቁሶች, ታካሚዎች, የቤተ -ሙከራ ናሙናዎች, እንስሳት, መሳሪያዎች, የኮምፒዩተር መርጃዎች ወይም ሌሎች የትንታኔ መሳሪያዎች አቅርቦት።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "ሶፍትዌር",
+            "description": "ፍርግም, ሶፍትዌር መስራት; የኮምፒውተር ፍርግሞችን መንደፍ; የኮምፒተር ኮድ እና ደጋፊ ስልተ ቀመሮችን መተግበር; የነባር  ኮድ ክፍሎችን መፈተሽ።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "ክትትል",
+            "description": "ለምርምር እንቅስቃሴ እቅድ እና አፈፃፀም የክትትል እና የመሪነት ሃላፊነት፣ ከዋናው ቡድን ውጪ አማካሪነትን ጨምሮ።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "ማረጋገጥ",
+            "description": "እንደ መደበኛ የተግባር አካል ወይም ለብቻ፣ የሙከራዎች (ኢክስፐርመንቶች) እና ሌሎች የምርምር ውጤቶችን አጠቃላይ ተባዥነት\/ተደጋጋሚነት (ትክክለኛነት) ማረጋገጥ።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "ስዕላዊ እይታ",
+            "description": "የታተመውን ሥራ ማዘጋጀት, መፍጠር እና\/ወይም ማቅረብ, በተለይ በስዕላዊ እይታ\/ የውሂብ አቀራረብ።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "መጻፍ - ኦሪጅናል ረቂቅ",
+            "description": "የታተመውን ሥራ ማዘጋጀት፣ መፍጠር እና\/ወይም ማቅረብ፣ በተለይ የመጀመሪያውን ረቂቅ መጻፍ (ተጨባጭ ትርጉምን ጨምሮ)።"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "መጻፍ - መገምገምና እና ማረም",
+            "description": "የታተመውን ሥራ ከመጀመሪያው የጥናት ቡድን በተካተቱ ሰዎች ማዘጋጀት፣ መፍጠር እና\/ወይም ማቅረብ፣ በተለይ ጥልቅ ግምገማ፣ አስተያየት ወይም ማሻሻያ - የቅድመ ወይም የድህረ-ሕትመት ደረጃዎችን ጨምሮ።"
+        }
+    }
+}

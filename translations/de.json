@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "languageCode": "de",
+        "languageName": "German",
+        "translators": [
+            {
+                "firstName": "Timo",
+                "lastName": "Lüke",
+                "middleName": "",
+                "ORCID": "0000-0002-2603-7341"
+            },
+            {
+                "firstName": "Caro",
+                "lastName": "Jansky",
+                "middleName": "",
+                "ORCID": "tba"
+            },
+            {
+                "firstName": "Helena",
+                "lastName": "Hartmann",
+                "middleName": "",
+                "ORCID": "0000-0002-1331-6683"
+            }
+        ],
+        "translationProcedure": "TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Konzeptualisierung",
+            "description": "Ideen; Formulierung oder Entwicklung der übergeordneten Forschungsziele."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Datenpflege",
+            "description": "Tätigkeiten zur Dokumentation (Erstellung von Metadaten), Bereinigung und Pflege von Forschungsdaten (einschließlich Softwarecode, sofern dieser für die Interpretation der Daten selbst erforderlich ist) für die Erstnutzung und spätere Wiederverwendung."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formale Analyse",
+            "description": "Anwendung statistischer, mathematischer, computergestützter oder anderer formalisierter Techniken zur Analyse oder Synthese von Studiendaten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Akquise von Finanzmitteln",
+            "description": "Beschaffung der finanziellen Unterstützung für das Projekt, das zu dieser Veröffentlichung führt."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Untersuchung",
+            "description": "Durchführung eines Forschungs- und Untersuchungsprozesses, insbesondere die Durchführung von Experimenten oder die Sammlung von Daten\/Belegen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Methodik",
+            "description": "Entwicklung oder Design der Methodik; Erstellung von Modellen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Projektverwaltung",
+            "description": "Management- und Koordinationsverantwortung für die Planung und Durchführung der Forschungsaktivitäten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Ressourcen",
+            "description": "Bereitstellung von Studienmaterial, Reagenzien, Materialien, Teilnehmer, Laborproben, Tieren, Instrumenten, Computerressourcen oder anderen Analysewerkzeugen."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Software",
+            "description": "Programmierung, Softwareentwicklung; Entwicklung von Computerprogrammen; Implementierung des Computercodes und unterstützender Algorithmen; Testen bestehender Codekomponenten."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervision",
+            "description": "Aufsichts- und Führungsverantwortung für die Planung und Durchführung der Forschungstätigkeit, einschließlich der Betreuung von außerhalb des Kernteams."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validierung",
+            "description": "Überprüfung der allgemeinen Replikation\/Reproduzierbarkeit von Ergebnissen\/Experimenten und anderen Forschungsleistungen, entweder als Teil der Tätigkeit oder eigenständig."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualisierung",
+            "description": "Vorbereitung, Erstellung und\/oder Präsentation der veröffentlichten Arbeit, insbesondere Visualisierung\/Datenpräsentation."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Schreiben – Originalentwurf",
+            "description": "Vorbereitung, Erstellung und\/oder Präsentation der veröffentlichten Arbeit, insbesondere das Schreiben des ersten Entwurfs (einschließlich wesentlicher Übersetzung)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Schreiben - Überprüfung und Überarbeitung",
+            "description": "Vorbereitung, Erstellung und\/oder Präsentation der veröffentlichten Arbeit durch die Mitglieder der ursprünglichen Forschungsgruppe, insbesondere kritische Überprüfung, Kommentierung oder Überarbeitung - einschließlich der Phasen vor oder nach der Veröffentlichung."
+        }
+    }
+}

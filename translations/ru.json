@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "languageCode": "ru",
+        "languageName": "Russian",
+        "translators": [
+            {
+                "firstName": "Dmitry",
+                "lastName": "Kochetkov",
+                "middleName": "M.",
+                "ORCID": "0000-0001-7890-7532"
+            },
+            {
+                "firstName": "Natalia",
+                "lastName": "Popova",
+                "middleName": "G.",
+                "ORCID": "0000-0001-7856-5413"
+            },
+            {
+                "firstName": "Irina",
+                "lastName": "Kochetkova",
+                "middleName": "A.",
+                "ORCID": "0000-0002-1594-427X"
+            }
+        ],
+        "translationProcedure": "Dmitry Kochetkov prepared the original draft. Irina Kochetkova commented on the original draft and enriched the translation with alternatives. Dmitry Kochetkov conducted a back translation using Yandex.Translate, which scored highest in the DiBiMT benchmark, with analysis of alternatives provided by the software. Translation 3 was taken from https:\/\/doi.org\/10.56414\/jeac.2022.24. Dmitry Kochetkov drafted a summarizing version, which Natalia Popova commented on. The final version was discussed by all contributors and presented at the international conference 'WORLD-CLASS SCIENTIFIC PUBLICATION – 2024: TRANSFORMATION AND SUSTAINABLE DEVELOPMENT' (Kaliningrad, Russia, May 22, 2024). The process and intermediate results are available at https:\/\/zenodo.org\/doi\/10.5281\/zenodo.11204111."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Разработка концепции",
+            "description": "Формулирование замысла\/идеи исследования, целей и задач."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Курирование данных",
+            "description": "Деятельность по аннотированию (созданию метаданных), очистке данных и поддержанию их целостности (включая программный код для интерпретации, где это необходимо) для первоначального и повторного использования."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Формальный анализ",
+            "description": "Применение статистических, математических, вычислительных или других формальных методов для анализа или синтеза данных исследования."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Получение финансирования",
+            "description": "Получение финансовой поддержки исследовательского проекта, результатом которого является данная публикация."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Проведение исследования",
+            "description": "Осуществление научно-исследовательского процесса, включая выполнение экспериментов или сбор данных\/доказательств."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Разработка методологии",
+            "description": "Разработка или проектирование методологии исследования; создание моделей."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Административное руководство исследовательским проектом",
+            "description": "Административное управление планированием и проведением исследования."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Предоставление ресурсов",
+            "description": "Предоставление доступа к необходимым для исследования материалам, реагентам, веществам, лабораторным образцам и животным, оборудованию, вычислительным ресурсам, другим инструментам для анализа, а также обеспечение участия пациентов в исследовании."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Разработка программного обеспечения",
+            "description": "Программирование, разработка и проектирование программного обеспечения; написание программного кода и реализация вспомогательных алгоритмов; тестирование существующих компонентов кода."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Научное руководство",
+            "description": "Контроль, лидерство и наставничество в процессе планирования и проведения исследования."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Валидация результатов",
+            "description": "Проверка воспроизводимости результатов экспериментов и исследования в рамках основных или дополнительных задач работы."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Визуализация",
+            "description": "Создание и подготовка рукописи: визуализация результатов исследования и полученных данных."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Написание черновика рукописи",
+            "description": "Создание и подготовка рукописи: написание черновика рукописи, включая его перевод на иностранный язык."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Написание рукописи – рецензирование и редактирование",
+            "description": "Создание и подготовка рукописи: критический анализ черновика рукописи, внесение замечаний и исправлений членами исследовательской группы, в том числе на этапах до и после публикации."
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "languageCode": "pl",
+        "translators": [
+            {
+                "firstName": "Malgorzata",
+                "lastName": "Lagisz",
+                "middleName": "",
+                "ORCID": "https:\/\/orcid.org\/0000-0002-3993-6127"
+            },
+            {
+                "firstName": "Marta",
+                "lastName": "Kowal",
+                "middleName": "",
+                "ORCID": "https:\/\/orcid.org\/0000-0001-9050-1471"
+            },
+            {
+                "firstName": "Jakub",
+                "lastName": "Krasucki",
+                "middleName": "",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "Malgorzata Lagisz and Marta Kowal, native speakers of Polish, translated from English to Polish together, conferring as they went through the translation. Then, Jakub Krasucki, native speaker of Polish, naive to the original CRediT, performed a back-translation. In the next step, we compared the two versions and arrived at the final translation."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Konceptualizacja",
+            "description": "Pomysły; formułowanie lub tworzenie nadrzędnych celów i zadań badawczych."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Zarządzanie danymi",
+            "description": "Działania związane z dodawaniem adnotacji (tworzeniem metadanych), zarządzanie i porządkowanie danych badawczych (w tym tworzenie kodu oprogramowania, jeśli jest to konieczne do interpretacji samych danych) do początkowego i późniejszego ponownego wykorzystania."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formalna analiza",
+            "description": "Zastosowanie technik statystycznych, matematycznych, lub innych formalnych technik, w celu wykonania analiz lub syntez danych badawczych."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Pozyskanie funduszy",
+            "description": "Zapewnienie środkow finansowych na wykonanie badań prowadzacych do publikacji."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Przeprowadzenie badań",
+            "description": "Przeprowadzenie czynności badawczych, w szczególności wykonanie eksperymentów, lub zbieranie danych badawczych."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodologia",
+            "description": "Opracowanie lub zaprojektowanie metodologii; tworzenie modeli."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Administracja projektu",
+            "description": "Odpowiedzialność za zarządzanie i koordynację planowania i realizacji działań badawczych."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Zasoby",
+            "description": "Dostarczanie materiałów badawczych, odczynników, materiałów, pacjentów, próbek laboratoryjnych, zwierząt, oprzyrządowania, zasobów obliczeniowych lub innych narzędzi analitycznych."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Oprogramowanie",
+            "description": "Programowanie, tworzenie oprogramowania; projektowanie programów komputerowych; implementacja kodu komputerowego i algorytmów wspomagających; testowanie istniejących komponentów kodu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Nadzór",
+            "description": "Nadzór i odpowiedzialność kierownicza za planowanie i realizację działań badawczych, w tym mentoring zewnętrzny w stosunku do głównego zespołu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Walidacja",
+            "description": "Weryfikacja, włączając w to weryfyfikację w ramach projektu lub jako część innej aktywności, ogólnej replikowalności\/reprodukowalności wyników\/eksperymentów i innych elementów badań."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Wizualizacja",
+            "description": "Przygotowanie, stworzenie i\/lub prezentacja opublikowanej pracy, w szczególności wizualizacja\/prezentacja danych."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Pisanie – pierwszy szkic",
+            "description": "Przygotowanie, stworzenie i\/lub prezentacja opublikowanej pracy, w szczególności napisanie wstępnego szkicu (w tym merytoryczne tłumaczenie)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Pisanie – recenzja i edycja",
+            "description": "Przygotowanie, stworzenie i\/lub prezentacja opublikowanej pracy przez osoby z początkowej grupy badawczej, w szczególności krytyczna recenzja, komentarz lub korekta - włączając etapy przed lub po publikacji."
+        }
+    }
+}
