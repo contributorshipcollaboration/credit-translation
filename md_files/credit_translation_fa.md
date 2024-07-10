@@ -1,6 +1,6 @@
 ---
 title: "Farsi translation of CRediT"
-date: 2024-07-09
+date: 2024-07-10
 language: "Farsi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/credit_translation_fa.json"
@@ -47,5 +47,5 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Saeed  Shafiei Sabet](https://orcid.org/https://orcid.org/0000-0001-5919-2527), [Marziyeh  Amini Fard](https://orcid.org/0000-0002-4565-8979), Brand, Allen, Altman, Hlava, & Scott
 ## Translation Procedure
 
-Saeed Shafiei Sabet is native speaker of farsi language and familiar with CRediT. Marziyeh Amini Fard is a native speaker who back-translated the draft translation into English. Then Saeed Shafiei Sabet compared the original with the back translation and found no profound problems or serious missmatch.
+Saeed Shafiei Sabet is native speaker of farsi language and familiar with CRediT. Marziyeh Amini Fard is a native speaker who back-translated the draft translation into English. Then Saeed Shafiei Sabet compared the original with the back-translation and found no profound problems or serious mismatch.
 
