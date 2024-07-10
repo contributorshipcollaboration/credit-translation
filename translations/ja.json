@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "ja",
+        "languageName": "Japanese",
+        "translators": [
+            {
+                "firstName": "Ayumi",
+                "lastName": "Mizuno",
+                "middleName": "",
+                "ORCID": "0000-0003-0822-5637"
+            },
+            {
+                "firstName": "Sawaka",
+                "lastName": "Oka",
+                "middleName": "",
+                "ORCID": "NA"
+            }
+        ],
+        "translationProcedure": "We are native speakers of Japanese. AM translated the text from English to Japanese. Then, we discussed the translation together to see if it is appropriate. Finally, we reached a consensus. When translating between English and Japanese, it is not always possible to guarantee a perfect one-to-one correspondence between the translation and the original text. This is because there may be multiple possible translations for a given word or phrase. However, AM has tried to minimise the differences between the original and the back-translated text."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "研究の立案",
+            "description": "アイデア，研究全体の目標および目的の策定や展開．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "データ収集・整理",
+            "description": "最初およびその後の再使用のために，データに注釈を加える（メタデータの生成），データを整理する，研究データ（データ自体を解釈するのに必要なソフトウェアコードを含む）を維持するといった管理活動．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "正式な解析の実施",
+            "description": "統計的，数学的，またはその他の正式な手法に基づいた，コンピュータ利用を含む研究データの分析や統合．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "研究資金の調達",
+            "description": "本出版物につながる研究プロジェクトを実行するための金銭的サポートの獲得．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "調査・検証",
+            "description": "研究および調査／検証プロセスの実施，特に，実験の実施あるいはデータやエビデンスの収集．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "研究方法",
+            "description": "研究方法の開発または設計，あるいはモデルの作成（モデルの作成：複雑な現象や直接観察することが難しい現象を理解するために使用できる概念的な枠組みなどを開発すること）．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "研究プロジェクトの管理",
+            "description": "研究活動の計画と実行に対する管理と調整の責任．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "研究を行う上で必要な諸要素",
+            "description": "研究素材，試薬，材料，患者， 実験用試料，動物，機器，計算リソース，あるいはその他分析ツールの調達．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "研究に使うソフトウェア関連",
+            "description": "プログラミングやソフトウェアの開発，コンピュータプログラムの設計，コード／アルゴリズムの実装，または既存コードに含まれる構成要素のテスト．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "研究の監督",
+            "description": "中心となる研究チーム以外への指導を含む，研究活動の計画と実行に関する監督および主導の責任．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "研究の検証",
+            "description": "研究プロジェクトの一環であるか否かを問わず，結果／実験およびその他研究成果の全体的な再現性／再現可能性の検証．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "研究の可視化",
+            "description": "出版物の準備，作成，および\/または発表，特に研究の視覚化／データの提示．"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "執筆 – 草稿作成",
+            "description": "出版物の準備，作成，および\/または発表，特に初稿の執筆（翻訳作業も含む）."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "執筆 – レビューおよび校閲",
+            "description": "オリジナルの研究グループによる出版物の準備，作成，および／または発表，特に批判的なレビュー，コメントおよび改訂（出版前または出版後の段階を含む）．"
+        }
+    }
+}
