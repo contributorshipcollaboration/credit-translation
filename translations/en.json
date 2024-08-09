@@ -1,5 +1,10 @@
 {
-    "metadata": [],
+    "metadata": {
+        "languageCode": "en",
+        "languageName": "English",
+        "translators": [],
+        "translationProcedure": ""
+    },
     "translations": {
         "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
             "name": "Conceptualization",
