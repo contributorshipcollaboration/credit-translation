@@ -9,33 +9,33 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | German | English |
 | --- | --- |
 | **Konzeptualisierung** | **Conceptualization** |
-| Ideen; Formulierung oder Entwicklung der übergeordneten Forschungsziele. |  |
+| Ideen; Formulierung oder Entwicklung der übergeordneten Forschungsziele. | Ideas; formulation or evolution of overarching research goals and aims. |
 | **Datenpflege** | **Data Curation** |
-| Tätigkeiten zur Dokumentation (Erstellung von Metadaten), Bereinigung und Pflege von Forschungsdaten (einschließlich Softwarecode, sofern dieser für die Interpretation der Daten selbst erforderlich ist) für die Erstnutzung und spätere Wiederverwendung. |  |
+| Tätigkeiten zur Dokumentation (Erstellung von Metadaten), Bereinigung und Pflege von Forschungsdaten (einschließlich Softwarecode, sofern dieser für die Interpretation der Daten selbst erforderlich ist) für die Erstnutzung und spätere Wiederverwendung. | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use. |
 | **Formale Analyse** | **Formal Analysis** |
-| Anwendung statistischer, mathematischer, computergestützter oder anderer formalisierter Techniken zur Analyse oder Synthese von Studiendaten. |  |
+| Anwendung statistischer, mathematischer, computergestützter oder anderer formalisierter Techniken zur Analyse oder Synthese von Studiendaten. | Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data. |
 | **Akquise von Finanzmitteln** | **Funding Acquisition** |
-| Beschaffung der finanziellen Unterstützung für das Projekt, das zu dieser Veröffentlichung führt. |  |
+| Beschaffung der finanziellen Unterstützung für das Projekt, das zu dieser Veröffentlichung führt. | Acquisition of the financial support for the project leading to this publication. |
 | **Untersuchung** | **Investigation** |
-| Durchführung eines Forschungs- und Untersuchungsprozesses, insbesondere die Durchführung von Experimenten oder die Sammlung von Daten/Belegen. |  |
+| Durchführung eines Forschungs- und Untersuchungsprozesses, insbesondere die Durchführung von Experimenten oder die Sammlung von Daten/Belegen. | Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection. |
 | **Methodik** | **Methodology** |
-| Entwicklung oder Design der Methodik; Erstellung von Modellen. |  |
+| Entwicklung oder Design der Methodik; Erstellung von Modellen. | Development or design of methodology; creation of models. |
 | **Projektverwaltung** | **Project Administration** |
-| Management- und Koordinationsverantwortung für die Planung und Durchführung der Forschungsaktivitäten. |  |
+| Management- und Koordinationsverantwortung für die Planung und Durchführung der Forschungsaktivitäten. | Management and coordination responsibility for the research activity planning and execution. |
 | **Ressourcen** | **Resources** |
-| Bereitstellung von Studienmaterial, Reagenzien, Materialien, Teilnehmer, Laborproben, Tieren, Instrumenten, Computerressourcen oder anderen Analysewerkzeugen. |  |
+| Bereitstellung von Studienmaterial, Reagenzien, Materialien, Teilnehmer, Laborproben, Tieren, Instrumenten, Computerressourcen oder anderen Analysewerkzeugen. | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools. |
 | **Software** | **Software** |
-| Programmierung, Softwareentwicklung; Entwicklung von Computerprogrammen; Implementierung des Computercodes und unterstützender Algorithmen; Testen bestehender Codekomponenten. |  |
+| Programmierung, Softwareentwicklung; Entwicklung von Computerprogrammen; Implementierung des Computercodes und unterstützender Algorithmen; Testen bestehender Codekomponenten. | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components. |
 | **Supervision** | **Supervision** |
-| Aufsichts- und Führungsverantwortung für die Planung und Durchführung der Forschungstätigkeit, einschließlich der Betreuung von außerhalb des Kernteams. |  |
+| Aufsichts- und Führungsverantwortung für die Planung und Durchführung der Forschungstätigkeit, einschließlich der Betreuung von außerhalb des Kernteams. | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team. |
 | **Validierung** | **Validation** |
-| Überprüfung der allgemeinen Replikation/Reproduzierbarkeit von Ergebnissen/Experimenten und anderen Forschungsleistungen, entweder als Teil der Tätigkeit oder eigenständig. |  |
+| Überprüfung der allgemeinen Replikation/Reproduzierbarkeit von Ergebnissen/Experimenten und anderen Forschungsleistungen, entweder als Teil der Tätigkeit oder eigenständig. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Visualisierung** | **Visualization** |
-| Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit, insbesondere Visualisierung/Datenpräsentation. |  |
+| Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit, insbesondere Visualisierung/Datenpräsentation. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
 | **Schreiben – Originalentwurf** | **Writing – Original Draft Preparation** |
-| Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit, insbesondere das Schreiben des ersten Entwurfs (einschließlich wesentlicher Übersetzung). |  |
+| Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit, insbesondere das Schreiben des ersten Entwurfs (einschließlich wesentlicher Übersetzung). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
 | **Schreiben - Überprüfung und Überarbeitung** | **Writing – Review & Editing** |
-| Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit durch die Mitglieder der ursprünglichen Forschungsgruppe, insbesondere kritische Überprüfung, Kommentierung oder Überarbeitung - einschließlich der Phasen vor oder nach der Veröffentlichung. |  |
+| Vorbereitung, Erstellung und/oder Präsentation der veröffentlichten Arbeit durch die Mitglieder der ursprünglichen Forschungsgruppe, insbesondere kritische Überprüfung, Kommentierung oder Überarbeitung - einschließlich der Phasen vor oder nach der Veröffentlichung. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |
 
 ## Translators
 
