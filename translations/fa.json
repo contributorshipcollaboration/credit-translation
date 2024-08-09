@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "fa",
+        "languageName": "Farsi",
+        "translators": [
+            {
+                "firstName": "Saeed",
+                "lastName": "Shafiei Sabet",
+                "middleName": "",
+                "ORCID": "https:\/\/orcid.org\/0000-0001-5919-2527"
+            },
+            {
+                "firstName": "Marziyeh",
+                "lastName": "Amini Fard",
+                "middleName": "",
+                "ORCID": "0000-0002-4565-8979"
+            }
+        ],
+        "translationProcedure": "Saeed Shafiei Sabet is native speaker of farsi language and familiar with CRediT. Marziyeh Amini Fard is a native speaker who back-translated the draft translation into English. Then Saeed Shafiei Sabet compared the original with the back-translation and found no profound problems or serious mismatch."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "مفهوم سازی",
+            "description": "ایده ها؛ تدوین یا تکامل اهداف کلی تحقیق و اهداف."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "ساماندهی داده ها - گزینش داده ها",
+            "description": "فعالیت های مدیریتی برای حاشیه نویسی (تولید فراداده ها)، تمیز کردن داده ها و نگهداری داده های تحقیق (شامل کد نرم افزار، جایی که برای تفسیر خود داده ها ضروری است) برای استفاده اولیه و استفاده مجدد بعدی.ا"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "تحلیل رسمی",
+            "description": "استفاده و کاربرد روش های آماری، ریاضی، محاسباتی، یا سایر تکنیک ها و شیوه های رسمی برای تجزیه و تحلیل یا ترکیب داده های مطالعه."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "تامین مالی",
+            "description": "کسب حمایت مالی برای هدایت و رهبری پروژه برای چاپ این مقاله."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "بررسی",
+            "description": "انجام یک فرایند تحقیق و بررسی، به طور خاص انجام آزمایش ها، یا جمع آوری داده ها \/ شواهد."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "روش شناسی",
+            "description": "توسعه یا طراحی روش شناسی، ایجاد مدل ها."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "مدیریت پروژه",
+            "description": "مسئولیت مدیریت و هماهنگی برنامه ریزی برای برنامه ریزی و  اجرای فعالیت های پژوهشی."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "منابع",
+            "description": "تهیه مواد تحقیق و مطالعه، معرف ها، مواد، بیماران، نمونه های آزمایشگاهی، جانوران، تجهیزات و ابزار دقیق، منابع محاسباتی یا سایر ابزارهای آنالیز"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "نرم افزار",
+            "description": "برنامه نویسی، توسعه نرم افزار، طراحی برنامه های رایانه ای، پیادهسازی کد رایانه و الگوریتم های پشتیبانی، تست اجزاء کد موجود."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "نظارت",
+            "description": "مسئولیت نظارت و رهبری برای برنامه ریزی و اجرای فعالیت های تحقیقاتی، از جمله مربی گری خارج از تیم اصلی."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "اعتبار سنجی",
+            "description": "راستی آزمایی، چه به عنوان بخشی از فعالیت یا جداگانه، از تکرار کلی \/تکرارپذیری نتایج\/آزمایش ها و سایر خروجی های تحقیقاتی."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "تجسم و تصویرسازی",
+            "description": "የآماده سازی، ایجاد و\/ یا ارائه اثر یا کار پژوهشی منتشر شده به ویژه تجسم و تصویرسازی\/ ارائه داده ها."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "نوشتن - پیش نویس اصلی",
+            "description": "تهیه، ایجاد و \/ یا ارائه اثر یا کار پژوهشی منتشر شده، به ویژه نوشتن پیش نویس اولیه (از جمله ترجمه عمده و اساسی)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "نوشتن - بررسی و مرور و ویرایش",
+            "description": "تهیه، ایجاد و \/ یا ارائه اثر یا کار پژوهشی منتشر شده توسط افرادی از گروه تحقیقاتی اصلی، به ویژه بررسی انتقادی، تفسیر یا تجدید نظر - از جمله مراحل قبل و بعد انتشار"
+        }
+    }
+}
