@@ -103,7 +103,7 @@ except fastjsonschema.JsonSchemaException as e:
     print("JSON data does not conform to the schema")
     print(e)
 
-file_path = f"/automatic_translations/{lang}.json"
+file_path = f"./automatic_translations/{lang}.json"
 os.makedirs(os.path.dirname(file_path), exist_ok=True)
 # Write the JSON data to a file in translations folder
 with open(file_path, 'w') as json_file:
