@@ -1,6 +1,6 @@
 ---
 title: "Danish translation of CRediT"
-date: 2024-08-16
+date: 2024-09-06
 language: "Danish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/dk.json"
