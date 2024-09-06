@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "languageCode": "es",
+        "languageName": "Spanish",
+        "translators": [
+            {
+                "firstName": "Riva",
+                "lastName": "Quiroga",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Marc",
+                "lastName": "Bria",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Jordi",
+                "lastName": "Lacruz",
+                "middleName": "",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "Riva Quiroga did a first translation by herself, after which Jordi Lacruz and Marc Bria finished the translation and reviewed the first attempt."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Conceptualización",
+            "description": "Ideas; formulación o evolución de los objetivos y metas generales de la investigación."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Curación de datos",
+            "description": "Actividades de gestión para producir metadatos, depurar datos y mantener los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los propios datos) para su uso inicial y posterior reutilización."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Análisis formal",
+            "description": "Aplicación de técnicas estadísticas, matemáticas, computacionales u otras técnicas formales para analizar o sintetizar los datos del estudio."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Captación de fondos",
+            "description": "Obtención del apoyo financiero para el proyecto que derivó en esta publicación."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Investigación",
+            "description": "Ejecución del proceso de investigación y desarrollo, específicamente la realización de experimentos o la recolección de datos/evidencia."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodología",
+            "description": "Desarrollo o diseño de la metodología; creación de modelos."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Administración del proyecto",
+            "description": "Responsable de la gestión y coordinación de la planificación y la ejecución de la actividad de investigación."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Recursos",
+            "description": "Suministro de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Software",
+            "description": "Programación, desarrollo de software; diseño de programas informáticos; implementación del código informático y de los algoritmos de apoyo; prueba de los componentes de código existentes."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervisión",
+            "description": "Responsable de la supervisión y el liderazgo en la planificación y ejecución de la actividad de investigación, incluida la mentoría a personal externo al equipo central."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validación",
+            "description": "Verificación, ya sea como parte de la actividad o por separado, de la replicabilidad/reproducibilidad general de los resultados/experimentos y otros productos de la investigación."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualización",
+            "description": "Preparación, creación y/o presentación del trabajo publicado, específicamente la visualización y la presentación de datos."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Escritura - borrador original",
+            "description": "Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del borrador inicial (incluida la traducción si es sustancial)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Escritura - revisión y edición",
+            "description": "Preparación, creación y/o presentación del trabajo publicado por parte de los miembros del grupo de investigación original, concretamente la revisión crítica, el debate o la revisión, incluyendo las fases previas o posteriores a la publicación."
+        }
+    }
+}
