@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Riva  Quiroga, Marc  Bria Ramirez, Jordi  Lacruz Casado
+[Riva  Quiroga](https://orcid.org/0000-0002-1147-4135), Marc  Bria Ramirez, Jordi  Lacruz Casado
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Riva  Quiroga, Marc  Bria Ramirez, Jordi  Lacruz Casado
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Riva  Quiroga, Marc  Bria Ramirez, Jordi  Lacruz Casado, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Riva  Quiroga](https://orcid.org/0000-0002-1147-4135), Marc  Bria Ramirez, Jordi  Lacruz Casado, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
