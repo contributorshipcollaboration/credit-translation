@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "languageCode": "fr",
+        "languageName": "French",
+        "translators": [
+            {
+                "firstName": "David",
+                "lastName": "Vaidis",
+                "middleName": "C.",
+                "ORCID": "0000-0002-1954-2219"
+            },
+            {
+                "firstName": "Marie-Amélie",
+                "lastName": "Gourdon-Kanhukamwe",
+                "middleName": "",
+                "ORCID": "0000-0002-3060-1320"
+            },
+
+        ],
+        "translationProcedure": "Amélie Gourdon-Kanhukamwe and David Vaidis, both native French speakers, translated from English to French together, conferring as they went through the translation. Finalization and choices were made by David Vaidis. Back translation and comparison were made with Claude.IA under the responsibility of David Vaidis."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Conceptualisation",
+            "description": "Génération des idées initiales ; formulation et développement des objectifs et problématiques de recherche."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Préparation des données",
+            "description": "Activités de gestion consistant à annoter les données (production de méta-données), nettoyer les données et permettre la conservation de ces données de recherche (incluant, si nécessaire, le code logiciel pour interpréter les données elles-mêmes) en vue de l'utilisation initiale et de leur réutilisation ultérieure."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Analyse formelle",
+            "description": "Appplication des techniques statistiques, mathématiques, computationnelles, ou de tous autres techniques, dans l'optique d'analyser ou de synthétiser les données de l'étude."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Acquisition de financements",
+            "description": "Acquisition de financements pour le projet contribuant à sa publication."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Investigation",
+            "description": "Conduite d'un processus de recherche et d'investigation, en particulier réalisation des expériences ou collecte de données/preuves."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Méthodologie",
+            "description": "Elaboration ou conception de la méthodologie; création de modèles."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Administration du projet",
+            "description": "Gestion et responsabilité de la coordination des activités de recherche, incluant la planification et de l'exécution."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Ressources",
+            "description": "Mise à disposition de matériels pour l'étude, de réactifs, de matériaux, de patients, d'échantillons de laboratoire, d'animaux, d'instruments, de ressources computationnelles, ou de tous autres outils d'analyse."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Logiciel(s)",
+            "description": "Programmation, développement de logiciels et programmes informatiques; implémentation du code informatique et des algorythmes; test des composantes du code existant."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervision",
+            "description": "RResponsabilité de supervision de la planification et de l'exécution des activités de recherche, y compris la supervision externe à l'équipe principale."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validation",
+            "description": "Vérification, soit dans le cadre de l'activité soit séparément, de la réplication/reproductibilité globale des résultats/expériences et autres productions de la recherche."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Présentation visuelle",
+            "description": "Préparation, création et/ou présentation de la publication, spécifiquement en présentation visuelle et/ou des données."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Rédaction - ébauche du manuscrit initial",
+            "description": "Préparation, création et/ou présentation de la publication, spécifiquement de la première version (incluant de la traduction substantielle)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Rédaction - relectures et corrections",
+            "description": "Préparation, création et/ou présentation de la publication par les collaborateurs appartenant au groupe d'origine, en particulier les revues critiques, commentaires et révisions - incluant les étapes préalables ou suivant les stades de publication."
+        }
+    }
+}
