@@ -1,6 +1,6 @@
 ---
 title: "Korean translation of CRediT"
-date: 2024-10-09
+date: 2024-10-10
 language: "Korean"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Jin-Won  Lee, Hye-Kyoung  Moon, Dongjin  Kim
+[Jin-Won  Lee](https://orcid.org/0000-0001-6643-8863), [Hye-Kyoung  Moon](https://orcid.org/0000-0001-5260-4154), Dongjin  Kim
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Jin-Won  Lee, Hye-Kyoung  Moon, Dongjin  Kim
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Jin-Won  Lee, Hye-Kyoung  Moon, Dongjin  Kim, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jin-Won  Lee](https://orcid.org/0000-0001-6643-8863), [Hye-Kyoung  Moon](https://orcid.org/0000-0001-5260-4154), Dongjin  Kim, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

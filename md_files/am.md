@@ -1,6 +1,6 @@
 ---
 title: "Amharic translation of CRediT"
-date: 2024-10-09
+date: 2024-10-10
 language: "Amharic"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/am.json"
