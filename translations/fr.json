@@ -29,7 +29,7 @@
         },
         "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
             "name": "Analyse formelle",
-            "description": "Appplication des techniques statistiques, mathématiques, computationnelles, ou de tous autres techniques, dans l'optique d'analyser ou de synthétiser les données de l'étude."
+            "description": "Application des techniques statistiques, mathématiques, computationnelles, ou de toutes autres techniques, dans l'optique d'analyser ou de synthétiser les données de l'étude."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
             "name": "Acquisition de financements",
@@ -53,11 +53,11 @@
         },
         "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
             "name": "Logiciel(s)",
-            "description": "Programmation, développement de logiciels et programmes informatiques; implémentation du code informatique et des algorythmes; test des composantes du code existant."
+            "description": "Programmation, développement de logiciels et programmes informatiques; implémentation du code informatique et des algorithmes; test des composantes du code existant."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
             "name": "Supervision",
-            "description": "RResponsabilité de supervision de la planification et de l'exécution des activités de recherche, y compris la supervision externe à l'équipe principale."
+            "description": "Responsabilité de supervision de la planification et de l'exécution des activités de recherche, y compris la supervision externe à l'équipe principale."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
             "name": "Validation",
