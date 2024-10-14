@@ -1,6 +1,6 @@
 ---
 title: "French translation of CRediT"
-date: 2024-10-10
+date: 2024-10-14
 language: "French"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fr.json"
@@ -13,7 +13,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | **Préparation des données** | **Data Curation** |
 | Activités de gestion consistant à annoter les données (production de méta-données), nettoyer les données et permettre la conservation de ces données de recherche (incluant, si nécessaire, le code logiciel pour interpréter les données elles-mêmes) en vue de l'utilisation initiale et de leur réutilisation ultérieure. | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use. |
 | **Analyse formelle** | **Formal Analysis** |
-| Appplication des techniques statistiques, mathématiques, computationnelles, ou de tous autres techniques, dans l'optique d'analyser ou de synthétiser les données de l'étude. | Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data. |
+| Application des techniques statistiques, mathématiques, computationnelles, ou de toutes autres techniques, dans l'optique d'analyser ou de synthétiser les données de l'étude. | Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data. |
 | **Acquisition de financements** | **Funding Acquisition** |
 | Acquisition de financements pour le projet contribuant à sa publication. | Acquisition of the financial support for the project leading to this publication. |
 | **Investigation** | **Investigation** |
@@ -25,9 +25,9 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | **Ressources** | **Resources** |
 | Mise à disposition de matériels pour l'étude, de réactifs, de matériaux, de patients, d'échantillons de laboratoire, d'animaux, d'instruments, de ressources computationnelles, ou de tous autres outils d'analyse. | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools. |
 | **Logiciel(s)** | **Software** |
-| Programmation, développement de logiciels et programmes informatiques; implémentation du code informatique et des algorythmes; test des composantes du code existant. | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components. |
+| Programmation, développement de logiciels et programmes informatiques; implémentation du code informatique et des algorithmes; test des composantes du code existant. | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components. |
 | **Supervision** | **Supervision** |
-| RResponsabilité de supervision de la planification et de l'exécution des activités de recherche, y compris la supervision externe à l'équipe principale. | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team. |
+| Responsabilité de supervision de la planification et de l'exécution des activités de recherche, y compris la supervision externe à l'équipe principale. | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team. |
 | **Validation** | **Validation** |
 | Vérification, soit dans le cadre de l'activité soit séparément, de la réplication/reproductibilité globale des résultats/expériences et autres productions de la recherche. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Présentation visuelle** | **Visualization** |
