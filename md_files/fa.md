@@ -1,6 +1,6 @@
 ---
 title: "Farsi translation of CRediT"
-date: 2024-10-14
+date: 2024-12-18
 language: "Farsi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fa.json"
