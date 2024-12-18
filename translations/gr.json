@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "languageCode": "gr",
+        "languageName": "Greek",
+        "translators": [
+            {
+                "firstName": "Elina",
+                "lastName": "Takola",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Stavroula",
+                "lastName": "Litsiou",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Georgia",
+                "lastName": "Daraki",
+                "middleName": "",
+                "ORCID": ""
+            },            
+        ],
+        "translationProcedure": "Elina Takola did the translation, Stavroula Litsiou did the back-translation. Elina Takola, Stavroula Litsiou and Georgia Daraki proof-read the translated text."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Εννοιολόγηση",
+            "description": "Ιδέες - διατύπωση ή εξέλιξη των ερευνητικών σκοπών και στόχων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Επιμέλεια δεδομένων",
+            "description": "Διαχείριση δραστηριοτήτων για την επισημείωση (παραγωγή μεταδεδομένων), έλεγχο και συντήρηση δεδομένων (συμπεριλαμβανομένου του κώδικα λογισμικού, ο οποίος είναι απαραίτητος για την ερνημεία των δεδομένων) για αρχική χρήση και επαναχρησιμοποίηση."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Επίσημη ανάλυση",
+            "description": "Εφαρμογή στατιστικών, μαθηματικών, υπολογιστικών και άλλων επίσημων τεχνικών για την ανάλυση και σύνθεση των δεδομένων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Απόκτηση χρηματοδότησης",
+            "description": "Λήψη χρηματοδότησης για το ερευνητικό έργο που κατέληξε στην παρούσα δημοσίευση."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Έρευνα",
+            "description": "Διεξαγωγή ερευνητικής διαδικασίας, ειδικότερα υλοποίηση πειραμάτων, ή συλλογή δεδομένων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Μεθοδολογία",
+            "description": "Ανάπτυξη ή σχεδιασμός μεθοδολογίας, δημιουργία μοντέλων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Διαχείριση ερευνητικού έργου",
+            "description": "Ευθύνη διαχείρισης και συντονισμού για το σχεδιασμό και την εκτέλεση της ερευνητικής δραστηριότητας."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Πόροι",
+            "description": "Παροχή υλικού μελέτης, αντιδραστηρίων, αναλώσιμων, ασθενών, εργαστηριακών δειγμάτων, πειραματόζωων, μηχανημάτων, υπολογιστικών πόρων ή άλλων εργαλείων ανάλυσης."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Λογισμικό",
+            "description": "Προγραμματισμός, ανάπτυξη λογισμικού, σχεδιασμός προγραμμάτων υπολογιστών, εφαρμογή υπολογιστικού κώδικα και αλγορίθμων υποστήριξης, έλεγχος του υπάρχοντα κώδικα και των δομικών του στοιχείων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Επίβλεψη",
+            "description": "Ευθύνη εποπτείας και ηγεσίας για το σχεδιασμό και την εφαρμογή της ερευνητικής δραστηριότητας, συμπεριλαμβανομένης της εξωτερικής συμβουλευτικής προς την ερευνητική ομάδα."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Έλεγχος εγκυρότητας",
+            "description": "Επαλήθευση, είτε ως μέρος της ερευνητικής δραστηριότητας είτε ξεχωριστά, της γενικότερης αναπαραγωγής/επαναληψιμότητας των αποτελεσμάτων/πειραμάτων ή άλλων ερευνητικών αποτελεσμάτων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Απεικόνιση",
+            "description": "Προετοιμασία, δημιουργία ή/και παρουσίαση των δημοσιεύσεων, συγκεκριμένα απεικόνιση/παρουσίαση των αποτελεσμάτων."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Συγγραφή - αρχικό προσχέδιο",
+            "description": "Προετοιμασία, δημιουργία ή/και παρουσίαση των δημοσιεύσεων, συγκεκριμένα συγγραφή του αρχικού προσχέδιου (συμπερολαμβανομένης ακριβούς μετάφρασης)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Συγγραφή - αναθεώρηση και επεξεργασία",
+            "description": "Προετοιμασία, δημιουργία ή/και παρουσίαση των δημοσιεύσεων από τα ατομα της αρχικής ερευνητικής ομάδας, συγκεκριμένα κριτική αξιολόγηση, σχολιασμός ή αναθεώρηση - συμπεριλαμβανομένων των σταδίων πριν και μετά τη δημοσίευση."
+        }
+    }
+}
