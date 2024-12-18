@@ -51,4 +51,4 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translation Procedure
 
-Nina Trubanová and Radana Chytilová localised from English to Czech indepentently, then compared the two translations and agreed on the final version.
+Nina Trubanová and Radana Chytilová localised from English to Czech independently, then compared the two translations and agreed on the final version.
