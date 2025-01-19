@@ -1,6 +1,6 @@
 ---
 title: "Spanish translation of CRediT"
-date: 2024-12-18
+date: 2025-01-19
 language: "Spanish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/es.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Riva  Quiroga](https://orcid.org/0000-0002-1147-4135), Marc  Bria Ramirez, Jordi  Lacruz Casado
+[Riva  Quiroga](https://orcid.org/0000-0002-1147-4135), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941), [Jordi  Lacruz Casado](https://orcid.org/0000-0002-5053-6941)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Riva  Quiroga](https://orcid.org/0000-0002-1147-4135), Marc  Bria Ramirez, Jordi  Lacruz Casado, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Riva  Quiroga](https://orcid.org/0000-0002-1147-4135), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941), [Jordi  Lacruz Casado](https://orcid.org/0000-0002-5053-6941), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

@@ -1,6 +1,6 @@
 ---
 title: "German translation of CRediT"
-date: 2024-12-18
+date: 2025-01-19
 language: "German"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/de.json"
