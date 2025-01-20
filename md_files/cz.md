@@ -1,6 +1,6 @@
 ---
 title: "Czech translation of CRediT"
-date: 2025-01-19
+date: 2025-01-20
 language: "Czech"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cz.json"
