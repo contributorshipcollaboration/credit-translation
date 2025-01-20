@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "ml",
+        "languageName": "Malayalam",
+        "translators": [
+            {
+                "firstName": "Aswathi",
+                "lastName": "Surendran",
+                "middleName": "",
+                "ORCID": "0000-0002-8709-6417"
+            },
+            {
+                "firstName": "Varada",
+                "lastName": "Potty",
+                "middleName": "Sadanandan",
+                "ORCID": "na"
+            }
+        ],
+        "translationProcedure": " Translated from English to Malayalam by Dr Aswathi Surendran and back translated by Ms Varada Sadanandan Potty,  and agreed on the final version."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "ആശയവൽക്കരണം",
+            "description": "ആശയങ്ങൾ; ഗവേഷണ ലക്ഷ്യങ്ങളുടെയും ഉദ്ദേശങ്ങളുടെയും സമഗ്രമായ രൂപീകരണം."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "വിവര പരിപാലനം / ഡാറ്റ ക്യൂറേഷൻ",
+            "description": "പ്രാരംഭ ഉപയോഗത്തിനും പിന്നീട് വീണ്ടും ഉപയോഗത്തിനുമായി അനുബന്ധം തയ്യാറാക്കുക (Productes metadata), ഡാറ്റ സ്ക്രബ് (പിശകുകൾ, പൊരുത്തക്കേടുകൾ, തനിപ്പകർപ്പുകൾ എന്നിവ നീക്കം ചെയ്യുന്നതിനായി ഡാറ്റ വൃത്തിയാക്കുന്നതിനും പരിശോധിക്കുന്നതിനുമുള്ള പ്രക്രിയയാണ് ഡാറ്റ സ്‌ക്രബ്ബിംഗ്) ചെയ്ത് ഗവേഷണ ഡാറ്റ സംരക്ഷിക്കുക (സോഫ്റ്റ് വെയർ കോഡ് ഉൾപ്പെടെ, ഡാറ്റ വ്യാഖ്യാനിക്കേണ്ടത് ആവശ്യമുള്ള സാഹചര്യത്തിൽ )."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "ഔദ്യോഗിക വിശകലനം",
+            "description": "ഗവേഷണ ഡാറ്റ വിശകലനം ചെയ്യുന്നതിനോ സമന്വയിപ്പിക്കുന്നതിനോ ഉള്ള സ്റ്റാറ്റിസ്റ്റിക്കൽ, മാത്തമാറ്റിക്കൽ, കമ്പ്യൂട്ടേഷണൽ അല്ലെങ്കിൽ മറ്റ് ഔപചാരിക സാങ്കേതിക വിദ്യകളുടെ ഉപയോഗം."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "(പ്രാരംഭ) സാമ്പത്തിക സമാഹരണം",
+            "description": "ഈ പ്രസിദ്ധീകരണത്തിലേക്ക് നയിക്കുന്ന പദ്ധതിക്കുള്ള സാമ്പത്തിക സമാഹരണം"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "ഗവേഷണം",
+            "description": "ഒരു ഗവേഷണ നടത്തുക, നിരീക്ഷണം നടത്തുക, പ്രത്യേകമായി പരീക്ഷണങ്ങൾ നടത്തുക, അല്ലെങ്കിൽ ഡാറ്റ/തെളിവ് ശേഖരണം നടത്തുക."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "പ്രവർത്തനസമ്പ്രദായം / മാർഗ്ഗശാസ്ത്രം",
+            "description": "പ്രവർത്തനസമ്പ്രദായത്തിന്റെ വികസനം അല്ലെങ്കില്‍ രൂപകല്‍പ്പന. പ്രവർത്തന മാതൃകകളുടെ സൃഷ്ടി."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "പദ്ധതി നിർവ്വഹണം",
+            "description": "ഗവേഷണ പ്രവർത്തനങ്ങളുടെ ആസൂത്രണവും ഏകോപന നിർവ്വഹണത്തിനുമുള്ള ഉത്തരവാദിത്തവും."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "ഗവേഷണ വിഭവങ്ങൾ",
+            "description": "പഠന സാമഗ്രികള്‍, പ്രതിക്രിയോത്പാദകദ്രവ്യം, വസ്തുക്കള്‍, രോഗികള്‍, ലബോറട്ടറി സാമ്പിളുകള്‍, മൃഗങ്ങള്‍, കമ്പ്യൂട്ടിംഗ് വിഭവങ്ങള്‍ അല്ലെങ്കില്‍ മറ്റ് വിശകലന ഉപകരണങ്ങള്‍ എന്നിവയുടെ സജ്ജീകരണം"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "സോഫ്ട് വെയർ",
+            "description": "പ്രോഗ്രാമിംഗ്, സോഫ്റ്റ് വേർ വികസനം, കമ്പ്യൂട്ടർ പ്രോഗ്രാമുകൾ രൂപകൽപ്പന ചെയ്യുക, കമ്പ്യൂട്ടർ കോഡ് നടപ്പിലാക്കുക, അൽഗോരിതം മേൽനോട്ടവും ചെയ്യുക, നിലവിലുള്ള കോഡ് ഘടകങ്ങളുടെ പരിശോധന ചെയ്യുക."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "മേൽനോട്ടം",
+            "description": "ഉപദേഷ്ടാവ് ഉൾപ്പെടെ പ്രധാന ടീo, ഗവേഷണ പ്രവർത്തന ആസൂത്രണത്തിനും നിർവ്വഹണത്തിനുമുള്ള മേൽനോട്ടവും നേതൃത്വ ഉത്തരവാദിത്തവും."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "സ്ഥിരീകരണം",
+            "description": "ഫലങ്ങളുടെ/പരീക്ഷണങ്ങളുടെയും മറ്റ് ഗവേഷണ ഫലങ്ങളുടെയും മൊത്തത്തിലുള്ള പകർപ്പ്/പുനരാവിഷ്ക്കരണ പ്രവർത്തനത്തിൻ്റെ ഭാഗമായോ വേറിട്ടതോ ആയ സ്ഥിരീകരണം."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "ദൃശ്യവൽക്കരണം",
+            "description": "പ്രസിദ്ധീകരിക്കപ്പെട്ട കൃതിയുടെ തയ്യാറാക്കൽ, സൃഷ്ടിക്കലും അല്ലെങ്കിൽ അവതരണം, പ്രത്യേകിച്ചും ദൃശ്യവൽക്കരണം."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "ലേഖനം - ആദ്യപ്രതി",
+            "description": "പ്രസിദ്ധീകരിക്കപ്പെട്ട കൃതിയുടെ തയ്യാറാക്കൽ, സൃഷ്ടിക്കലും അല്ലെങ്കിൽ അവതരണം, പ്രത്യേകിച്ചും പ്രാരംഭ കരട് (പ്രസക്തമായ പരിഭാഷ ഉൾപ്പെടെ) എഴുതുന്നു."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "ലേഖനം - നിരൂപണം അല്ലെങ്കിൽ പരിശോധന നടത്തുക",
+            "description": "ഗവേഷണ ഗ്രൂപ്പിലുള്ളവര്‍ പ്രസിദ്ധീകരിച്ച ലേഖനത്തിന്റെ സജ്ജീകരണം, രൂപീകരണം കൂടാതെ/അല്ലെങ്കിൽ പുനരവലോകനം-പ്രസിദ്ധീകരണ ഘട്ടങ്ങളിൽ ഉള്ള പ്രത്യേകിച്ചും വിമര്‍ശനാത്മക അവലോകനം, കമന്ററി എന്നിവ."
+        }
+    }
+}
