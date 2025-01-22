@@ -1,6 +1,6 @@
 ---
 title: "Chinese - simplified translation of CRediT"
-date: 2025-01-20
+date: 2025-01-22
 language: "Chinese - simplified"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cn.json"
@@ -43,7 +43,7 @@ Yefeng  Yang, Wawa  Yu, [Alex O. Holcombe](https://orcid.org/0000-0003-2869-0085
 
 ## JSON Metadata
 
-[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cn.json]()
+[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cn.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cn.json)
 
 ## License
 

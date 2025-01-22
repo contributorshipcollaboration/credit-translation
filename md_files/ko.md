@@ -1,6 +1,6 @@
 ---
 title: "Korean translation of CRediT"
-date: 2025-01-20
+date: 2025-01-22
 language: "Korean"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko.json"
@@ -43,7 +43,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## JSON Metadata
 
-[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko.json]()
+[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko.json)
 
 ## License
 

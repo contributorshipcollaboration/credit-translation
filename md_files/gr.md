@@ -1,6 +1,6 @@
 ---
 title: "Greek translation of CRediT"
-date: 2025-01-20
+date: 2025-01-22
 language: "Greek"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/gr.json"
@@ -43,7 +43,7 @@ Elina  Takola, Stavroula  Litsiou, Georgia  Daraki
 
 ## JSON Metadata
 
-[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/gr.json]()
+[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/gr.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/gr.json)
 
 ## License
 
