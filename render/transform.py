@@ -73,7 +73,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
     md_content += f"\n## Translators\n\n{translator_names}\n\n"
 
     # Link to JSON
-    md_content += f"## JSON Metadata\n\n[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/{filename}]()\n\n"
+    md_content += f"## JSON Metadata\n\n[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/{filename}](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/{filename})\n\n"
     # License section 
     md_content += f"## License\n\n[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
     # copyright is held by the translators together with the originators of CRediT
