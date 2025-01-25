@@ -1,6 +1,6 @@
 ---
 title: "Russian translation of CRediT"
-date: 2025-01-22
+date: 2025-01-25
 language: "Russian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ru.json"
