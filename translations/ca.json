@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "ca",
+        "languageName": "Catalan",
+        "translators": [
+            {
+                "firstName": "Jordi",
+                "lastName": "Lacruz",
+                "middleName": "",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Marc",
+                "lastName": "Bria",
+                "middleName": "",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "The translators worked together to make this first translation. A second round of review was also done."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Conceptualizació",
+            "description": "Idees; formulació o evolució dels objectius i metes generals de la recerca."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Curació de dades",
+            "description": "Activitats de gestió per produir metadades, depurar dades i mantenir les dades de recerca (inclòs el codi de programari, quan sigui necessari per interpretar les pròpies dades) per al seu ús inicial i posterior reutilització."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Anàlisi formal",
+            "description": "Aplicació de tècniques estadístiques, matemàtiques, computacionals o altres tècniques formals per analitzar o sintetitzar les dades de l'estudi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Captació de fons",
+            "description": "Obtenció del suport financer per al projecte que va derivar en aquesta publicació."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Investigació",
+            "description": "Execució del procés de recerca i desenvolupament, específicament la realització d'experiments o la recol·lecció de dades\/evidència."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodologia",
+            "description": "Desenvolupament o disseny de la metodologia; creació de models."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Administració del projecte",
+            "description": "Responsable de la gestió i la coordinació de la planificació i l'execució de l'activitat de recerca."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Recursos",
+            "description": "Subministrament de materials d'estudi, reactius, materials, pacients, mostres de laboratori, animals, instrumentació, recursos informàtics o altres eines d'anàlisi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Programari",
+            "description": "Programació, desenvolupament de programari; disseny de programes informàtics; implementació del codi informàtic i dels algoritmes de suport; prova dels components de codi existents."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervisió",
+            "description": "Responsable de la supervisió i el lideratge en la planificació i l'execució de l'activitat de recerca, inclosa la mentoria a personal extern a l'equip central."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validació",
+            "description": "Verificació, ja sigui com a part de l'activitat o per separat, de la replicabilitat\/reproduïbilitat general dels resultats\/experiments i altres productes de la investigació."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualització",
+            "description": "Preparació, creació i\/o presentació del treball publicat, específicament la visualització i la presentació de dades."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Escriptura - esborrany original",
+            "description": "Preparació, creació i\/o presentació del treball publicat, específicament la redacció de l'esborrany inicial (incloent-hi la traducció si és substancial)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Escriptura - revisió i edició",
+            "description": "Preparació, creació i\/o presentació del treball publicat per part dels membres del grup de recerca original, concretament la revisió crítica, el debat o la revisió, incloent-hi les fases prèvies o posteriors a la publicació."
+        }
+    }
+}
