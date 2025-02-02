@@ -1,6 +1,6 @@
 ---
 title: "Spanish translation of CRediT"
-date: 2025-01-25
+date: 2025-02-02
 language: "Spanish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/es.json"
@@ -32,9 +32,9 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Verificación, ya sea como parte de la actividad o por separado, de la replicabilidad/reproducibilidad general de los resultados/experimentos y otros productos de la investigación. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Visualización** | **Visualization** |
 | Preparación, creación y/o presentación del trabajo publicado, específicamente la visualización y la presentación de datos. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
-| **Escritura - borrador original** | **Writing – Original Draft Preparation** |
+| **Redacción - borrador original** | **Writing – Original Draft Preparation** |
 | Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del borrador inicial (incluida la traducción si es sustancial). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
-| **Escritura - revisión y edición** | **Writing – Review & Editing** |
+| **Redacción - revisión y edición** | **Writing – Review & Editing** |
 | Preparación, creación y/o presentación del trabajo publicado por parte de los miembros del grupo de investigación original, concretamente la revisión crítica, el debate o la revisión, incluyendo las fases previas o posteriores a la publicación. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |
 
 ## Translators
