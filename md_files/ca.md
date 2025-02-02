@@ -32,14 +32,14 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Verificació, ja sigui com a part de l'activitat o per separat, de la replicabilitat/reproduïbilitat general dels resultats/experiments i altres productes de la investigació. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Visualització** | **Visualization** |
 | Preparació, creació i/o presentació del treball publicat, específicament la visualització i la presentació de dades. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
-| **Escriptura - esborrany original** | **Writing – Original Draft Preparation** |
+| **Redacció - esborrany original** | **Writing – Original Draft Preparation** |
 | Preparació, creació i/o presentació del treball publicat, específicament la redacció de l'esborrany inicial (incloent-hi la traducció si és substancial). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
-| **Escriptura - revisió i edició** | **Writing – Review & Editing** |
+| **Redacció - revisió i edició** | **Writing – Review & Editing** |
 | Preparació, creació i/o presentació del treball publicat per part dels membres del grup de recerca original, concretament la revisió crítica, el debat o la revisió, incloent-hi les fases prèvies o posteriors a la publicació. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |
 
 ## Translators
 
-Jordi  Lacruz, Marc  Bria
+[Jordi  Lacruz Casado](https://orcid.org/0000-0002-5053-6941), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941)
 
 ## JSON Metadata
 
@@ -47,8 +47,8 @@ Jordi  Lacruz, Marc  Bria
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Jordi  Lacruz, Marc  Bria, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jordi  Lacruz Casado](https://orcid.org/0000-0002-5053-6941), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
-The translators worked together to make this first translation. A second round of review was also done.
+The translators worked together to make this first translation. A second round of review was also done. Translation was finally presented to Editors to get feedback. Final ajustment was done.
