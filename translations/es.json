@@ -74,11 +74,11 @@
             "description": "Preparación, creación y/o presentación del trabajo publicado, específicamente la visualización y la presentación de datos."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
-            "name": "Escritura - borrador original",
+            "name": "Redacción - borrador original",
             "description": "Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del borrador inicial (incluida la traducción si es sustancial)."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
-            "name": "Escritura - revisión y edición",
+            "name": "Redacción - revisión y edición",
             "description": "Preparación, creación y/o presentación del trabajo publicado por parte de los miembros del grupo de investigación original, concretamente la revisión crítica, el debate o la revisión, incluyendo las fases previas o posteriores a la publicación."
         }
     }
