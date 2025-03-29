@@ -18,5 +18,8 @@ All contributors are bound by the [code of conduct](https://github.com/marton-ba
 How the translation file is created:
 JSON->new file table of finished languages .md->HTML
 
-How the polished landing page is created:
+How the polished landing page is created, including the [human-readable translations](https://contributorshipcollaboration.github.io/projects/translation/completed/):
+
 Hugo partial, then the top of the page can be edited without affecting the rendering of the list of languages. 
+The rendering is done by Github Action which can be triggered by editing the [webpage repo](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/README.md
+)
