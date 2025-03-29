@@ -1,6 +1,6 @@
 ---
 title: "Greek translation of CRediT"
-date: 2025-02-02
+date: 2025-03-29
 language: "Greek"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/gr.json"
