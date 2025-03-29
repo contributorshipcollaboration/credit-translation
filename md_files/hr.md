@@ -1,12 +1,12 @@
 ---
-title: "Croatian/Hrvatski translation of CRediT"
+title: "Croatian translation of CRediT"
 date: 2025-03-29
-language: "Croatian/Hrvatski"
+language: "Croatian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hr.json"
 ---
 
-| Croatian/Hrvatski | English |
+| Croatian | English |
 | --- | --- |
 | **Konceptualizacija** | **Conceptualization** |
 | Ideje; formulacija ili razvoj glavnih ciljeva istraživanja. | Ideas; formulation or evolution of overarching research goals and aims. |
