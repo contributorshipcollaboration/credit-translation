@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "cro_hr",
+        "languageName": "Croatian/Hrvatski",
+        "translators": [
+            {
+                "firstName": "Antica",
+                "lastName": "Čulina",
+                "middleName": "",
+                "ORCID": "0000-0003-2910-8085"
+            },
+            {
+                "firstName": "Anita",
+                "lastName": "Tarandek",
+                "middleName": "",
+                "ORCID": "0000-0001-7362-0049"
+            }
+        ],
+        "translationProcedure": "Antica Čulina and Anita Tarandek are both native Croatian speakers. Antica Čulina is familiar with CRediT, while Anita Tarandek was not. Antica Čulina translated the English version to Croatian, Anita Tarandek translated the original Croatian translation back to English, which has led to adding some alternative translations to the document."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Konceptualizacija",
+            "description": "Ideje; formulacija ili razvoj glavnih ciljeva istraživanja."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Upravljanje podatcima",
+            "description": "Vođenje aktivnosti vezanih s opisivanjem istraživačkih podataka (meta-podatci), čišćenjem podataka i održavanjem podataka (uključujući i softverski kod ukoliko je isti nužan za interpretaciju podataka) a u svrhu originalnog i kasnijeg korištenja podataka."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formalna analiza",
+            "description": "Korištenje statističkih, matematičkih, računalnih ili ostalih formalnih metoda za analizu ili sintezu podataka istraživanja."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Prikupljanje financija",
+            "description": "Osiguravanje financijske potpore za projekt koji je doveo do publikacije."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Istraživanje",
+            "description": "Provođenje istraživačkog procesa, specifično provođenje eksperimenata ili skupljanja podataka/dokaza."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodologija",
+            "description": "Razvoj ili dizajniranje metodologije ili modela"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Projektna administracija",
+            "description": "Upravljanje i kordinacija planiranja i provođenja istraživanja."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Materijali i oprema",
+            "description": "Osiguravanje materijala za istraživanje, reagensa, materijala, pacijenata, laboratorijskih uzoraka, životinja, instrumenata, računalnih resursa ili drugih alata za analizu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Računalni program",
+            "description": "Programiranje, razvoj računalnih programa, dizajn računalnih programa, implementacija računalnog koda i algoritama, testiranje postojećeg koda i njegovih komponenti."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Vođenje projekta",
+            "description": "Vođenje aktivnosti planiranja i provođenja projekta, uključujući i mentorstvo izvan osnovne istraživačke grupe."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Provjera",
+            "description": "Provjera dali su rezultati/eksperimenti reproducibilni/replikabilni."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Vizualizacija",
+            "description": "Priprema, stvaranje, i/ili prikaz publiciranog rada, specifično vizualizacija/prikaz podataka."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Pisanje - originalni draft",
+            "description": "Priprema, stvaranje, i/ili prikaz publiciranog rada, specifično pisanje originalnog drafta (uključujući prevođenje ako je ono pozamašno)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Pisanje - pregled i uređivanje",
+            "description": "Priprema, stvaranje i/ili prezentacija publiciranog rada od strane osnovne istraživačke grupe, specifično kritički osvrt, komentari i revidiranje - uključujući i pre ili post publikaciju."
+        }
+    }
+}
