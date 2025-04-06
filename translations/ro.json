@@ -41,7 +41,7 @@
             "description": "Obținerea sprijinului financiar pentru proiectul care a condus la această publicație."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
-            "name": "Anchetă",
+            "name": "Investigare",
             "description": "Desfășurarea unui proces de cercetare și investigare, în mod specific efectuarea de experimente sau colectarea de date/dovezi."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
@@ -61,7 +61,7 @@
             "description": "Programarea, dezvoltarea de software; proiectarea de programe de calculator; implementarea codului de calculator și a algoritmilor suport; testarea componentelor de cod existente."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
-            "name": "Supraveghere",
+            "name": "Supervizare",
             "description": "Responsabilitatea de supraveghere și conducere pentru planificarea și execuția activității de cercetare, inclusiv mentorat extern echipei de bază."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
@@ -70,11 +70,11 @@
         },
         "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
             "name": "Vizualizare",
-            "description": "Pregătirea, crearea și/sau prezentare lucrării publicate, în mod specific vizualizarea/prezentarea datelor."
+            "description": "Pregătirea, crearea și/sau prezentarea lucrării publicate, în mod specific vizualizarea/prezentarea datelor."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
             "name": "Scriere - Pregătirea manuscrisului original",
-            "description": "Pregătirea, crearea și/sau prezentare lucrării publicate, în mod specific scrierea versiunii inițiale (inclusiv traducerea de fond)."
+            "description": "Pregătirea, crearea și/sau prezentarea lucrării publicate, în mod specific scrierea versiunii inițiale (inclusiv traducerea de fond)."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
             "name": "Scriere - Revizuire și editare",
