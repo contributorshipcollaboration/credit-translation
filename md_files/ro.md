@@ -1,6 +1,6 @@
 ---
 title: "Romanian translation of CRediT"
-date: 2025-04-03
+date: 2025-04-06
 language: "Romanian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ro.json"
@@ -16,7 +16,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Aplicarea tehnicilor statistice, matematice, computaționale sau a altor tehnici formale pentru a analiza sau sintetiza datele de studiu. | Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data. |
 | **Obținerea de finanțare** | **Funding Acquisition** |
 | Obținerea sprijinului financiar pentru proiectul care a condus la această publicație. | Acquisition of the financial support for the project leading to this publication. |
-| **Anchetă** | **Investigation** |
+| **Investigare** | **Investigation** |
 | Desfășurarea unui proces de cercetare și investigare, în mod specific efectuarea de experimente sau colectarea de date/dovezi. | Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection. |
 | **Metodologie** | **Methodology** |
 | Dezvoltarea sau proiectarea metodologiei; crearea de modele. | Development or design of methodology; creation of models. |
@@ -26,14 +26,14 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Furnizarea de materiale de studiu, reactivi, materiale, pacienți, probe de laborator, animale, instrumente, resurse de calcul sau alte instrumente de analiză. | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools. |
 | **Software** | **Software** |
 | Programarea, dezvoltarea de software; proiectarea de programe de calculator; implementarea codului de calculator și a algoritmilor suport; testarea componentelor de cod existente. | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components. |
-| **Supraveghere** | **Supervision** |
+| **Supervizare** | **Supervision** |
 | Responsabilitatea de supraveghere și conducere pentru planificarea și execuția activității de cercetare, inclusiv mentorat extern echipei de bază. | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team. |
 | **Validare** | **Validation** |
 | Verificarea, fie ca parte a activității, fie separat, a replicării/reproductibilității generale a rezultatelor/experimentelor și a altor rezultate ale cercetării. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Vizualizare** | **Visualization** |
-| Pregătirea, crearea și/sau prezentare lucrării publicate, în mod specific vizualizarea/prezentarea datelor. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
+| Pregătirea, crearea și/sau prezentarea lucrării publicate, în mod specific vizualizarea/prezentarea datelor. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
 | **Scriere - Pregătirea manuscrisului original** | **Writing – Original Draft Preparation** |
-| Pregătirea, crearea și/sau prezentare lucrării publicate, în mod specific scrierea versiunii inițiale (inclusiv traducerea de fond). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
+| Pregătirea, crearea și/sau prezentarea lucrării publicate, în mod specific scrierea versiunii inițiale (inclusiv traducerea de fond). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
 | **Scriere - Revizuire și editare** | **Writing – Review & Editing** |
 | Pregătirea, crearea și/sau prezentarea lucrării publicate de către cei din grupul de cercetare original, în mod specific revizuire critică, comentariu sau revizuire - inclusiv etapele pre- sau post- publicare. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |
 
