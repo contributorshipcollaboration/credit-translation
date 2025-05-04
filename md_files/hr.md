@@ -1,6 +1,6 @@
 ---
 title: "Croatian translation of CRediT"
-date: 2025-04-06
+date: 2025-05-04
 language: "Croatian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hr.json"
