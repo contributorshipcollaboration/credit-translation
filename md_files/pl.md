@@ -1,6 +1,6 @@
 ---
 title: "Polish translation of CRediT"
-date: 2025-06-17
+date: 2025-06-18
 language: "Polish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/pl.json"

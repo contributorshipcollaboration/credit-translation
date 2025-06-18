@@ -1,6 +1,6 @@
 ---
 title: "Hungarian translation of CRediT"
-date: 2025-06-17
+date: 2025-06-18
 language: "Hungarian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hu.json"
