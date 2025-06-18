@@ -1,12 +1,12 @@
 ---
-title: "italian translation of CRediT"
+title: "Italian translation of CRediT"
 date: 2025-06-18
-language: "italian"
+language: "Italian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/it.json"
 ---
 
-| italian | English |
+| Italian | English |
 | --- | --- |
 | **Ideazione** | **Conceptualization** |
 | Idee; formulazione o evoluzione di obiettivi e scopi generali della ricerca | Ideas; formulation or evolution of overarching research goals and aims. |
