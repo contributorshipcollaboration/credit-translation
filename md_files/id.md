@@ -51,4 +51,4 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translation Procedure
 
-Dasapta Erwin Irawan created a draft translation, two others (who?) 
+Dasapta Erwin Irawan created a draft translation, Stevanus Jati and Arif Gunawan created alternative translations, and Desapta then considered all three to create a final translation. 
