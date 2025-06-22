@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Dasapta Erwin  Irawan
+[Dasapta Erwin Irawan](https://orcid.org/0000-0002-1526-0863)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Dasapta Erwin  Irawan
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Dasapta Erwin  Irawan, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Dasapta Erwin Irawan](https://orcid.org/0000-0002-1526-0863), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
