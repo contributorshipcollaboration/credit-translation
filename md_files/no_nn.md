@@ -1,6 +1,6 @@
 ---
 title: "Norwegian - Nynorsk translation of CRediT"
-date: 2025-06-18
+date: 2025-06-22
 language: "Norwegian - Nynorsk"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/no_nn.json"
