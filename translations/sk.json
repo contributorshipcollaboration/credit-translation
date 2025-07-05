@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "languageCode": "sk",
+    "languageName": "Slovak",
+    "translators": [
+      {
+        "firstName": "Nina",
+        "lastName": "Trubanová",
+        "ORCID": "0000-0001-8156-3304"
+      },
+      {
+        "firstName": "Marek",
+        "lastName": "Vranka",
+        "ORCID": "0000-0003-3413-9062"
+      },
+      {
+        "firstName": "Viktória",
+        "lastName": "Šinkorová",
+        "ORCID": "0009-0009-6534-8861"
+      },
+      {
+        "firstName": "Zuzana",
+        "lastName": "Irsova",
+        "ORCID": "0000-0002-0753-8124"
+      }
+    ],
+    "translationProcedure": "Nina Trubanová and Marek Vranka independently translated the text from English to Slovak, then compared their versions and agreed on a final version. Viktória Šinkorová handled the editing and proofreading. Zuzana Irsova cross-checked and provided suggestions on alternative translations."
+  },
+  "translations": {
+    "https://credit.niso.org/contributor-roles/conceptualization/": {
+      "name": "Konceptualizácia",
+      "description": "Nápady, formulácia alebo genéza hlavných cieľov a zámerov výskumu."
+    },
+    "https://credit.niso.org/contributor-roles/data-curation/": {
+      "name": "Organizácia a správa dát",
+      "description": "Správa výskumných dát pre počiatočné a opätovné použitie, ktorá zahŕňa anotovanie (tvorbu metadát), čistenie dát a ich priebežnú údržbu (vrátane softvérového kódu, ak je dôležitý pre interpretáciu dát)."
+    },
+    "https://credit.niso.org/contributor-roles/formal-analysis/": {
+      "name": "Formálna analýza",
+      "description": "Použitie štatistických, matematických, výpočtových alebo iných formálnych metód na analýzu alebo syntézu dát štúdie."
+    },
+    "https://credit.niso.org/contributor-roles/funding-acquisition/": {
+      "name": "Získanie finančných prostriedkov",
+      "description": "Získanie finančnej podpory na projekt, ktorý viedol k tejto publikácii."
+    },
+    "https://credit.niso.org/contributor-roles/investigation/": {
+      "name": "Výskum",
+      "description": "Vykonávanie výskumu a bádania, konkrétne realizácia experimentov alebo zhromažďovanie dát/dôkazov."
+    },
+    "https://credit.niso.org/contributor-roles/methodology/": {
+      "name": "Metodológia",
+      "description": "Vývoj alebo návrh metodológie, tvorba modelov."
+    },
+    "https://credit.niso.org/contributor-roles/project-administration/": {
+      "name": "Administrácia projektu",
+      "description": "Zodpovednosť za riadenie a koordináciu plánovania a vykonávania výskumných činností."
+    },
+    "https://credit.niso.org/contributor-roles/resources/": {
+      "name": "Zdroje",
+      "description": "Zabezpečenie študijných materiálov, reagencií, materiálov, pacientov, laboratórnych vzoriek, zvierat, prístrojov, výpočtových zdrojov alebo iných analytických nástrojov."
+    },
+    "https://credit.niso.org/contributor-roles/software/": {
+      "name": "Softvér",
+      "description": "Programovanie, vývoj softvéru, navrhovanie počítačových programov implementácia počítačového kódu a podporných algoritmov, testovanie existujúcich častí kódu."
+    },
+    "https://credit.niso.org/contributor-roles/supervision/": {
+      "name": "Supervízia",
+      "description": "Dohľad a zodpovednosť za vedenie pri plánovaní a realizácii  výskumných aktivít, vrátane mentorstva mimo hlavného tímu."
+    },
+    "https://credit.niso.org/contributor-roles/validation/": {
+      "name": "Validácia",
+      "description": "Overenie celkovej replikovateľnosti/reprodukovateľnosti výsledkov/experimentov a iných výstupov výskumu, či už ako súčasť aktivity alebo samostatne."
+    },
+    "https://credit.niso.org/contributor-roles/visualization/": {
+      "name": "Vizualizácia",
+      "description": "Príprava, tvorba a/alebo prezentácia publikovanej práce, konkrétne vizualizácia/prezentácia údajov."
+    },
+    "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+      "name": "Písanie – prvotný návrh",
+      "description": "Príprava, tvorba a/alebo prezentácia publikovanej práce, konkrétne napísanie prvotného návrhu rukopisu (vrátane obsahového prekladu)."
+    },
+    "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+      "name": "Písanie –  revízia a úpravy",
+      "description": "Príprava, tvorba a/alebo prezentácia publikovanej práce členmi pôvodnej výskumnej skupiny, konkrétne kritická recenzia, komentár alebo revízia, a to v predpublikačnej aj postpublikačnej fáze."
+    }
+  }
+}
