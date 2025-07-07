@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "languageCode": "ar",
+    "languageName": "Arabic",
+    "translators": [
+      {
+        "firstName": "Heba Abd El Aziz Moussa",
+        "lastName": "Abd Alla"
+      },
+      {
+        "firstName": "Omayma",
+        "lastName": "Missawi"
+      }
+    ],
+    "translationProcedure": "Both translators are native Arabic speakers. Omayma Missawi completed a back-translation of the Arabic draft and made adjustments for clarity and alignment with the original English text."
+  },
+  "translations": {
+    "https://credit.niso.org/contributor-roles/conceptualization/": {
+      "name": "تصور",
+      "description": "أفكار؛ صياغة أو تطوير أهداف وغايات البحث الشاملة."
+    },
+    "https://credit.niso.org/contributor-roles/data-curation/": {
+      "name": "معالجة البيانات",
+      "description": "أنشطة الإدارة للتعليق (إنتاج البيانات الوصفية)، وتنقية البيانات والحفاظ على بيانات البحث (بما في ذلك كود البرنامج، حيث يكون ذلك ضروريًا لتفسير البيانات نفسها) للاستخدام الأولي وإعادة الاستخدام لاحقًا."
+    },
+    "https://credit.niso.org/contributor-roles/formal-analysis/": {
+      "name": "تحليل شكلي",
+      "description": "تطبيق التقنيات الإحصائية أو الرياضية أو الحسابية أو غيرها من التقنيات الرسمية لتحليل أو تجميع بيانات الدراسة."
+    },
+    "https://credit.niso.org/contributor-roles/funding-acquisition/": {
+      "name": "تمويل الاحتياز",
+      "description": "الحصول على الدعم المالي للمشروع المؤدي إلى هذا  النشر."
+    },
+    "https://credit.niso.org/contributor-roles/investigation/": {
+      "name": "تحقيق",
+      "description": "إجراء عملية البحث والتحقيق، وتحديداً إجراء التجارب، أو جمع البيانات/الأدلة."
+    },
+    "https://credit.niso.org/contributor-roles/methodology/": {
+      "name": "المنهجية",
+      "description": "تطوير أو تصميم المنهجية؛ خلق النماذج."
+    },
+    "https://credit.niso.org/contributor-roles/project-administration/": {
+      "name": "إدارة المشروع",
+      "description": "مسؤولية الإدارة والتنسيق لتخطيط النشاط البحثي وتنفيذه."
+    },
+    "https://credit.niso.org/contributor-roles/resources/": {
+      "name": "موارد",
+      "description": "توفير مواد الدراسة أو الكواشف أو المواد أو المرضى أو العينات المخبرية أو الحيوانات أو الأجهزة أو موارد الحوسبة أو أدوات التحليل الأخرى."
+    },
+    "https://credit.niso.org/contributor-roles/software/": {
+      "name": "برمجة",
+      "description": "البرمجة، تطوير البرمجيات؛ تصميم برامج الكمبيوتر. تنفيذ كود الكمبيوتر والخوارزميات الداعمة؛ اختبار مكونات التعليمات البرمجية الموجودة."
+    },
+    "https://credit.niso.org/contributor-roles/supervision/": {
+      "name": "الإشراف",
+      "description": "الإشراف والمسؤولية القيادية لتخطيط النشاط البحثي وتنفيذه، بما في ذلك الإرشاد الخارجي للفريق الأساسي."
+    },
+    "https://credit.niso.org/contributor-roles/validation/": {
+      "name": "تأكيد على الفاعلية",
+      "description": "التحقق، سواء كجزء من النشاط أو بشكل منفصل، من التكرار الشامل/إمكانية تكرار النتائج/التجارب ومخرجات البحث الأخرى."
+    },
+    "https://credit.niso.org/contributor-roles/visualization/": {
+      "name": "التصور",
+      "description": "إعداد وإنشاء و/أو عرض الأعمال المنشورة، وتحديداً التصور/عرض البيانات."
+    },
+    "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+      "name": "الكتابة – المسودة الأصلية",
+      "description": "إعداد وإنشاء و/أو عرض العمل المنشور، وتحديداً كتابة المسودة الأولية (بما في ذلك الترجمة الموضوعية)."
+    },
+    "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+      "name": "الكتابة – المراجعة والتحرير",
+      "description": "إعداد وإنشاء و/أو عرض العمل المنشور بواسطة أعضاء مجموعة البحث الأصلية، وتحديدًا المراجعة النقدية أو التعليق أو المراجعة - بما في ذلك مراحل ما قبل النشر أو ما بعده."
+    }
+  }
+}
