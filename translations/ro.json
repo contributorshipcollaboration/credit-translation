@@ -29,12 +29,12 @@
             "description": "Generarea ideilor; formularea sau dezvoltarea obiectivelor și scopurilor generale ale cercetării."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
-            "name": "Pregătirea datelor",
-            "description": "Activități de management constând în adnotarea datelor (producerea de metadate), curățarea datelor și menținerea acestor date de cercetare (inclusiv codul software, acolo unde este necesar, pentru interpretarea datelor în sine) pentru utilizarea inițială și reutilizarea ulterioară."
+            "name": "Curatorierea datelor",
+            "description": "Activități de management constând în adnotarea datelor (producerea de metadate), curatorierea datelor și menținerea acestor date de cercetare (inclusiv codul software, acolo unde este necesar, pentru interpretarea datelor în sine) pentru utilizarea inițială și reutilizarea ulterioară."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
             "name": "Analiza formală",
-            "description": "Aplicarea tehnicilor statistice, matematice, computaționale sau a altor tehnici formale pentru a analiza sau sintetiza datele de studiu."
+            "description": "Aplicarea de tehnici statistice, matematice, computaționale sau a altor tehnici formale pentru a analiza sau sintetiza datele de studiu."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
             "name": "Obținerea de finanțare",
