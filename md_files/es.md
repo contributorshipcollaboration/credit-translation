@@ -1,6 +1,6 @@
 ---
 title: "Spanish translation of CRediT"
-date: 2025-07-07
+date: 2025-07-08
 language: "Spanish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/es.json"
