@@ -10,10 +10,10 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | --- | --- |
 | **Conceptualizare** | **Conceptualization** |
 | Generarea ideilor; formularea sau dezvoltarea obiectivelor și scopurilor generale ale cercetării. | Ideas; formulation or evolution of overarching research goals and aims. |
-| **Pregătirea datelor** | **Data Curation** |
-| Activități de management constând în adnotarea datelor (producerea de metadate), curățarea datelor și menținerea acestor date de cercetare (inclusiv codul software, acolo unde este necesar, pentru interpretarea datelor în sine) pentru utilizarea inițială și reutilizarea ulterioară. | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use. |
+| **Curatorierea datelor** | **Data Curation** |
+| Activități de management constând în adnotarea datelor (producerea de metadate), curatorierea datelor și menținerea acestor date de cercetare (inclusiv codul software, acolo unde este necesar, pentru interpretarea datelor în sine) pentru utilizarea inițială și reutilizarea ulterioară. | Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use. |
 | **Analiza formală** | **Formal Analysis** |
-| Aplicarea tehnicilor statistice, matematice, computaționale sau a altor tehnici formale pentru a analiza sau sintetiza datele de studiu. | Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data. |
+| Aplicarea de tehnici statistice, matematice, computaționale sau a altor tehnici formale pentru a analiza sau sintetiza datele de studiu. | Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data. |
 | **Obținerea de finanțare** | **Funding Acquisition** |
 | Obținerea sprijinului financiar pentru proiectul care a condus la această publicație. | Acquisition of the financial support for the project leading to this publication. |
 | **Investigare** | **Investigation** |
