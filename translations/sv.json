@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "lang": "Swedish",
+    "translators": [
+      {
+        "firstName": "Jonas",
+        "lastName": "Knape"
+      },
+      {
+        "firstName": "Hedvig",
+        "lastName": "Nenzén"
+      }
+    ],
+    "translationProcedure": "JK did the inital translation, HN did the reverse translation. Both translators compared the original and back-translated versions and adjusted the initial translation."
+  },
+  "data": [
+    {
+      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
+      "lang": "en",
+      "translation": "Conceptualization"
+    },
+    {
+      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed74",
+      "lang": "sv",
+      "translation": "Kon­ceptu­al­is­ering"
+    },
+    {
+      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed75",
+      "lang": "en",
+      "translation": "Ideas; formulation or evolution of overarching research goals and aims."
+    },
+    {
+      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed76",
+      "lang": "sv",
+      "translation": "Idéer; formulering eller utveckling av övergripande forskningsmål och syften."
+    },
+    {
+      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
+      "lang": "en",
+      "translation": "Data curation"
+    },
+    {
+      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
+      "lang": "sv",
+      "translation": "Datahantering"
+    },
+    {
+      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
+      "lang": "en",
+      "translation": "Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use."
+    },
+    {
+      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
+      "lang": "sv",
+      "translation": "Åtgärder för att annotera (producera metadata), rensa och underhålla forskningsdata (inklusive programkod om det är nödvändigt för att tolka själva data) för initial användning och senare återanvändning."
+    },
+    {
+      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+      "lang": "en",
+      "translation": "Formal analysis"
+    },
+    {
+      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+      "lang": "sv",
+      "translation": "Formell analys"
+    },
+    {
+      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+      "lang": "en",
+      "translation": "Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data."
+    },
+    {
+      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+      "lang": "sv",
+      "translation": "Tillämpning av statistiska, matematiska, beräkningsmässiga eller andra formella tekniker för att analysera och sammanfatta data."
+    },
+    {
+      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
+      "lang": "en",
+      "translation": "Funding acquisition"
+    },
+    {
+      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
+      "lang": "sv",
+      "translation": "Förvärv av finansiellt stöd"
+    },
+    {
+      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
+      "lang": "en",
+      "translation": "Acquisition of the financial support for the project leading to this publication."
+    },
+    {
+      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
+      "lang": "sv",
+      "translation": "Förvärv av finansiellt stöd för det projekt som ledde till denna publikation."
+    }
+  ]
+}
