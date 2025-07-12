@@ -1,6 +1,6 @@
 ---
 title: "Arabic translation of CRediT"
-date: 2025-07-11
+date: 2025-07-12
 language: "Arabic"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ar.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Heba Abd El Aziz Moussa  Abd Alla, Omayma  Missawi
+[Heba Abd El Aziz Moussa  Abd Alla](https://orcid.org/https://orcid.org/0000-0001-9959-8337), [Omayma  Missawi](https://orcid.org/https://orcid.org/0000-0002-1135-1776)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Heba Abd El Aziz Moussa  Abd Alla, Omayma  Missawi
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Heba Abd El Aziz Moussa  Abd Alla, Omayma  Missawi, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Heba Abd El Aziz Moussa  Abd Alla](https://orcid.org/https://orcid.org/0000-0001-9959-8337), [Omayma  Missawi](https://orcid.org/https://orcid.org/0000-0002-1135-1776), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
