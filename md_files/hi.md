@@ -1,6 +1,6 @@
 ---
 title: "Hindi translation of CRediT"
-date: 2025-07-12
+date: 2025-07-20
 language: "Hindi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hi.json"
