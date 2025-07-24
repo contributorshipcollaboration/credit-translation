@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "languageCode": "lt",
+        "languageName": "Lithuanian",
+        "translators": [
+            {
+                "firstName": "Ineta",
+                "lastName": "Kačergytė",
+                "middleName": "",
+                "ORCID": "0000-0003-4756-8253"
+            },
+            {
+                "firstName": "Barbora",
+                "lastName": "Drąsutytė-Vaičiukynė",
+                "middleName": "",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "IK and BDV are both native speakers of Lithuanian. IK made the initial translations into Lithuanian. BDV then back-translated the phrases from Lithuanian to English. IK and BDV then compared the English versions and identified problematic parts. Through discussion, they reached a consensus on the most appropriate translation into Lithuanian."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Konceptualizavimas",
+            "description": "Idėjos; rūpimų mokslinių tyrimų tikslų ir siekinių formulavimas ar plėtojimas."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Duomenų kuracija",
+            "description": "Valdymo veikla, skirta anotuoti (parengti metaduomenis), valyti duomenis ir palaikyti mokslinių tyrimų duomenis (įskaitant programinės įrangos kodą, jei jis būtinas duomenims interpretuoti) pradiniam ir vėlesniam pakartotiniam panaudojimui."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formali duomenų analizė",
+            "description": "Statistinių, matematinių, skaičiavimo ar kitų formalių priemonių taikymas tyrimo duomenims analizuoti ar susisteminti."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Lėšų įgijimas",
+            "description": "Finansinės paramos projektui, kurio metu buvo parengtas šis straipsnis, gavimas."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Tyrimas",
+            "description": "Vykdyti mokslinius tyrimus ir tiriamąjį procesą, tiksliau, atlikti eksperimentus arba rinkti duomenis\/įrodymus."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodologija",
+            "description": "Metodologijos vystymas arba dizainas; modelių kūrimas."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Projekto administravimas",
+            "description": "Valdymo ir koordinavimo atsakomybė už mokslinių tyrimų veiklos planavimą ir įvykdymą."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Ištekliai",
+            "description": "Aprūpinimas tyrimo medžiagomis, reagentais, žaliava, pacientais, laboratoriniais mėginiais, gyvūnais, instrumentuote, skaičiavimo ištekliais ar kitomis analizės priemonėmis."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Programinė įranga",
+            "description": "Programavimas, programinės įrangos kūrimas; kompiuterinių programų projektavimas; kompiuterinio kodo ir pagalbinių algoritmų diegimas; esamų kodo komponentų testavimas."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervizija",
+            "description": "Priežiūra ir vadovavimo atsakomybė už mokslinių tyrimų veiklos planavimą ir vykdymą, įskaitant mentorystę su pagrindine grupe nesusijusiems asmenims."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validacija",
+            "description": "Rezultatų\/eksperimentų ir kitų mokslinių tyrimų produkcijos bendro pakartojamumo\/atkuriamumo patikrinimas, nepriklausomai nuo to, ar tai yra bendros veiklos dalis, ar atskira veikla."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Vaizdavimas",
+            "description": "Publikuoto darbo parengimas, kūrimas ir\/arba pristatymas, tiksliau, vaizdavimas\/duomenų pateikimas."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Rašymas - originalus tekstas",
+            "description": "Publikuoto darbo rengimas, kūrimas ir\/arba pristatymas, ypač pradinio teksto rašymas (įskaitant esminį vertimą)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Rašymas - peržiūra ir redagavimas",
+            "description": "Originalios tyrėjų grupės atlikto publikuoto darbo rengimas, kūrimas ir/arba pristatymas, tiksliau, kritiška darbo peržiūra, komentarai ir revizija - įskaitant etapus prieš ir po publikavimo."
+        }
+    }
+}

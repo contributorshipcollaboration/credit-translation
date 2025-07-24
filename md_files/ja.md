@@ -1,6 +1,6 @@
 ---
 title: "Japanese translation of CRediT"
-date: 2025-05-04
+date: 2025-07-20
 language: "Japanese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ja.json"
