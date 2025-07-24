@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "languageCode": "en",
+        "scriptCode": "Latn",
+        "languageName": "English",
+        "translators": [],
+        "translationProcedure": ""
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Conceptualization",
+            "description": "Ideas; formulation or evolution of overarching research goals and aims."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Data Curation",
+            "description": "Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formal Analysis",
+            "description": "Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Funding Acquisition",
+            "description": "Acquisition of the financial support for the project leading to this publication."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Investigation",
+            "description": "Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Methodology",
+            "description": "Development or design of methodology; creation of models."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Project Administration",
+            "description": "Management and coordination responsibility for the research activity planning and execution."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Resources",
+            "description": "Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Software",
+            "description": "Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervision",
+            "description": "Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validation",
+            "description": "Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualization",
+            "description": "Preparation, creation and/or presentation of the published work, specifically visualization/data presentation."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Writing – Original Draft Preparation",
+            "description": "Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Writing – Review & Editing",
+            "description": "Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages."
+        }
+    }
+}

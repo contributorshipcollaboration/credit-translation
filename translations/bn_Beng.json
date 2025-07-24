@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "languageCode": "bn",
+    "scriptCode": "Beng",
+    "languageName": "Bengali",
+    "translators": [
+      {
+        "firstName": "Arobindu",
+        "lastName": "Dash"
+      },
+      {
+        "firstName": "Garga",
+        "lastName": "Chatterjee"
+      }
+    ],
+    "translationProcedure": "Arobindu did a first forward translation, and Garga then translated that back into English and judged that there were no conflicts or issues requiring amendment"
+  },
+  "translations": {
+    "https://credit.niso.org/contributor-roles/conceptualization/": {
+      "name": "মৌলিক চিন্তার কাঠামো তৈরি",
+      "description": "ধারণার প্রস্তাবনা; গবেষণার সার্বিক লক্ষ্য ও উদ্দেশ্য নির্ধারণ ও তা বিকাশের প্রক্রিয়া।"
+    },
+    "https://credit.niso.org/contributor-roles/data-curation/": {
+      "name": "তথ্য সংগ্রহ, বিশ্লেষণযোগ্য রূপে উপস্থাপন ও সংরক্ষণ প্রক্রিয়া",
+      "description": "গবেষণার তথ্য ব্যবহারের জন্য (এবং ভবিষ্যতে পুনরায় ব্যবহারের জন্যও) মেটাডেটা তৈরি, তথ্য পরিষ্কার করা এবং প্রয়োজন হলে সফটওয়্যার কোডসহ তথ্য সংরক্ষণ ও রক্ষণাবেক্ষণের ব্যবস্থাপনা"
+    },
+    "https://credit.niso.org/contributor-roles/formal-analysis/": {
+      "name": "তথ্য বা উপাত্তের পদ্ধতিগত বিশ্লেষণ",
+      "description": "গবেষণা উপাত্ত বিশ্লেষণ বা সংহতকরণে পরিসংখ্যান, গণিত, কম্পিউটেশনাল বা অনুরূপ কাঠামোবদ্ধ কৌশল প্রয়োগ।"
+    },
+    "https://credit.niso.org/contributor-roles/funding-acquisition/": {
+      "name": "প্রকল্পের জন্য অর্থনৈতিক সহায়তা অর্জন",
+      "description": "গবেষণা-সংক্রান্ত প্রকল্প প্রকাশনার জন্য অর্থনৈতিক সহায়তা অর্জন"
+    },
+    "https://credit.niso.org/contributor-roles/investigation/": {
+      "name": "তথ্য সংগ্রহ ও বিশ্লেষণের প্রক্রিয়া",
+      "description": "গবেষণা পরিচালনা ও অনুসন্ধানমূলক কার্যক্রম সম্পাদন, বিশেষ করে পরীক্ষা-নিরীক্ষা করা বা তথ্য ও প্রমাণ সংগ্রহ করা।"
+    },
+    "https://credit.niso.org/contributor-roles/methodology/": {
+      "name": "গবেষণাপদ্ধতি",
+      "description": "গবেষণার পদ্ধতি বিকাশ বা পরিকল্পনা; মডেল নির্মাণ"
+    },
+    "https://credit.niso.org/contributor-roles/project-administration/": {
+      "name": "প্রকল্প পরিচালনা",
+      "description": "গবেষণা কার্যক্রম পরিকল্পনা এবং কার্যকর করার জন্য ব্যবস্থাপনা ও সমন্বয় সংক্রান্ত দায়িত্ব পালন"
+    },
+    "https://credit.niso.org/contributor-roles/resources/": {
+      "name": "গবেষনা উপকরণ",
+      "description": "গবেষণার প্রয়োজনে অধ্যয়ন সামগ্রী, বিকারক, উপকরণ, রোগী, ল্যাবরেটরি নমুনা, প্রাণী, যন্ত্রপাতি, কম্পিউটিং সংস্থান বা অন্যান্য বিশ্লেষণ টুল সরবরাহ।"
+    },
+    "https://credit.niso.org/contributor-roles/software/": {
+      "name": "সফটওয়্যার",
+      "description": "কম্পিউটার প্রোগ্রামিং এবং সফটওয়্যার নির্মাণ; প্রোগ্রাম ডিজাইন, কোড লেখা ও সংশ্লিষ্ট অ্যালগরিদম প্রয়োগ; এবং কোড উপাদানসমূহের পরীক্ষণ।"
+    },
+    "https://credit.niso.org/contributor-roles/supervision/": {
+      "name": "তদারকি",
+      "description": "গবেষণা কার্যক্রম পরিকল্পনা ও পরিচালনায় তদারকি ও নেতৃত্বের দায়িত্ব পালন, এছাড়াও মূল দলের বাইরে মেন্টরশিপ প্রদান।"
+    },
+    "https://credit.niso.org/contributor-roles/validation/": {
+      "name": "বৈধতা নিরূপণ",
+      "description": "কার্যক্রমের অংশ হিসেবে অথবা স্বতন্ত্রভাবে, ফলাফল/পরীক্ষা এবং অন্যান্য গবেষণামূলক ফলাফলগুলোর পুনরায় উৎপাদনযোগ্যতা বা প্রতিলিপি সম্পূর্ণতার যাচাই।"
+    },
+    "https://credit.niso.org/contributor-roles/visualization/": {
+      "name": "তথ্য চিত্রায়ন",
+      "description": "প্রকাশিত কাজের প্রস্তুতি, সৃষ্টিকরণ এবং/অথবা উপস্থাপনা, বিশেষ করে দৃশ্যায়ন বা তথ্য উপস্থাপন।"
+    },
+    "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+      "name": "লেখালেখি – মূল খসড়া লিখন",
+      "description": "প্রকাশনার জন্য কাজের প্রস্তুতি, রচনা ও উপস্থাপন, বিশেষ করে প্রাথমিক খসড়া লেখন এবং বিষয়ভিত্তিক অনুবাদ।"
+    },
+    "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+      "name": "লিখিত খসড়ার সংশোধন, সম্পাদনা ও মানোন্নয়ন",
+      "description": "মূল গবেষণা দলের সদস্যদের দ্বারা প্রকাশনার জন্য কাজের প্রস্তুতি ও উপস্থাপন, বিশেষ করে গঠনমূলক পর্যালোচনা, মন্তব্য প্রদান বা সংশোধন — প্রকাশের আগে বা পরে।"
+    }
+  }
+}

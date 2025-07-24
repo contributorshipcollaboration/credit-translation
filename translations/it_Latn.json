@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "languageCode": "ita",
+        "scriptCode": "Latn",
+        "languageName": "Italian",
+        "translators": [
+            {
+                "firstName": "Lorenzo",
+                "middleName": "",
+                "lastName": "Ricolfi",
+                "ORCID": "0000-0001-7101-3309"
+            },
+            {
+                "firstName": "Vittoria",
+                "middleName": "",
+                "lastName": "Porta",
+                "ORCID": "0009-0006-3621-3122"
+            }
+        ],
+        "translationProcedure": "Both translators are native speakers of Italian. Lorenzo did the forward-translation and Vittoria did the back-translation. Lorenzo and Vittoria compared their translations and decided on a final version."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Ideazione",
+            "description": "Idee; formulazione o evoluzione di obiettivi e scopi generali della ricerca"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Cura dei dati",
+            "description": "Attività di gestione per annotare (produrre metadati), organizzare, pulire, e manutenzione dati (incluso il codice software, dove è necessario per l'interpretazione dei dati stessi) per un uso iniziale e un successivo riutilizzo."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Analisi formale",
+            "description": "Applicazione di tecniche statistiche, matematiche, computazionali o di altro tipo formale per analizzare o sintetizzare i dati degli studi"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Acquisizione di fondi",
+            "description": "Acquisizione del supporto finanziario per il progetto che ha portato a questa pubblicazione"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Indagine",
+            "description": "Conduzione di una ricerca e indagine, in particolare eseguire gli esperimenti o la raccolta di dati/evidenze."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodologia",
+            "description": "Sviluppo o ideazione di una metodologia; creazione di metodi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Amministrazione di progetto",
+            "description": "Responsabilità di gestione e coordinamento della pianificazione e dell'esecuzione delle attività di ricerca"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Risorse",
+            "description": "Fornitura del materiale di studio, reagenti, materiali, pazienti, campioni di laboratorio, animali, strumentazione, risorse informatiche o altri strumenti di analisi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Programma",
+            "description": "Programmazione, sviluppo software; progettazione di programmi informatici; implementazione del codice informatico e algoritmi di supporto; test dei componenti di codice esistenti."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Supervisore",
+            "description": "Responsabilità di supervisione e dirigenza per la pianificazione e l'esecuzione delle attività di ricerca, incluso il tutoraggio esterno al team principale."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validazione",
+            "description": "Verifica della replicabilità/riproducibilità complessiva dei risultati/esempi e di altri output di ricerca, sia come parte dell'attività sia esternamente"
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Visualizzazione",
+            "description": "Preparazione, creazione e/o presentazione del lavoro pubblicato, in particolare visualizzazione/presentazione dei dati."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Redazione - bozza originale",
+            "description": "reparazione, creazione e/o presentazione del lavoro pubblicato, in particolare la scrittura della bozza iniziale (inclusa la traduzione effettiva)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Scrittura - revisione e modifica",
+            "description": "Preparazione, creazione e/o presentazione del lavoro pubblicato da parte di coloro che appartengono al gruppo di ricerca originale, in particolare revisione, nota critica o recensione– comprese le fasi di pre- o post-pubblicazione."
+        }
+    }
+}
