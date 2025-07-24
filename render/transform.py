@@ -36,6 +36,7 @@ def json_to_md(json_data, en_data, filename):
     # YAML header with title and date
     # Check if "languageName" exists in metadata, otherwise use get_language_name
     language_name = json_data["metadata"].get("languageName") or get_language_name(json_data["metadata"]["languageCode"])
+    
     md_content = f"""---
 title: "{language_name} translation of CRediT"
 date: {datetime.now().strftime('%Y-%m-%d')}
@@ -93,10 +94,10 @@ def transform_json_to_md(directory, output_directory):
     os.makedirs(output_directory, exist_ok=True)
 
     # Load the English translation for reference
-    en_data = open_json_file(os.path.join(directory, "en.json"))
+    en_data = open_json_file(os.path.join(directory, "en_Latn.json"))
 
     for filename in os.listdir(directory):
-        if filename.endswith(".json") and filename != "en.json":
+        if filename.endswith(".json") and filename != "en_Latn.json":
             json_path = os.path.join(directory, filename)
             try:
                 json_data = open_json_file(json_path)
