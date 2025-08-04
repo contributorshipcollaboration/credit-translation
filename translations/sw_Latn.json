@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "languageCode": "swa",
+        "scriptCode": "Latn",
+        "languageName": "Swahili",
+        "translators": [
+            {
+                "firstName": "Boniface",
+                "lastName": "Munyao",
+                "middleName": "Maenge",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Harriet",
+                "lastName": "Nyamvula",
+                "middleName": "Melany",
+                "ORCID": ""
+            },
+            {
+                "firstName": "Jemimah",
+                "lastName": "Kavinya",
+                "middleName": "Mutisya",
+                "ORCID": ""
+            }
+        ],
+        "translationProcedure": "Forward translation by Boniface Maenge Munyao. The reverse translation was done by Harriet and confirmed by Jemimah (Not initially involved with Credit translation) and the unified translation was agreed upon."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Udhanifu",
+            "description": "Mawazo; kwa uundaji au mageuzi katika malengo na shabaha yaliyoenea katika utafiti."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Upangaji wa takwimu",
+            "description": "Udhibiti wa shughuli za kufasili (Kutunga takwimu kuu), kusahihisha takwimu na kutunza takwimu za utafiti (ikiwemo msimbo wa programu, pale inapohitajika katika utafsiri wa takwimu yenyewe) kwa utumizi wa awali na wa baadaye tena."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Uchambuzi rasmi",
+            "description": "Matumizi ya takwimu, hisabati, mkokotoo, au mbinu mbadala rasmi za kuchambua au kusanisi takwimu za uchunguzi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Kupata ufadhili",
+            "description": "Kupatikana kwa usaidizi wa kifedha wa mradi utakaofanikisha chapisho hili."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Uchunguzi",
+            "description": "Kuendesha utafiti na mchakato wa uchunguzi , haswa katika kufanya majaribio, au ukusanyaji wa takwimu/idhibati."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Mbinu",
+            "description": "Uundaji au usanifu wa mbinu; uvumbuzi wa tarakibu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Usimamizi wa mradi",
+            "description": "Jukumu la kudhibiti na kuratibu shughuli za mradi, kupanga na kutekeleza."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Rasilimali",
+            "description": "Utoaji wa nyenzo za uchunguzi, vitendanishi, nyenzo, wagonjwa, sampuli za maabara, wanyama, maandalizi ya zana na ala za utafiti, kuhasibu rasilimali, au vifaa vingine vya uchambuzi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Programu",
+            "description": "Kupanga programu, maendeleo ya programu, kubuni programu za tarakilishi, kutekeleza msimbo wa tarakilishi na algoriti za usaidizi, majaribio ya vipengele vya msimbo iliyopo."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Usimamizi",
+            "description": "Jukumu la uangalizi na uongozi wa shughuli za mradi kupanga na kukeleza,ikiwemo ushauri kando na kikundi msingi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Udhibitisho",
+            "description": "Uhakikisho, ikiwa kama sehemu ya shughuli au tenganishi, ya urudufu wa jumla/ uwezo wa kuzalisha tena majibu/ majaribio na matokeo mengine ya mradi."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Taswira",
+            "description": "Maandalizi, uvumbuzi na/au maonyesho ya kazi iliyochapishwa, hasa maonyesho/mawasilisho ya takwimu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Uandishi– rasimu halisi",
+            "description": "Matayarisho, uvumbuzi na/ au mawasilisho ya kazi iliyochapishwa, haswa uandishi wa rasimu halisi (ikiwemo tafsiri ya muhimu)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Uandashi - uhakiki & uhariri",
+            "description": "Matayarisho, uvumbuzi na/au maonyesho ya kazi iliyochapishwa na wahusika kutoka kikosi halisi cha mradi haswa uhariri mkuu, maoni au marudio- ikiwemo kabla- su baada- hatua za uchapishaji."
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "languageCode": "cz",
+        "scriptCode": "Latn",
+        "languageName": "Czech",
+        "translators": [
+            {
+                "firstName": "Nina",
+                "lastName": "Trubanová",
+                "middleName": "",
+                "ORCID": "0000-0001-8156-3304"
+            },
+            {
+                "firstName": "Radana",
+                "lastName": "Chytilová",
+                "middleName": "",
+                "ORCID": "0009-0007-9675-5553"
+            }
+        ],
+        "translationProcedure": "Nina Trubanová and Radana Chytilová localised from English to Czech independently, then compared the two translations and agreed on the final version."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Konceptualizace",
+            "description": "Nápady, formulace a geneze klíčových výzkumných cílů a také záměru výzkumu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Správa dat",
+            "description": "Správa činností vedoucích k anotaci (tvorba metadat), čištění dat a zachování výzkumných dat (včetně kódu, který je nezbytný pro samotnou interpretaci dat) pro prvotní i pozdější opětovné využití."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formální analýza",
+            "description": "Uplatnění statistických, matematických, výpočetních nebo dalších běžně používaných přístupů vedoucích k analýze nebo systémovému souhrnu dat studie."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Získání finančních prostředků",
+            "description": "Získání finanční podpory pro zajištění projektu vedoucího k publikačnímu výstupu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Výzkum",
+            "description": "Provedení vstupní rešerše tématu a výzkumného procesu, konkrétně provádění experimentů nebo sběr dat/důkazů."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Metodologie",
+            "description": "Vývoj nebo návrh metodologie, tvorba modelů."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Administrativní správa projektu",
+            "description": "Odpovědnost za řízení, koordinaci plánování a provádění výzkumných činností."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Zdroje",
+            "description": "Poskytnutí studijních materiálů, činidel, materiálů, přístupu k pacientům (účastníkům studie), laboratorních vzorků, přístupu k pokusným zvířatům, přístrojů, výpočetních prostředků nebo jiných analytických nástrojů."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Software",
+            "description": "Programování, vývoj softwaru, navrhování počítačových programů, implementace počítačového kódu a podpůrných algoritmů, testování stávajících součástí kódu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Dohled",
+            "description": "Dohled nad plánováním a vykonáním výzkumné činnosti, vedení kolegů a kolegyň v týmu, kultivace skupinové dynamiky, včetně mentorování externích pracovníků hlavního týmu."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Ověřování",
+            "description": "Průběžné i závěrečné ověřování souhrnné replikovatelnosti/reprodukovatelnosti výsledků/experimentů a dalších výzkumných výstupů."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Vizualizace",
+            "description": "Příprava, tvorba a/nebo prezentace publikované práce, zejména vizualizace/prezentace dat."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Psaní – původní pracovní verze",
+            "description": "Příprava, tvorba a/nebo prezentace publikovaného díla, zejména napsání původní pracovní verze (včetně obsahového překladu)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Psaní – návrh změn a editace",
+            "description": "Příprava, tvorba a/nebo prezentace publikované práce osobami z původní výzkumné skupiny, zejména kritické recenze, komentáře nebo revize během procesu finalizace konečné verze, ale i po samotném publikování."
+        }
+    }
+}

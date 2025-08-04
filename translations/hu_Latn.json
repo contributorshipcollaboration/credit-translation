@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "languageCode": "hu",
+        "scriptCode": "Latn",
+        "languageName": "Hungarian",
+        "translators": [
+            {
+                "firstName": "Marton",
+                "middleName": "",
+                "lastName": "Kovacs",
+                "ORCID": "0000-0002-8142-8492"
+            },
+            {
+                "firstName": "Marton",
+                "middleName": "A.",
+                "lastName": "Varga",
+                "ORCID": "0000-0002-8828-3070"
+            }
+        ],
+        "translationProcedure": "The translators mutually went through the items in an online call and reached consensus about possible differences of translations. Each translator started from the bottom or the top and then compared results together upon finishing the translations. The translations have been further reviewed after a couple of months."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Konceptualizáció / Ötletelés",
+            "description": "Ötletek gyűjtése, a kutatás értelmének és céljainak meghatározása és kibontakoztatása."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Adatkezelés",
+            "description": "Minden, az adatok jelölésével (pl. metaadatok), tisztításával, megőrzésével kapcsolatos munka, amelyek célja az adatok kezdeti és későbbi felhasználhatóságának elősegítése."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Formális elemzés",
+            "description": "Az adatok összesítésére vagy elemzésére vonatkozó statisztikai, matematikai, komputációs, vagy egyéb formális eljárás használata."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Pénzügyi támogatás megszerzése",
+            "description": "A kutatási projekt pénzügyi támogatásának beszerzése, a kutatás publikálásáig bezárólag."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Adatgyűjtés",
+            "description": "A kutatási és vizsgálati folyamat lebonyolítása, pontosabban, kísérletek levezetése vagy a kutatási kérdésre vonatkozó adatok gyűjtése."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Módszertan",
+            "description": "A kutatás módszereinek kifejlesztése / megformálása, modell / elméletalkotás."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "A kutatási projekt levezénylése",
+            "description": "A kutatás során felmerülő koordinációs és csapatvezetési feladatok tervezése és ellátása."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Erőforrások kezelése",
+            "description": "Kutatási anyagok, vegyszerek, anyagok, páciensek, laboratóriumi minták, állatok, eszkötök, számítási erőforrások, vagy egyéb analízishez használt eszközök kezelése. "
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Szotfver",
+            "description": "Programozás, szoftver fejlesztés; számítógépes programok tervezése; számítógépes kód vagy segítő algoritmusok elkészítése; meglévő kód részek tesztelése."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Témavezetés",
+            "description": "Felügyeleti és vezetői felelősség a kutatási tevékenység tervezéséért és végrehajtásáért, beleértve a kutatásban résztvevő \"alapcsapaton\" kívüli mentorálást is (pl. szakdolgozók, terepgyakorlaton résztvevők)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Validáció",
+            "description": "Az eredmények/kísérletek és egyéb kutatási eredmények általános megismételhetőségének/reprodukálhatóságának ellenőrzése, akár a tevékenység részeként, akár különállóan."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Ábrázolás",
+            "description": "A közzétett munka előkészítése, létrehozása és/vagy bemutatása, kifejezetten az adatvizualizációk és ábrák bemutatásara vonatkozóan."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Cikkírás - eredeti vázlat elkészítése",
+            "description": "A publikált mű előkészítése, létrehozása és/vagy bemutatása, kifejezetten az első tervezet megírása (beleértve az érdemi fordítást is)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Írás - lektorálás vagy szerkesztés",
+            "description": "A közzétett munka előkészítése, létrehozása és/vagy bemutatása az eredeti kutatócsoport tagjai által, kifejezetten a kritikai felülvizsgálat, kommentár vagy átdolgozás - beleértve a publikálás előtti vagy utáni szakaszokat is."
+        }
+    }
+}
