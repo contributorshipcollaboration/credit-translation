@@ -1,6 +1,6 @@
 ---
 title: "Slovak translation of CRediT"
-date: 2025-07-24
+date: 2025-08-04
 language: "Slovak"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sk_Latn.json"

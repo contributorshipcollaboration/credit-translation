@@ -1,6 +1,6 @@
 ---
 title: "Catalan translation of CRediT"
-date: 2025-07-24
+date: 2025-08-04
 language: "Catalan"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ca_Latn.json"

@@ -1,6 +1,6 @@
 ---
 title: "Swahili translation of CRediT"
-date: 2025-07-24
+date: 2025-08-04
 language: "Swahili"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sw_Latn.json"
