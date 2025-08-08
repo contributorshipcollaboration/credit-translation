@@ -1,12 +1,12 @@
 ---
-title: "Norsk (nynorsk) translation of CRediT"
+title: "Norwegian (Nynorsk) translation of CRediT"
 date: 2025-08-08
-language: "Norsk (nynorsk)"
+language: "Norwegian (Nynorsk)"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/nno_Latn.json"
 ---
 
-| Norsk (nynorsk) | English |
+| Norwegian (Nynorsk) | English |
 | --- | --- |
 | **Idéutforming** | **Conceptualization** |
 | Idear, utforme eller utvikle overordna mål og delmål for forskinga. | Ideas; formulation or evolution of overarching research goals and aims. |
