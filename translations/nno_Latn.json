@@ -1,80 +1,78 @@
 {
     "metadata": {
-        "languageCode": "nno",
+        "languageCode": "no",
+        "languageName": "Norsk (nynorsk)",
         "scriptCode": "Latn",
-        "languageName": "Norwegian - Nynorsk",
         "translators": [
             {
-                "firstName": "Bj�rn",
-                "lastName": "S�trevik",
-                "middleName": "",
+                "firstName": "Bjørn",
+                "lastName": "Sætrevik",
                 "ORCID": "0000-0002-9367-6987"
             },
             {
-                "firstName": "Ulvhild",
-                "lastName": "F�r�vik",
-                "middleName": "Helena Tormodsdatter",
+                "firstName": "Ulvhild Helena Tormodsdatter",
+                "lastName": "Færøvik",
                 "ORCID": "0009-0000-6460-6245"
             }
         ],
-        "translationProcedure": "Both translators are native speakers of Norwegian (trained in both written forms, 'Bokm�l' and 'Nynorsk'). BS did the initial translation, whild UHTF did the back-translation to English. Both translators compared, discussed and verified the back-translation to the original English, and found it to be acceptable."
+        "translationProcedure": "Both translators are native speakers of Norwegian (trained in both written forms, 'Bokmål' and 'Nynorsk'). BS did the initial translation, whild UHTF did the back-translation to English. Due to similarity between the two written forms of Norwegian, there were no differences between the back-translation from 'Nynorsk' and from 'Bokmål'. Both translators compared, discussed and verified the back-translation to the original English, and found it to be acceptable."
     },
     "translations": {
-        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
-            "name": "Id�utforming",
-            "description": "Idear, utforme eller utvikle overordna m�l og delm�l for forskinga."
+        "https://credit.niso.org/contributor-roles/conceptualization/": {
+            "name": "Idéutforming",
+            "description": "Idear, utforme eller utvikle overordna mål og delmål for forskinga."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+        "https://credit.niso.org/contributor-roles/data-curation/": {
             "name": "Dataivaretaking",
-            "description": "Lede arbeidet med � kommentere (lage metadata), reinske data, og vedlikehalde forskingsdata for f�rste bruk og seinare gjenbruk (inkluderer programvarekode, dersom det er n�dvendig for � tolke sj�lve data)."
+            "description": "Lede arbeidet med å kommentere (lage metadata), reinske data, og vedlikehalde forskingsdata for første bruk og seinare gjenbruk (inkluderer programvarekode, dersom det er nødvendig for å tolke sjølve data)."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+        "https://credit.niso.org/contributor-roles/formal-analysis/": {
             "name": "Strukturert analyse",
-            "description": "Bruk av statistikk, matematikk, utrekning, eller anna strukturert teknikk for � analysere eller gje oversikt over forskingsdata."
+            "description": "Bruk av statistikk, matematikk, utrekning, eller anna strukturert teknikk for å analysere eller gje oversikt over forskingsdata."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+        "https://credit.niso.org/contributor-roles/funding-acquisition/": {
             "name": "Skaffe finansiering",
-            "description": "Skaffe finansiell st�tte for prosjektet som f�rte til denne publikasjonen."
+            "description": "Skaffe finansiell støtte for prosjektet som førte til denne publikasjonen."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
-            "name": "Unders�king",
-            "description": "Gjennomf�re forskings- og unders�kingsprosessen, meir spesifikt � utf�re eksperimenta, eller samle inn data eller bevis."
+        "https://credit.niso.org/contributor-roles/investigation/": {
+            "name": "Undersøking",
+            "description": "Gjennomføre forskings- og undersøkingsprosessen, meir spesifikt å utføre eksperimenta, eller samle inn data eller bevis."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+        "https://credit.niso.org/contributor-roles/methodology/": {
             "name": "Metodologi",
             "description": "Utvikle eller designe metodologien, skape modellar."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+        "https://credit.niso.org/contributor-roles/project-administration/": {
             "name": "Prosjektadministrasjon",
-            "description": "Leiing og � ha samordningsansvar for � planlegge og gjennomf�re forskingsaktivitetar."
+            "description": "Leiing og å ha samordningsansvar for å planlegge og gjennomføre forskingsaktivitetar."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+        "https://credit.niso.org/contributor-roles/resources/": {
             "name": "Ressursar",
-            "description": "� gjere tilgjengeleg studiematerialar, reagensar, materialar, pasientar, laboratoriepr�var, dyr, instrument, utrekningsressursar eller anna analyseverkt�y."
+            "description": "Å gjere tilgjengeleg studiematerialar, reagensar, materialar, pasientar, laboratorieprøvar, dyr, instrument, utrekningsressursar eller anna analyseverktøy."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+        "https://credit.niso.org/contributor-roles/software/": {
             "name": "Programvare",
-            "description": "Programmere, utvikle programvare, designe dataprogram, implementera datakode og st�ttande algoritmar, teste ut eksisterande kodekomponentar."
+            "description": "Programmere, utvikle programvare, designe dataprogram, implementera datakode og støttande algoritmar, teste ut eksisterande kodekomponentar."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+        "https://credit.niso.org/contributor-roles/supervision/": {
             "name": "Rettleiing",
-            "description": "Oversj� og � ha leiingsansvar for planlegging og utf�ring av forskingsaktivitetar, inkludert rettleiing ut over kjerneteamet."
+            "description": "Oversjå og å ha leiingsansvar for planlegging og utføring av forskingsaktivitetar, inkludert rettleiing ut over kjerneteamet."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+        "https://credit.niso.org/contributor-roles/validation/": {
             "name": "Validering",
-            "description": "Bekrefte at resultata, eksperimenta eller andre forskingsutkommer let seg bli replikert eller reprodusert, anten som del av andre aktivitetar eller som ein egen aktivitet."
+            "description": "Bekrefte at resultata, eksperimenta eller andre forskingsutkommer let seg bli replikert eller reprodusert, anten som del av andre aktivitetar eller som ein eigen aktivitet."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+        "https://credit.niso.org/contributor-roles/visualization/": {
             "name": "Visualisering",
-            "description": "F�rebu, skape og\/eller presentere det publiserte arbeidet, spesifikt visualisering eller datapresentasjon."
+            "description": "Førebu, skape og/eller presentere det publiserte arbeidet, spesifikt visualisering eller datapresentasjon."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
-            "name": "Skriving � f�rste utkast",
-            "description": "F�rebu, skape og\/eller presentere det publiserte arbeidet, spesifikt � skrive f�rste utkast (inkludert omfattande omsetting)."
+        "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+            "name": "Skriving – første utkast",
+            "description": "Førebu, skape og/eller presentere det publiserte arbeidet, spesifikt å skrive første utkast (inkludert omfattande omsetting)."
         },
-        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
-            "name": "Skriving � revisjon og redigering",
-            "description": "F�rebu, skape og\/eller presentere det publiserte arbeidet fr� den originale forskingsgruppa, spesifikt � g� kritisk gjennom, kommentere og revidere � b�de f�r og etter publikasjon."
+        "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+            "name": "Skriving – revisjon og redigering",
+            "description": "Førebu, skape og/eller presentere det publiserte arbeidet frå den originale forskingsgruppa, spesifikt å gå kritisk gjennom, kommentere og revidere – både før og etter publikasjon."
         }
     }
 }
