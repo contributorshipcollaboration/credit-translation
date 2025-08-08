@@ -1,6 +1,6 @@
 ---
 title: "Ukrainian translation of CRediT"
-date: 2025-08-04
+date: 2025-08-08
 language: "Ukrainian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/uk_Cyrl.json"
