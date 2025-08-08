@@ -17,86 +17,62 @@
     ],
     "translationProcedure": "JK did the inital translation, HN did the reverse translation. Both translators compared the original and back-translated versions and adjusted the initial translation."
   },
-  "translations": [
-    {
-      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
-      "lang": "en",
-      "translation": "Conceptualization"
+  "translations": {
+    "https://credit.niso.org/contributor-roles/conceptualization/": {
+      "name": "Kon­ceptu­al­is­ering",
+      "description": "Idéer; formulering eller utveckling av övergripande forskningsmål och syften."
     },
-    {
-      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed74",
-      "lang": "sv",
-      "translation": "Kon­ceptu­al­is­ering"
+    "https://credit.niso.org/contributor-roles/data-curation/": {
+      "name": "Datahantering",
+      "description": "Åtgärder för att annotera (producera metadata), rensa och underhålla forskningsdata (inklusive programkod om det är nödvändigt för att tolka själva data) för initial användning och senare återanvändning."
     },
-    {
-      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed75",
-      "lang": "en",
-      "translation": "Ideas; formulation or evolution of overarching research goals and aims."
+    "https://credit.niso.org/contributor-roles/formal-analysis/": {
+      "name": "Formell analys",
+      "description": "Tillämpning av statistiska, matematiska, beräkningsmässiga eller andra formella tekniker för att analysera och sammanfatta data."
     },
-    {
-      "id": "8b73531f-db56-4914-9502-4cc4d4d8ed76",
-      "lang": "sv",
-      "translation": "Idéer; formulering eller utveckling av övergripande forskningsmål och syften."
+    "https://credit.niso.org/contributor-roles/funding-acquisition/": {
+      "name": "Förvärv av finansiellt stöd",
+      "description": "Förvärv av finansiellt stöd för det projekt som ledde till denna publikation."
     },
-    {
-      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
-      "lang": "en",
-      "translation": "Data curation"
+    "https://credit.niso.org/contributor-roles/investigation/": {
+      "name": "Vetenskaplig undersökning",
+      "description": "Genomförande av forsknings- och undersökningsprocess, speciellt avseende utförande av experiment eller insamling av data/evidens."
     },
-    {
-      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
-      "lang": "sv",
-      "translation": "Datahantering"
+    "https://credit.niso.org/contributor-roles/methodology/": {
+      "name": "Metodik",
+      "description": "Utveckling eller design av metodik; framtagande av modeller."
     },
-    {
-      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
-      "lang": "en",
-      "translation": "Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use."
+    "https://credit.niso.org/contributor-roles/project-administration/": {
+      "name": "Projektadministration",
+      "description": "Hanterings- och koordineringsanvar för planering och genomförande av forskningsaktivitet."
     },
-    {
-      "id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
-      "lang": "sv",
-      "translation": "Åtgärder för att annotera (producera metadata), rensa och underhålla forskningsdata (inklusive programkod om det är nödvändigt för att tolka själva data) för initial användning och senare återanvändning."
+    "https://credit.niso.org/contributor-roles/resources/": {
+      "name": "Resurser",
+      "description": "Tillhandahållande av studiematerial, reagenser, patienter, laboratorieprov, djur, instrument, beräkningsresurser eller andra analysverktyg."
     },
-    {
-      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
-      "lang": "en",
-      "translation": "Formal analysis"
+    "https://credit.niso.org/contributor-roles/software/": {
+      "name": "Programvara",
+      "description": "Programmering, utveckling av programvara; design av datorprogram; implementering av datakod och stödalgoritmer; test av befintliga kodkomponenter."
     },
-    {
-      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
-      "lang": "sv",
-      "translation": "Formell analys"
+    "https://credit.niso.org/contributor-roles/supervision/": {
+      "name": "Handledning",
+      "description": "Tillsyns- och ledarskapsansvar för planering och genomförande av forskningsaktivitet, inklusive handledning utanför kärngruppen."
     },
-    {
-      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
-      "lang": "en",
-      "translation": "Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data."
+    "https://credit.niso.org/contributor-roles/validation/": {
+      "name": "Validering",
+      "description": "Verifiering av övergripande replikering/reproducerbarhet av resultat, experiment och andra forskningsprodukter, antingen som del av aktiviteten eller separat."
     },
-    {
-      "id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
-      "lang": "sv",
-      "translation": "Tillämpning av statistiska, matematiska, beräkningsmässiga eller andra formella tekniker för att analysera och sammanfatta data."
+    "https://credit.niso.org/contributor-roles/visualization/": {
+      "name": "Visualisering",
+      "description": "Förberedelse, utformning och/eller presentation av det publicerade arbetet, speciellt avseende visualisering och presentation av data."
     },
-    {
-      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
-      "lang": "en",
-      "translation": "Funding acquisition"
+    "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+      "name": "Skrivande – första utkast",
+      "description": "Förberedelse, utformning och/eller presentation av det publicerade arbetet, speciellt avseende skrivande av första utkast (inklusive omfattande översättning)."
     },
-    {
-      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
-      "lang": "sv",
-      "translation": "Förvärv av finansiellt stöd"
-    },
-    {
-      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
-      "lang": "en",
-      "translation": "Acquisition of the financial support for the project leading to this publication."
-    },
-    {
-      "id": "34ff6d68-132f-4438-a1f4-fba61ccf364a",
-      "lang": "sv",
-      "translation": "Förvärv av finansiellt stöd för det projekt som ledde till denna publikation."
+    "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+      "name": "Skrivande – granskning och redigering",
+      "description": "Förberedelse, utformning och/eller presentation av det publicerade arbetet av de som ingår i den ursprungliga forskargruppen, speciellt med avseende på kritisk granskning, kommentering eller revidering – både före och efter publicering."
     }
-  ]
+  }
 }
