@@ -1,12 +1,12 @@
 ---
-title: "Serbian translation of CRediT"
+title: "Serbian (Cyrillic) translation of CRediT"
 date: 2025-08-08
-language: "Serbian"
+language: "Serbian (Cyrillic)"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sr_Cyrl.json"
 ---
 
-| Serbian | English |
+| Serbian (Cyrillic) | English |
 | --- | --- |
 | **Концептуализација** | **Conceptualization** |
 | Идеје; обликовање или развијање општих истраживачких циљева и намера. | Ideas; formulation or evolution of overarching research goals and aims. |
