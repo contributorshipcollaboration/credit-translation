@@ -1,6 +1,6 @@
 ---
 title: "Portuguese translation of CRediT"
-date: 2025-08-08
+date: 2025-08-11
 language: "Portuguese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/pt_Latn.json"

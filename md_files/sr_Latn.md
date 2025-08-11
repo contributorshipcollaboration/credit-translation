@@ -1,6 +1,6 @@
 ---
 title: "Serbian (Latin) translation of CRediT"
-date: 2025-08-08
+date: 2025-08-11
 language: "Serbian (Latin)"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sr_Latn.json"
@@ -32,7 +32,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Verifikacija, kao deo aktivnosti ili odvojeno, opšte replikacije/ponovljivosti rezultata/eksperimenata i drugih istraživačkih rezultata. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Vizuelizacija** | **Visualization** |
 | Priprema, stvaranje i/ili prikazivanje objavljenog rada, konkretno vizuelizacija/predstavljanje podataka. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
-| **Originalni nacrt** | **Writing – Original Draft Preparation** |
+| **Pisanje – originalni nacrt** | **Writing – Original Draft Preparation** |
 | Priprema, stvaranje i/ili predstavljanje objavljenog rada, konkretno pisanje originalnog nacrta (uključujući suštinski prevod nacrta). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
 | **Pisanje – provera i redigovanje** | **Writing – Review & Editing** |
 | Priprema, stvaranje i/ili predstavljanje objavljenog rada od strane grupe koja je sprovela istraživanje, pogotovo kritički pregled, komentar ili revizija – uključujući faze pre i nakon objavljivanja rada. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |

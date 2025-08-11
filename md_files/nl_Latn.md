@@ -1,6 +1,6 @@
 ---
 title: "Dutch translation of CRediT"
-date: 2025-08-08
+date: 2025-08-11
 language: "Dutch"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/nl_Latn.json"
