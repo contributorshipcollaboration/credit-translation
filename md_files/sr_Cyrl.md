@@ -32,7 +32,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Верификација, као део активности или одвојено, опште репликације/поновљивости резултата/експеримената и других истраживачких резултата. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Визуелизација** | **Visualization** |
 | Припрема, стварање и/или приказивање објављеног рада, конкретно визуелизација/представљање података. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
-| **Оригинални нацрт** | **Writing – Original Draft Preparation** |
+| **Писање – оригинални нацрт** | **Writing – Original Draft Preparation** |
 | Припрема, стварање и/или представљање објављеног рада, конкретно писање оригиналног нацрта (укључујући суштински превод нацрта). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
 | **Писање – провера и редиговање** | **Writing – Review & Editing** |
 | Припрема, стварање и/или представљање објављеног рада од стране групе која је спровела истраживање, поготово критички преглед, коментар или ревизија – укључујући фазе пре и након објављивања рада. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |
