@@ -77,7 +77,7 @@
       "description": "Припрема, стварање и/или приказивање објављеног рада, конкретно визуелизација/представљање података."
     },
     "https://credit.niso.org/contributor-roles/writing-original-draft/": {
-      "name": "Оригинални нацрт",
+      "name": "Писање – оригинални нацрт",
       "description": "Припрема, стварање и/или представљање објављеног рада, конкретно писање оригиналног нацрта (укључујући суштински превод нацрта)."
     },
     "https://credit.niso.org/contributor-roles/writing-review-editing/": {
