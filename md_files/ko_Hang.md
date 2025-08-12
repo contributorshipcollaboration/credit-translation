@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Jin-Won  Lee](https://orcid.org/0000-0001-6643-8863), [Hye-Kyoung  Moon](https://orcid.org/0000-0001-5260-4154), Dongjin  Kim
+[Jin-Won  Lee](https://orcid.org/0000-0001-6643-8863), [Hye-Kyoung  Moon](https://orcid.org/0000-0001-5260-4154), [Dongjin  Kim](https://orcid.org/0009-0001-2107-7301)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jin-Won  Lee](https://orcid.org/0000-0001-6643-8863), [Hye-Kyoung  Moon](https://orcid.org/0000-0001-5260-4154), Dongjin  Kim, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jin-Won  Lee](https://orcid.org/0000-0001-6643-8863), [Hye-Kyoung  Moon](https://orcid.org/0000-0001-5260-4154), [Dongjin  Kim](https://orcid.org/0009-0001-2107-7301), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
