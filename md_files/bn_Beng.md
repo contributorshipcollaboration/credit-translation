@@ -1,6 +1,6 @@
 ---
 title: "Bengali translation of CRediT"
-date: 2025-08-11
+date: 2025-08-12
 language: "Bengali"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/bn_Beng.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Arobindu  Dash, Garga  Chatterjee
+[Arobindu  Dash](https://orcid.org/0000-0003-4642-512), Garga  Chatterjee
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Arobindu  Dash, Garga  Chatterjee
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Arobindu  Dash, Garga  Chatterjee, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Arobindu  Dash](https://orcid.org/0000-0003-4642-512), Garga  Chatterjee, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
