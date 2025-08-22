@@ -1,6 +1,6 @@
 ---
 title: "Lithuanian translation of CRediT"
-date: 2025-08-12
+date: 2025-08-22
 language: "Lithuanian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/lt_Latn.json"

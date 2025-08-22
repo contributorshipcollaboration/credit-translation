@@ -1,6 +1,6 @@
 ---
 title: "Portuguese translation of CRediT"
-date: 2025-08-12
+date: 2025-08-22
 language: "Portuguese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/pt_Latn.json"
@@ -51,4 +51,4 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translation Procedure
 
-PP did the translation and EMS (unfamiliar with CRediT) did the back-translation, then both discussed discrepancies between versions and agreed on a refinement. Both are native speakers.
+PP did the translation and EMS (unfamiliar with CRediT) did the back-translation, then both discussed discrepancies between versions and agreed on a refinement. Both are native speakers of Brazilian Portuguese.

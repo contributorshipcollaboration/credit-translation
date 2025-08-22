@@ -1,6 +1,6 @@
 ---
 title: "Finnish translation of CRediT"
-date: 2025-08-12
+date: 2025-08-22
 language: "Finnish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fi_Latn.json"
