@@ -1,6 +1,6 @@
 ---
 title: "Malayalam translation of CRediT"
-date: 2025-08-22
+date: 2025-09-01
 language: "Malayalam"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ml_Mlym.json"

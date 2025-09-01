@@ -1,6 +1,6 @@
 ---
 title: "Hindi translation of CRediT"
-date: 2025-08-22
+date: 2025-09-01
 language: "Hindi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hi_Deva.json"
@@ -51,4 +51,4 @@ Manisha  Sinha, Swastika  Issar
 
 ## Translation Procedure
 
-Both translators are native Hindi speakers.
+Both translators are native Hindi speakers. Both translated different sections and reviewed each others' translations.

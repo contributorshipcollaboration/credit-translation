@@ -1,6 +1,6 @@
 ---
 title: "Italian translation of CRediT"
-date: 2025-08-22
+date: 2025-09-01
 language: "Italian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/it_Latn.json"
