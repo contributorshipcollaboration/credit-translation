@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://github.com/contributorshipcollaboration/credit-translation/blob/main/credit_translation_schema.json",
+    "$id": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
     "title": "JSON schema for CRediT translation",
     "version": "1.2.0",
     "type": "object",
@@ -101,6 +101,7 @@
         }
     },
     "required": [
+        "version",
         "metadata",
         "translations"
     ],
