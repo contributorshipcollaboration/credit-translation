@@ -1,6 +1,6 @@
 ---
 title: "Indonesian translation of CRediT"
-date: 2025-09-01
+date: 2025-09-04
 language: "Indonesian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/id_Latn.json"

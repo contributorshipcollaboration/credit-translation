@@ -1,6 +1,6 @@
 ---
 title: "Serbian (Latin) translation of CRediT"
-date: 2025-09-01
+date: 2025-09-04
 language: "Serbian (Latin)"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sr_Latn.json"

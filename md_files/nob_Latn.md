@@ -1,6 +1,6 @@
 ---
 title: "Norwegian - Bokmål translation of CRediT"
-date: 2025-09-01
+date: 2025-09-04
 language: "Norwegian - Bokmål"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/nob_Latn.json"
