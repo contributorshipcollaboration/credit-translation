@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "languageCode": "tr",
+        "languageName": "Turkish / Türkçe",
+        "scriptCode": "Latn",
+        "translators": [
+            {
+                "firstName": "Murat",
+                "lastName": "Tahtali",
+                "ORCID": "0000-0003-4702-4002"
+            },
+            {
+                "firstName": "Ugur",
+                "lastName": "Turhan"
+            }
+        ],
+        "translationProcedure": "MT created the original translation to Turkish and UT back-translated it to English; both translators agreed on the final version. Referred to ChatGPT and confirmed or edited the translations as needed."
+    },
+    "translations": {
+        "https://credit.niso.org/contributor-roles/conceptualization/": {
+            "name": "Kavramsallaştırma",
+            "description": "Fikirler; araştırmanın genel hedef ve amaçlarının belirlenmesi ya da geliştirilmesi."
+        },
+        "https://credit.niso.org/contributor-roles/data-curation/": {
+            "name": "Veri düzenleme",
+            "description": "Veriye açıklama ekleme (üstveri oluşturma), veriyi ayıklama ve araştırma verisini (verinin yorumlanması için gerekli olduğunda yazılım kodu dahil) ilk kullanım ve sonraki yeniden kullanım için saklama ve düzenleme çalışmaları"
+        },
+        "https://credit.niso.org/contributor-roles/formal-analysis/": {
+            "name": "Biçimsel çözümleme",
+            "description": "Çalışma verilerini çözümlemek ya da birleştirip anlamlandırmak için istatistiksel, sayısal, hesaplamaya dayalı veya başka biçimsel yöntemlerin uygulanması"
+        },
+        "https://credit.niso.org/contributor-roles/funding-acquisition/": {
+            "name": "Ödenek temini",
+            "description": "Bu yayına götüren proje için maddi desteğin sağlanması"
+        },
+        "https://credit.niso.org/contributor-roles/investigation/": {
+            "name": "Araştırma",
+            "description": "Araştırma ve inceleme sürecinin yürütülmesi, özellikle deneylerin yapılması ya da veri/kanıt toplanması."
+        },
+        "https://credit.niso.org/contributor-roles/methodology/": {
+            "name": "Yöntembilim",
+            "description": "Yöntembilimin geliştirilmesi veya tasarlanması; modellerin oluşturulması."
+        },
+        "https://credit.niso.org/contributor-roles/project-administration/": {
+            "name": "Proje yürütümü",
+            "description": "Araştırma faaliyetlerinin planlanması ve yürütülmesine ilişkin yönetim ve eşgüdüm sorumluluğu."
+        },
+        "https://credit.niso.org/contributor-roles/resources/": {
+            "name": "Kaynaklar",
+            "description": "Çalışma gereçleri, etken maddeler, gereçler, hastalar, laboratuvar örnekleri, deney hayvanları, ölçüm araçları, bilişim kaynakları ya da diğer çözümleme araçlarının sağlanması."
+        },
+        "https://credit.niso.org/contributor-roles/software/": {
+            "name": "Yazılım",
+            "description": "Yazılım geliştirme, bilgisayar programlarının tasarımı, bilgisayar kodu ile destekleyici yordamların uygulanması ve mevcut kod bölümlerinin sınanması."
+        },
+        "https://credit.niso.org/contributor-roles/supervision/": {
+            "name": "Denetim",
+            "description": "Araştırma faaliyetlerinin planlanması ve yürütülmesine yönelik gözetim ve yönlendirme sorumluluğu, ana ekip dışında kalanlara rehberlik dahil."
+        },
+        "https://credit.niso.org/contributor-roles/validation/": {
+            "name": "Doğrulama",
+            "description": "Sonuçların, deneylerin ve diğer araştırma çıktılarının genel olarak yinelenebilirliğinin/güvenilirliğinin, çalışmanın bir parçası olarak ya da ondan bağımsız biçimde doğrulanması."
+        },
+        "https://credit.niso.org/contributor-roles/visualization/": {
+            "name": "Görselleştirme",
+            "description": "Yayınlanmış çalışmanın hazırlanması, oluşturulması ve/veya sunulması, özellikle görselleştirme ve veri sunumu."
+        },
+        "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+            "name": "Yazım – özgün taslak",
+            "description": "Yayınlanmış çalışmanın hazırlanması, oluşturulması ve/veya sunulması, özellikle ilk taslağın yazımı (anlamlı çeviriler dahil)."
+        },
+        "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+            "name": "Yazım – gözden geçirme ve düzenleme",
+            "description": "Yayınlanmış çalışmanın, özgün araştırma grubu üyeleri tarafından hazırlanması, oluşturulması ve/veya sunulması; özellikle eleştirel değerlendirme, yorum ya da düzeltme yapılması, yayın öncesi veya sonrası aşamalar dahil."
+        }
+    }
+}
