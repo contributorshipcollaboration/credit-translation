@@ -1,6 +1,6 @@
 ---
 title: "French translation of CRediT"
-date: 2025-09-04
+date: 2025-09-08
 language: "French"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fr_Latn.json"
