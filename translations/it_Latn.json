@@ -1,4 +1,6 @@
 {
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "version": "1.0.0",
     "metadata": {
         "languageCode": "ita",
         "scriptCode": "Latn",
