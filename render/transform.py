@@ -84,6 +84,10 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
     translation_procedure = json_data["metadata"]["translationProcedure"]
     md_content += f"## Translation Procedure\n\n{translation_procedure}"
 
+    # Translation version section
+    version = json_data.get("version", "N/A")
+    md_content += f"\n## Translation Version\n\n **{version}**.\n"
+
     return md_content
 
 def transform_json_to_md(directory, output_directory):
