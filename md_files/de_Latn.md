@@ -1,6 +1,6 @@
 ---
 title: "German translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "German"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/de_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 TL, CJ, and HH are all native speakers of German. A first version by TL existed for some time. CJ introduced an additional translation draft. TL and CJ merged the few differences between the two versions favoring broader (in the sense of suitability for as many disciplines and working environments as possible) translations. The final translation was then back-translated by HH, and finally approved by all parties.
+## Translation Version
+
+ **1.0.0**.

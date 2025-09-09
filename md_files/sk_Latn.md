@@ -1,6 +1,6 @@
 ---
 title: "Slovak translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Slovak"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sk_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Nina Trubanová and Marek Vranka independently translated the text from English to Slovak, then compared their versions and agreed on a final version. Viktória Šinkorová handled the editing and proofreading. Zuzana Irsova cross-checked and provided suggestions on alternative translations.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Turkish translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Turkish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/tr_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 MT created the original translation to Turkish and UT back-translated it to English; both translators agreed on the final version. Referred to ChatGPT and confirmed or edited the translations as needed.
+## Translation Version
+
+ **N/A**.

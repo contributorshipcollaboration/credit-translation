@@ -1,6 +1,6 @@
 ---
 title: "Finnish translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Finnish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fi_Latn.json"
@@ -52,3 +52,6 @@ Antti-Jussi  Nygård, [Jussi  Lehtonen](https://orcid.org/0000-0001-5260-1041), 
 ## Translation Procedure
 
 Antti-Jussi had previously made a translation, which Jussi reviewed and made some changes to. The resulting version was validated by Heikki, which again resulted in some changes.
+## Translation Version
+
+ **1.0.0**.

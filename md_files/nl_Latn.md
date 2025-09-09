@@ -1,6 +1,6 @@
 ---
 title: "Dutch translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Dutch"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/nl_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Both translators are native Dutch speakers. ET conducted the initial translation from English to Dutch. RT, who was unfamiliar with CRediT, performed the back-translation from Dutch to English. ET and RT subsequently compared and discussed the two versions, refining the Dutch translation until reaching a consensus. The final translation was approved by both parties.
+## Translation Version
+
+ **1.0.0**.

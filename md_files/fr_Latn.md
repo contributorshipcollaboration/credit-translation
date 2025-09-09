@@ -1,6 +1,6 @@
 ---
 title: "French translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "French"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fr_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Amélie Gourdon-Kanhukamwe and David Vaidis, both native French speakers, translated from English to French together, conferring as they went through the translation. Finalization and choices were made by David Vaidis. Back translation and comparison were made with Claude.IA under the responsibility of David Vaidis.
+## Translation Version
+
+ **1.0.0**.

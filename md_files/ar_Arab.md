@@ -1,6 +1,6 @@
 ---
 title: "Arabic translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Arabic"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ar_Arab.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Both translators are native Arabic speakers. Omayma Missawi completed a back-translation of the Arabic draft and made adjustments for clarity and alignment with the original English text.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Swahili translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Swahili"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sw_Latn.json"
@@ -52,3 +52,6 @@ Boniface Maenge Munyao, Harriet Melany Nyamvula, Jemimah Mutisya Kavinya
 ## Translation Procedure
 
 Forward translation by Boniface Maenge Munyao. The reverse translation was done by Harriet and confirmed by Jemimah (Not initially involved with Credit translation) and the unified translation was agreed upon.
+## Translation Version
+
+ **1.0.0**.

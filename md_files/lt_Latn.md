@@ -1,6 +1,6 @@
 ---
 title: "Lithuanian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Lithuanian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/lt_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 IK and BDV are both native speakers of Lithuanian. IK made the initial translations into Lithuanian. BDV then back-translated the phrases from Lithuanian to English. IK and BDV then compared the English versions and identified problematic parts. Through discussion, they reached a consensus on the most appropriate translation into Lithuanian.
+## Translation Version
+
+ **1.0.0**.

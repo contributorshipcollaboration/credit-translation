@@ -1,6 +1,6 @@
 ---
 title: "Japanese translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Japanese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ja_Jpan.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 We are native speakers of Japanese. AM translated the text from English to Japanese. Then, we discussed the translation together to see if it is appropriate. Finally, we reached a consensus. When translating between English and Japanese, it is not always possible to guarantee a perfect one-to-one correspondence between the translation and the original text. This is because there may be multiple possible translations for a given word or phrase. However, AM has tried to minimise the differences between the original and the back-translated text.
+## Translation Version
+
+ **1.0.0**.

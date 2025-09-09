@@ -1,6 +1,6 @@
 ---
 title: "Farsi translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Farsi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fa_Arab.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Saeed Shafiei Sabet is native speaker of farsi language and familiar with CRediT. Marziyeh Amini Fard is a native speaker who back-translated the draft translation into English. Then Saeed Shafiei Sabet compared the original with the back-translation and found no profound problems or serious mismatch.
+## Translation Version
+
+ **1.0.0**.

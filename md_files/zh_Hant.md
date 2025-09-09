@@ -1,6 +1,6 @@
 ---
 title: "Chinese - traditional translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Chinese - traditional"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/zh_Hant.json"
@@ -52,3 +52,6 @@ Yefeng  Yang, Wawa  Yu, [Alex O. Holcombe](https://orcid.org/0000-0003-2869-0085
 ## Translation Procedure
 
 Yefeng did the forward-translation and Wawa did the back-translation. Then, Wawa (and Alex, who doesn't know Chinese) looked through it comparing the original to the back translation and using their own judgment, made small changes and finalized the translation.
+## Translation Version
+
+ **1.0.0**.

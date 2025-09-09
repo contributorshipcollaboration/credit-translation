@@ -1,6 +1,6 @@
 ---
 title: "Polish translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Polish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/pl_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Malgorzata Lagisz and Marta Kowal, native speakers of Polish, translated from English to Polish together, conferring as they went through the translation. Then, Jakub Krasucki, native speaker of Polish, naive to the original CRediT, performed a back-translation. In the next step, we compared the two versions and arrived at the final translation.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Malayalam translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Malayalam"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ml_Mlym.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
  Translated from English to Malayalam by Dr Aswathi Surendran and back translated by Ms Varada Sadanandan Potty,  and agreed on the final version.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Russian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Russian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ru_Cyrl.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Dmitry Kochetkov prepared the original draft. Irina Kochetkova commented on the original draft and enriched the translation with alternatives. Dmitry Kochetkov conducted a back translation using Yandex.Translate, which scored highest in the DiBiMT benchmark, with analysis of alternatives provided by the software. Translation 3 was taken from https://doi.org/10.56414/jeac.2022.24. Dmitry Kochetkov drafted a summarizing version, which Natalia Popova commented on. The final version was discussed by all contributors and presented at the international conference 'WORLD-CLASS SCIENTIFIC PUBLICATION – 2024: TRANSFORMATION AND SUSTAINABLE DEVELOPMENT' (Kaliningrad, Russia, May 22, 2024). The process and intermediate results are available at https://zenodo.org/doi/10.5281/zenodo.11204111.
+## Translation Version
+
+ **1.0.0**.

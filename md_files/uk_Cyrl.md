@@ -1,6 +1,6 @@
 ---
 title: "Ukrainian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Ukrainian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/uk_Cyrl.json"
@@ -52,3 +52,6 @@ Avhustyn  Terpeliuk
 ## Translation Procedure
 
 Avhustyn Terpeliuk did the original translation. His English teacher from Ukraine did the back-translation. Both translators are native Ukrainian speakers.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Catalan translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Catalan"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ca_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 The translators worked together to make this first translation. A second round of review was also done. Translation was finally presented to Editors to get feedback. Final ajustment was done.
+## Translation Version
+
+ **1.0.0**.

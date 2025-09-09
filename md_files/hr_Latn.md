@@ -1,6 +1,6 @@
 ---
 title: "Croatian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Croatian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hr_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Antica Čulina and Anita Tarandek are both native Croatian speakers. Antica Čulina is familiar with CRediT, while Anita Tarandek was not. Antica Čulina translated the English version to Croatian, Anita Tarandek translated the original Croatian translation back to English, which has led to adding some alternative translations to the document.
+## Translation Version
+
+ **1.0.0**.

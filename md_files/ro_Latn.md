@@ -1,6 +1,6 @@
 ---
 title: "Romanian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Romanian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ro_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Octavia-Luciana Madge made the initial translation from English to Romanian. Elena Popescu reviewed the initial translation. Grace Madge, who was unfamiliar with CRediT, performed a back-translation. In the next step, they compared the two versions and arrived at the final translation.
+## Translation Version
+
+ **1.0.0**.

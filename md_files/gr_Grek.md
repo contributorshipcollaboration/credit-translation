@@ -1,6 +1,6 @@
 ---
 title: "Greek translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Greek"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/gr_Grek.json"
@@ -52,3 +52,6 @@ Elina  Takola, Stavroula  Litsiou, Georgia  Daraki
 ## Translation Procedure
 
 Elina Takola did the translation, Stavroula Litsiou did the back-translation. Elina Takola, Stavroula Litsiou and Georgia Daraki proof-read the translated text.
+## Translation Version
+
+ **1.0.0**.

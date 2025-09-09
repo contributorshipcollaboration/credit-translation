@@ -1,6 +1,6 @@
 ---
 title: "Serbian (Cyrillic) translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Serbian (Cyrillic)"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sr_Cyrl.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Translators are all native speakers; Translators divided the translation work equally, and everyone checked other people's translations for any inaccuracies until everyone agreed that the translation was good.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Norwegian - Nynorsk translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Norwegian - Nynorsk"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/nno_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Both translators are native speakers of Norwegian (trained in both written forms, 'Bokmål' and 'Nynorsk'). BS did the initial translation, whild UHTF did the back-translation to English. Due to similarity between the two written forms of Norwegian, there were no differences between the back-translation from 'Nynorsk' and from 'Bokmål'. Both translators compared, discussed and verified the back-translation to the original English, and found it to be acceptable.
+## Translation Version
+
+ **1.0.0**.

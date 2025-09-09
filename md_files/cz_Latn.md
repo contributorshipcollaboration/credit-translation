@@ -1,6 +1,6 @@
 ---
 title: "Czech translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Czech"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cz_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Nina Trubanová and Radana Chytilová localised from English to Czech independently, then compared the two translations and agreed on the final version.
+## Translation Version
+
+ **1.0.0**.

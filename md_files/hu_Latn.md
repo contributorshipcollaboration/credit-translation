@@ -1,6 +1,6 @@
 ---
 title: "Hungarian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Hungarian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hu_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 The translators mutually went through the items in an online call and reached consensus about possible differences of translations. Each translator started from the bottom or the top and then compared results together upon finishing the translations. The translations have been further reviewed after a couple of months.
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Danish translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Danish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/dk_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Both translators are native speakers of Danish. RP did the initial translation, whild RO did the back-translation to English. Both translators compared, discussed and verified the back-translation to the original English, and found it to be acceptable after making two minor corrections.
+## Translation Version
+
+ **1.0.0**.

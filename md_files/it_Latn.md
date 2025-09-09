@@ -1,6 +1,6 @@
 ---
 title: "Italian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Italian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/it_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Both translators are native speakers of Italian. Lorenzo did the forward-translation and Vittoria did the back-translation. Lorenzo and Vittoria compared their translations and decided on a final version.
+## Translation Version
+
+ **1.0.0**.

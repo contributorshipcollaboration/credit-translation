@@ -1,6 +1,6 @@
 ---
 title: "Spanish translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Spanish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/es_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Riva Quiroga did a first translation by herself, after which Jordi Lacruz and Marc Bria finished the translation and reviewed the first attempt.
+## Translation Version
+
+ **1.0.0**.

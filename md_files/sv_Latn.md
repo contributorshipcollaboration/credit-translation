@@ -1,6 +1,6 @@
 ---
 title: "Swedish translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Swedish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sv_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 JK did the inital translation, HN did the reverse translation. Both translators compared the original and back-translated versions and adjusted the initial translation.
+## Translation Version
+
+ **1.0.0**.

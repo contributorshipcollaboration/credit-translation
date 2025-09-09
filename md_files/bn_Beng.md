@@ -1,6 +1,6 @@
 ---
 title: "Bengali translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Bengali"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/bn_Beng.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Arobindu did a first forward translation, and Garga then translated that back into English and judged that there were no conflicts or issues requiring amendment
+## Translation Version
+
+ **1.0.0**.

@@ -1,6 +1,6 @@
 ---
 title: "Indonesian translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Indonesian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/id_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 Dasapta Erwin Irawan created a draft translation, Stevanus Jati and Arif Gunawan created alternative translations, and Desapta then considered all three to create a final translation. 
+## Translation Version
+
+ **1.0.0**.

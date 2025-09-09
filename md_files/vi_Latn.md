@@ -1,6 +1,6 @@
 ---
 title: "Vietnamese translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Vietnamese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/vi_Latn.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 The translators are Native Vietnamese speakers. Translators consulted with official documents from Vietnam Ministry of Information and Technology, as well as, Vietnam National Foundation for Science and Technology Development (NAFOSTED) for specialized words and terms.
+## Translation Version
+
+ **1.0.0**.

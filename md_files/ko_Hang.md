@@ -1,6 +1,6 @@
 ---
 title: "Korean translation of CRediT"
-date: 2025-09-08
+date: 2025-09-09
 language: "Korean"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko_Hang.json"
@@ -52,3 +52,6 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 ## Translation Procedure
 
 All translators are native speakers of Korean. JWL completed the initial translation, which was verified by HKM and DK. DK also conducted a back translation, and made a comparison. The final version was completed through collaborative discussion.
+## Translation Version
+
+ **1.0.0**.
