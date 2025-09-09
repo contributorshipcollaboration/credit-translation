@@ -51,7 +51,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translation Procedure
 
-Amélie Gourdon-Kanhukamwe and David Vaidis, both native French speakers, translated from English to French together, conferring as they went through the translation. Finalization and choices were made by David Vaidis. Back translation and comparison were made with Claude.IA under the responsibility of David Vaidis.
+Amélie Gourdon-Kanhukamwe and David Vaidis, both native speakers of France French, translated from English to French together, conferring as they went through the translation. Finalization and choices were made by David Vaidis. Back translation and comparison were made with Claude.IA under the responsibility of David Vaidis.
 ## Translation Version
 
  **1.0.0**.
