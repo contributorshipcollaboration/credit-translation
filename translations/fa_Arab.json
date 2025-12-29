@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
-    "version": "1.0.0",
+    "version": "1.1",
     "metadata": {
         "languageCode": "fa",
         "scriptCode": "Arab",
@@ -17,6 +17,10 @@
                 "lastName": "Amini Fard",
                 "middleName": "",
                 "ORCID": "0000-0002-4565-8979"
+            },
+            {
+                "firstName": "Elahe",
+                "lastName": "Hosseini"
             }
         ],
         "translationProcedure": "Saeed Shafiei Sabet is native speaker of farsi language and familiar with CRediT. Marziyeh Amini Fard is a native speaker who back-translated the draft translation into English. Then Saeed Shafiei Sabet compared the original with the back-translation and found no profound problems or serious mismatch."
@@ -52,7 +56,7 @@
         },
         "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
             "name": "منابع",
-            "description": "تهیه مواد تحقیق و مطالعه، معرف ها، مواد، بیماران، نمونه های آزمایشگاهی، جانوران، تجهیزات و ابزار دقیق، منابع محاسباتی یا سایر ابزارهای آنالیز"
+            "description": "تهیه مواد تحقیق و مطالعه، معرف ها، مواد، بیماران، نمونه های آزمایشگاهی، جانوران، تجهیزات و ابزار دقیق، منابع محاسباتی یا سایر ابزارهای تحلیلی"
         },
         "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
             "name": "نرم افزار",
@@ -67,8 +71,8 @@
             "description": "راستی آزمایی، چه به عنوان بخشی از فعالیت یا جداگانه، از تکرار کلی \/تکرارپذیری نتایج\/آزمایش ها و سایر خروجی های تحقیقاتی."
         },
         "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
-            "name": "تجسم و تصویرسازی",
-            "description": "የآماده سازی، ایجاد و\/ یا ارائه اثر یا کار پژوهشی منتشر شده به ویژه تجسم و تصویرسازی\/ ارائه داده ها."
+            "name": "مصورسازی",
+            "description": "آماده سازی، ایجاد و/ یا ارائه اثر یا کار پژوهشی منتشر شده به ویژه مصورسازی/ارائه داده ها"
         },
         "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
             "name": "نوشتن - پیش نویس اصلی",
