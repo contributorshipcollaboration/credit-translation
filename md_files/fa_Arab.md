@@ -1,6 +1,6 @@
 ---
 title: "Farsi translation of CRediT"
-date: 2025-09-09
+date: 2025-12-29
 language: "Farsi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/fa_Arab.json"
@@ -23,15 +23,15 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | **مدیریت پروژه** | **Project Administration** |
 | مسئولیت مدیریت و هماهنگی برنامه ریزی برای برنامه ریزی و  اجرای فعالیت های پژوهشی. | Management and coordination responsibility for the research activity planning and execution. |
 | **منابع** | **Resources** |
-| تهیه مواد تحقیق و مطالعه، معرف ها، مواد، بیماران، نمونه های آزمایشگاهی، جانوران، تجهیزات و ابزار دقیق، منابع محاسباتی یا سایر ابزارهای آنالیز | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools. |
+| تهیه مواد تحقیق و مطالعه، معرف ها، مواد، بیماران، نمونه های آزمایشگاهی، جانوران، تجهیزات و ابزار دقیق، منابع محاسباتی یا سایر ابزارهای تحلیلی | Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools. |
 | **نرم افزار** | **Software** |
 | برنامه نویسی، توسعه نرم افزار، طراحی برنامه های رایانه ای، پیادهسازی کد رایانه و الگوریتم های پشتیبانی، تست اجزاء کد موجود. | Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components. |
 | **نظارت** | **Supervision** |
 | مسئولیت نظارت و رهبری برای برنامه ریزی و اجرای فعالیت های تحقیقاتی، از جمله مربی گری خارج از تیم اصلی. | Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team. |
 | **اعتبار سنجی** | **Validation** |
 | راستی آزمایی، چه به عنوان بخشی از فعالیت یا جداگانه، از تکرار کلی /تکرارپذیری نتایج/آزمایش ها و سایر خروجی های تحقیقاتی. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
-| **تجسم و تصویرسازی** | **Visualization** |
-| የآماده سازی، ایجاد و/ یا ارائه اثر یا کار پژوهشی منتشر شده به ویژه تجسم و تصویرسازی/ ارائه داده ها. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
+| **مصورسازی** | **Visualization** |
+| آماده سازی، ایجاد و/ یا ارائه اثر یا کار پژوهشی منتشر شده به ویژه مصورسازی/ارائه داده ها | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
 | **نوشتن - پیش نویس اصلی** | **Writing – Original Draft Preparation** |
 | تهیه، ایجاد و / یا ارائه اثر یا کار پژوهشی منتشر شده، به ویژه نوشتن پیش نویس اولیه (از جمله ترجمه عمده و اساسی). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
 | **نوشتن - بررسی و مرور و ویرایش** | **Writing – Review & Editing** |
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Saeed  Shafiei Sabet](https://orcid.org/0000-0001-5919-2527), [Marziyeh  Amini Fard](https://orcid.org/0000-0002-4565-8979)
+[Saeed  Shafiei Sabet](https://orcid.org/0000-0001-5919-2527), [Marziyeh  Amini Fard](https://orcid.org/0000-0002-4565-8979), Elahe  Hosseini
 
 ## JSON Metadata
 
@@ -47,11 +47,11 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Saeed  Shafiei Sabet](https://orcid.org/0000-0001-5919-2527), [Marziyeh  Amini Fard](https://orcid.org/0000-0002-4565-8979), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Saeed  Shafiei Sabet](https://orcid.org/0000-0001-5919-2527), [Marziyeh  Amini Fard](https://orcid.org/0000-0002-4565-8979), Elahe  Hosseini, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
 Saeed Shafiei Sabet is native speaker of farsi language and familiar with CRediT. Marziyeh Amini Fard is a native speaker who back-translated the draft translation into English. Then Saeed Shafiei Sabet compared the original with the back-translation and found no profound problems or serious mismatch.
 ## Translation Version
 
- **1.0.0**.
+ **1.1**.

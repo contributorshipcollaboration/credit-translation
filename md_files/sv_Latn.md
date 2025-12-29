@@ -1,6 +1,6 @@
 ---
 title: "Swedish translation of CRediT"
-date: 2025-09-09
+date: 2025-12-29
 language: "Swedish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sv_Latn.json"
