@@ -1,6 +1,6 @@
 ---
 title: "Swahili translation of CRediT"
-date: 2025-12-29
+date: 2026-05-29
 language: "Swahili"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sw_Latn.json"
@@ -32,7 +32,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 | Uhakikisho, ikiwa kama sehemu ya shughuli au tenganishi, ya urudufu wa jumla/ uwezo wa kuzalisha tena majibu/ majaribio na matokeo mengine ya mradi. | Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs. |
 | **Taswira** | **Visualization** |
 | Maandalizi, uvumbuzi na/au maonyesho ya kazi iliyochapishwa, hasa maonyesho/mawasilisho ya takwimu. | Preparation, creation and/or presentation of the published work, specifically visualization/data presentation. |
-| **Uandishiâ€“ rasimu halisi** | **Writing – Original Draft Preparation** |
+| **Uandishi– rasimu halisi** | **Writing – Original Draft Preparation** |
 | Matayarisho, uvumbuzi na/ au mawasilisho ya kazi iliyochapishwa, haswa uandishi wa rasimu halisi (ikiwemo tafsiri ya muhimu). | Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation). |
 | **Uandashi - uhakiki & uhariri** | **Writing – Review & Editing** |
 | Matayarisho, uvumbuzi na/au maonyesho ya kazi iliyochapishwa na wahusika kutoka kikosi halisi cha mradi haswa uhariri mkuu, maoni au marudio- ikiwemo kabla- su baada- hatua za uchapishaji. | Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages. |

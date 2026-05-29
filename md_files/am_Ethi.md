@@ -1,6 +1,6 @@
 ---
 title: "Amharic translation of CRediT"
-date: 2025-12-29
+date: 2026-05-29
 language: "Amharic"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/am_Ethi.json"
@@ -51,7 +51,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translation Procedure
 
-Befkadu Mewded is native speaker of Amharic language and used a reference document of ICT Development Office and Ethiopian Languages Research Center (ELRC) for translation of some ICT terms. Mengesha is a native speaker unfamiliar with CRediT who back-translated the draft translation into English. Then Befkadu compared the original with the back translation and found no problems.
+Befkadu Mewded is a native speaker of Amharic language and used a reference document of ICT Development Office and Ethiopian Languages Research Center (ELRC) for translation of some ICT terms. Mengesha is a native speaker unfamiliar with CRediT who back-translated the draft translation into English. Then Befkadu compared the original with the back translation and found no problems.
 ## Translation Version
 
  **1.0.0**.

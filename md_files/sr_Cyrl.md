@@ -1,6 +1,6 @@
 ---
 title: "Serbian (Cyrillic) translation of CRediT"
-date: 2025-12-29
+date: 2026-05-29
 language: "Serbian (Cyrillic)"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/sr_Cyrl.json"

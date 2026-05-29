@@ -1,6 +1,6 @@
 ---
 title: "Korean translation of CRediT"
-date: 2025-12-29
+date: 2026-05-29
 language: "Korean"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ko_Hang.json"
