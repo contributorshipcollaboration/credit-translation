@@ -54,4 +54,4 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 Befkadu Mewded is a native speaker of Amharic language and used a reference document of ICT Development Office and Ethiopian Languages Research Center (ELRC) for translation of some ICT terms. Mengesha is a native speaker unfamiliar with CRediT who back-translated the draft translation into English. Then Befkadu compared the original with the back translation and found no problems.
 ## Translation Version
 
- **1.0.0**.
+ **1.0.1**.
