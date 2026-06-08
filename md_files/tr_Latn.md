@@ -1,6 +1,6 @@
 ---
 title: "Turkish translation of CRediT"
-date: 2026-05-29
+date: 2026-06-08
 language: "Turkish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/tr_Latn.json"

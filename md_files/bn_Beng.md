@@ -1,6 +1,6 @@
 ---
 title: "Bengali translation of CRediT"
-date: 2026-05-29
+date: 2026-06-08
 language: "Bengali"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/bn_Beng.json"

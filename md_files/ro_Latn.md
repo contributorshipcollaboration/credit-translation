@@ -1,6 +1,6 @@
 ---
 title: "Romanian translation of CRediT"
-date: 2026-05-29
+date: 2026-06-08
 language: "Romanian"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ro_Latn.json"
