@@ -1,0 +1,76 @@
+{
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "version": "1.0.0",
+    "metadata": {
+        "languageCode": "cy",
+        "scriptCode": "Latn",
+        "languageName": "Welsh",
+        "translators": [
+            {
+                "firstName": "Helen",
+                "lastName": "Miles",
+                "middleName": "C.",
+                "ORCID": "0000-0003-4063-6479"
+            }
+        ],
+        "translationProcedure": "HM is a native Welsh speaker; she used the Welsh National Terminology Portal (Porth Termau Cenedlaethol Cymru, https://termau.cymru/) to verify some terms."
+    },
+    "translations": {
+        "https:\/\/credit.niso.org\/contributor-roles\/conceptualization\/": {
+            "name": "Cysyniadu",
+            "description": "Syniadau; llunio neu esblygu nodau ymchwil hollgyffredinol."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/data-curation\/": {
+            "name": "Curadu Data",
+            "description": "Gweithgareddau rheoli i anodi (cynhyrchu metadata), glanhau data a chynnal data ymchwil (gan gynnwys cod meddalwedd, lle mae'n angenrheidiol ar gyfer dehongli'r data ei hun) i'w ddefnyddio'n gychwynnol ac i'w ailddefnyddio'n ddiweddarach."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/formal-analysis\/": {
+            "name": "Dadansoddiad Ffurfiol",
+            "description": "Cymhwyso technegau ystadegol, mathemategol, cyfrifiadurol, neu dechnegau ffurfiol eraill i ddadansoddi neu syntheseiddio data o astudiaeth."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/funding-acquisition\/": {
+            "name": "Caffael Cyllid",
+            "description": "Caffael y cymorth ariannol ar gyfer y prosiect sy'n arwain at y cyhoeddiad yma."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/investigation\/": {
+            "name": "Ymchwiliad",
+            "description": "Cynnal proses ymchwil ac ymchwilio, perfformio'r arbrofion yn benodol, neu gasglu data/tystiolaeth."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/methodology\/": {
+            "name": "Methodoleg",
+            "description": "Datblygu neu ddylunio methodoleg; creu modelau."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/project-administration\/": {
+            "name": "Gweinyddu Prosiect",
+            "description": "Cyfrifoldeb rheoli a chydlynu am gynllunio a gweithredu'r gweithgareddau ymchwil."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/resources\/": {
+            "name": "Adnoddau",
+            "description": "Darparu deunyddiau astudio, adweithyddion, deunyddiau, cleifion, samplau labordy, anifeiliaid, offeryniaeth, adnoddau cyfrifiadurol, neu offer dadansoddi eraill."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/software\/": {
+            "name": "Meddalwedd",
+            "description": "Rhaglennu, datblygu meddalwedd; dylunio rhaglenni cyfrifiadurol; gweithredu'r cod cyfrifiadurol ac algorithmau ategol; profi cydrannau cod presennol."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/supervision\/": {
+            "name": "Goruchwyliaeth",
+            "description": "Cyfrifoldeb goruchwylio ac arweinyddiaeth ar gyfer cynllunio a gweithredu'r gweithgaredd ymchwil, gan gynnwys mentora y tu allan i'r tîm craidd."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/validation\/": {
+            "name": "Dilysiad",
+            "description": "Gwirio, boed fel rhan o'r gweithgaredd neu ar wahân, o ddyblygu/atgynhyrchadwyedd cyffredinol canlyniadau/arbrofion ac allbynnau ymchwil eraill."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/visualization\/": {
+            "name": "Delweddu",
+            "description": "Paratoi, creu a/neu gyflwyno'r gwaith cyhoeddedig, yn benodol delweddu/cyflwyno data."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-original-draft\/": {
+            "name": "Ysgrifennu – Draft Gwreiddiol",
+            "description": "Paratoi, creu a/neu gyflwyno'r gwaith cyhoeddedig, yn benodol ysgrifennu'r drafft cychwynnol (gan gynnwys cyfieithiad sylweddol)."
+        },
+        "https:\/\/credit.niso.org\/contributor-roles\/writing-review-editing\/": {
+            "name": "Ysgrifennu – Adolygu & Golygu",
+            "description": "Paratoi, creu a/neu gyflwyno'r gwaith cyhoeddedig gan y rhai o'r grŵp ymchwil gwreiddiol, yn benodol adolygiad, sylwebaeth neu adolygiad beirniadol – gan gynnwys camau cyn neu ar ôl cyhoeddi."
+        }
+    }
+}
