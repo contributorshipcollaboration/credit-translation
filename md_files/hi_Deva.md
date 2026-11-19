@@ -1,6 +1,6 @@
 ---
 title: "Hindi translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Hindi"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/hi_Deva.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Manisha  Sinha, Swastika  Issar
+[Manisha  Sinha](https://orcid.org/0000-0003-0539-4152), [Swastika  Issar](https://orcid.org/0000-0002-1738-7198)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Manisha  Sinha, Swastika  Issar
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Manisha  Sinha, Swastika  Issar, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Manisha  Sinha](https://orcid.org/0000-0003-0539-4152), [Swastika  Issar](https://orcid.org/0000-0002-1738-7198), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "ro",
@@ -9,19 +9,16 @@
             {
                 "firstName": "Octavia-Luciana",
                 "lastName": "Madge",
-                "middleName": "",
                 "ORCID": "0000-0001-5300-2219"
             },
             {
                 "firstName": "Elena",
                 "lastName": "Popescu",
-                "middleName": "",
                 "ORCID": "0000-0002-6360-259X"
             },
             {
                 "firstName": "Grace",
-                "lastName": "Madge",
-                "middleName": ""               
+                "lastName": "Madge"
             }
         ],
         "translationProcedure": "Octavia-Luciana Madge made the initial translation from English to Romanian. Elena Popescu reviewed the initial translation. Grace Madge, who was unfamiliar with CRediT, performed a back-translation. In the next step, they compared the two versions and arrived at the final translation."

@@ -1,9 +1,9 @@
 ---
 title: "Czech translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Czech"
 layout: "translation/single"
-githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cz_Latn.json"
+githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cs_Latn.json"
 ---
 
 | Czech | English |
@@ -43,7 +43,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## JSON Metadata
 
-[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cz_Latn.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cz_Latn.json)
+[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cs_Latn.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/cs_Latn.json)
 
 ## License
 

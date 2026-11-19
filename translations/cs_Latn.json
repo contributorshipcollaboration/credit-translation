@@ -1,21 +1,19 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
-        "languageCode": "cz",
+        "languageCode": "cs",
         "scriptCode": "Latn",
         "languageName": "Czech",
         "translators": [
             {
                 "firstName": "Nina",
                 "lastName": "Trubanová",
-                "middleName": "",
                 "ORCID": "0000-0001-8156-3304"
             },
             {
                 "firstName": "Radana",
                 "lastName": "Chytilová",
-                "middleName": "",
                 "ORCID": "0009-0007-9675-5553"
             }
         ],

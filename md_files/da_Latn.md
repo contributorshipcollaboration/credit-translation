@@ -1,9 +1,9 @@
 ---
 title: "Danish translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Danish"
 layout: "translation/single"
-githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/dk_Latn.json"
+githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/da_Latn.json"
 ---
 
 | Danish | English |
@@ -39,15 +39,15 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Rasmus  Pedersen](https://orcid.org/0000-0003-2261-0582), [Rasmus  Overmark](https://orcid.org/tba)
+[Rasmus  Pedersen](https://orcid.org/0000-0003-2261-0582), Rasmus  Overmark
 
 ## JSON Metadata
 
-[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/dk_Latn.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/dk_Latn.json)
+[https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/da_Latn.json](https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/da_Latn.json)
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Rasmus  Pedersen](https://orcid.org/0000-0003-2261-0582), [Rasmus  Overmark](https://orcid.org/tba), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Rasmus  Pedersen](https://orcid.org/0000-0003-2261-0582), Rasmus  Overmark, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

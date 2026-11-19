@@ -1,6 +1,6 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
-    "version": "1.1",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
+    "version": "1.1.0",
     "metadata": {
         "languageCode": "fa",
         "scriptCode": "Arab",
@@ -9,13 +9,11 @@
             {
                 "firstName": "Saeed",
                 "lastName": "Shafiei Sabet",
-                "middleName": "",
                 "ORCID": "0000-0001-5919-2527"
             },
             {
                 "firstName": "Marziyeh",
                 "lastName": "Amini Fard",
-                "middleName": "",
                 "ORCID": "0000-0002-4565-8979"
             },
             {

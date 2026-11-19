@@ -1,6 +1,6 @@
 ---
 title: "Amharic translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Amharic"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/am_Ethi.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Befkadu  Mewded](https://orcid.org/https://orcid.org/0000-0002-2853-8430), [Mengesha  Asefa](https://orcid.org/https://orcid.org/0000-0002-6868-6390)
+[Befkadu  Mewded](https://orcid.org/0000-0002-2853-8430), [Mengesha  Asefa](https://orcid.org/0000-0002-6868-6390)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Befkadu  Mewded](https://orcid.org/https://orcid.org/0000-0002-2853-8430), [Mengesha  Asefa](https://orcid.org/https://orcid.org/0000-0002-6868-6390), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Befkadu  Mewded](https://orcid.org/0000-0002-2853-8430), [Mengesha  Asefa](https://orcid.org/0000-0002-6868-6390), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

@@ -1,6 +1,6 @@
 ---
 title: "Malayalam translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Malayalam"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/ml_Mlym.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Aswathi  Surendran](https://orcid.org/0000-0002-8709-6417), [Varada Sadanandan Potty](https://orcid.org/na)
+[Aswathi  Surendran](https://orcid.org/0000-0002-8709-6417), Varada Sadanandan Potty
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Aswathi  Surendran](https://orcid.org/0000-0002-8709-6417), [Varada Sadanandan Potty](https://orcid.org/na), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Aswathi  Surendran](https://orcid.org/0000-0002-8709-6417), Varada Sadanandan Potty, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

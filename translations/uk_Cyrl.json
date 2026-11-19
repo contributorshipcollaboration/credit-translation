@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "uk",
@@ -8,9 +8,7 @@
         "translators": [
             {
                 "firstName": "Avhustyn",
-                "lastName": "Terpeliuk",
-                "middleName": "",
-                "ORCID": ""
+                "lastName": "Terpeliuk"
             }
         ],
         "translationProcedure": "Avhustyn Terpeliuk did the original translation. His English teacher from Ukraine did the back-translation. Both translators are native Ukrainian speakers."

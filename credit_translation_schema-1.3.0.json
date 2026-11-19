@@ -1,0 +1,181 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
+    "title": "JSON schema for CRediT translation",
+    "description": "Translation of the 14 CRediT (Contributor Roles Taxonomy) role names and descriptions into one language, with metadata about the language and the translators.",
+    "$comment": "The schema version (1.3.0) is given by the file name and $id. The 'version' property of a translation document is the version of that translation, not of this schema.",
+    "type": "object",
+    "properties": {
+        "$schema": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL of the JSON schema this document conforms to"
+        },
+        "version": {
+            "type": "string",
+            "pattern": "^\\d+\\.\\d+\\.\\d+$",
+            "description": "Version of this translation (semantic versioning, e.g. 1.0.0)"
+        },
+        "metadata": {
+            "type": "object",
+            "properties": {
+                "languageCode": {
+                    "type": "string",
+                    "pattern": "^[a-z]{2,3}$",
+                    "description": "Lowercase ISO 639 language code: the two-letter ISO 639-1 code where one exists, otherwise the three-letter ISO 639-3 code"
+                },
+                "languageName": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "The full name of the language"
+                },
+                "scriptCode": {
+                    "type": "string",
+                    "pattern": "^[A-Z][a-z]{3}$",
+                    "description": "ISO 15924 script code (four letters, title case, e.g. Latn)"
+                },
+                "translators": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/translator"
+                    },
+                    "description": "List of identifying information on each translator"
+                },
+                "translationProcedure": {
+                    "type": "string",
+                    "description": "Free-text description of the translation procedure"
+                }
+            },
+            "required": [
+                "languageCode",
+                "languageName",
+                "scriptCode",
+                "translators",
+                "translationProcedure"
+            ],
+            "additionalProperties": false
+        },
+        "translations": {
+            "type": "object",
+            "properties": {
+                "https://credit.niso.org/contributor-roles/conceptualization/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/data-curation/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/formal-analysis/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/funding-acquisition/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/investigation/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/methodology/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/project-administration/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/resources/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/software/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/supervision/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/validation/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/visualization/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/writing-original-draft/": {
+                    "$ref": "#/definitions/roleTranslation"
+                },
+                "https://credit.niso.org/contributor-roles/writing-review-editing/": {
+                    "$ref": "#/definitions/roleTranslation"
+                }
+            },
+            "required": [
+                "https://credit.niso.org/contributor-roles/conceptualization/",
+                "https://credit.niso.org/contributor-roles/data-curation/",
+                "https://credit.niso.org/contributor-roles/formal-analysis/",
+                "https://credit.niso.org/contributor-roles/funding-acquisition/",
+                "https://credit.niso.org/contributor-roles/investigation/",
+                "https://credit.niso.org/contributor-roles/methodology/",
+                "https://credit.niso.org/contributor-roles/project-administration/",
+                "https://credit.niso.org/contributor-roles/resources/",
+                "https://credit.niso.org/contributor-roles/software/",
+                "https://credit.niso.org/contributor-roles/supervision/",
+                "https://credit.niso.org/contributor-roles/validation/",
+                "https://credit.niso.org/contributor-roles/visualization/",
+                "https://credit.niso.org/contributor-roles/writing-original-draft/",
+                "https://credit.niso.org/contributor-roles/writing-review-editing/"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "version",
+        "metadata",
+        "translations"
+    ],
+    "additionalProperties": false,
+    "definitions": {
+        "roleTranslation": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Translation of the role name"
+                },
+                "description": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Translation of the role description"
+                }
+            },
+            "required": [
+                "name",
+                "description"
+            ],
+            "additionalProperties": false
+        },
+        "translator": {
+            "type": "object",
+            "properties": {
+                "firstName": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "First name of the translator"
+                },
+                "lastName": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Last name of the translator"
+                },
+                "middleName": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Middle name of the translator; omit if none"
+                },
+                "ORCID": {
+                    "type": "string",
+                    "pattern": "^\\d{4}-\\d{4}-\\d{4}-\\d{3}[\\dX]$",
+                    "description": "ORCID iD in bare form (0000-0000-0000-0000), without the https://orcid.org/ prefix; omit if the translator has none"
+                }
+            },
+            "required": [
+                "firstName",
+                "lastName"
+            ],
+            "additionalProperties": false
+        }
+    }
+}

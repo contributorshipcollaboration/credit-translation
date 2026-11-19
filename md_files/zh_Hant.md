@@ -1,6 +1,6 @@
 ---
 title: "Chinese - traditional translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Chinese - traditional"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/zh_Hant.json"

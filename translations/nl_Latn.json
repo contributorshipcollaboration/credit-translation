@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "nl",
@@ -14,9 +14,7 @@
             },
             {
                 "firstName": "Ruben",
-                "lastName": "Thoré",
-                "middleName": "",
-                "ORCID": ""
+                "lastName": "Thoré"
             }
         ],
         "translationProcedure": "Both translators are native Dutch speakers. ET conducted the initial translation from English to Dutch. RT, who was unfamiliar with CRediT, performed the back-translation from Dutch to English. ET and RT subsequently compared and discussed the two versions, refining the Dutch translation until reaching a consensus. The final translation was approved by both parties."

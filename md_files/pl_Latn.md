@@ -1,6 +1,6 @@
 ---
 title: "Polish translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Polish"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/pl_Latn.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Malgorzata  Lagisz](https://orcid.org/https://orcid.org/0000-0002-3993-6127), [Marta  Kowal](https://orcid.org/https://orcid.org/0000-0001-9050-1471), Jakub  Krasucki
+[Malgorzata  Lagisz](https://orcid.org/0000-0002-3993-6127), [Marta  Kowal](https://orcid.org/0000-0001-9050-1471), Jakub  Krasucki
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Malgorzata  Lagisz](https://orcid.org/https://orcid.org/0000-0002-3993-6127), [Marta  Kowal](https://orcid.org/https://orcid.org/0000-0001-9050-1471), Jakub  Krasucki, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Malgorzata  Lagisz](https://orcid.org/0000-0002-3993-6127), [Marta  Kowal](https://orcid.org/0000-0001-9050-1471), Jakub  Krasucki, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

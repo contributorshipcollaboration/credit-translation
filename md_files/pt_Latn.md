@@ -1,6 +1,6 @@
 ---
 title: "Portuguese translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Portuguese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/pt_Latn.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Pietro  Pollo](https://orcid.org/https://orcid.org/0000-0001-6555-5400), [Erika Marques Santana](https://orcid.org/https://orcid.org/0000-0001-5883-4284)
+[Pietro  Pollo](https://orcid.org/0000-0001-6555-5400), [Erika Marques Santana](https://orcid.org/0000-0001-5883-4284)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Pietro  Pollo](https://orcid.org/https://orcid.org/0000-0001-6555-5400), [Erika Marques Santana](https://orcid.org/https://orcid.org/0000-0001-5883-4284), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Pietro  Pollo](https://orcid.org/0000-0001-6555-5400), [Erika Marques Santana](https://orcid.org/0000-0001-5883-4284), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

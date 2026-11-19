@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "ko",
@@ -9,19 +9,16 @@
             {
                 "firstName": "Jin-Won",
                 "lastName": "Lee",
-                "middleName": "",
                 "ORCID": "0000-0001-6643-8863"
             },
             {
                 "firstName": "Hye-Kyoung",
                 "lastName": "Moon",
-                "middleName": "",
                 "ORCID": "0000-0001-5260-4154"
             }, 
             {
                 "firstName": "Dongjin",
                 "lastName": "Kim",
-                "middleName": "",
                 "ORCID": "0009-0001-2107-7301"
             }
         ],

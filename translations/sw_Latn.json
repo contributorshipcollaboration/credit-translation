@@ -1,28 +1,25 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
-        "languageCode": "swa",
+        "languageCode": "sw",
         "scriptCode": "Latn",
         "languageName": "Swahili",
         "translators": [
             {
                 "firstName": "Boniface",
                 "lastName": "Munyao",
-                "middleName": "Maenge",
-                "ORCID": ""
+                "middleName": "Maenge"
             },
             {
                 "firstName": "Harriet",
                 "lastName": "Nyamvula",
-                "middleName": "Melany",
-                "ORCID": ""
+                "middleName": "Melany"
             },
             {
                 "firstName": "Jemimah",
                 "lastName": "Kavinya",
-                "middleName": "Mutisya",
-                "ORCID": ""
+                "middleName": "Mutisya"
             }
         ],
         "translationProcedure": "Forward translation by Boniface Maenge Munyao. The reverse translation was done by Harriet and confirmed by Jemimah (Not initially involved with Credit translation) and the unified translation was agreed upon."

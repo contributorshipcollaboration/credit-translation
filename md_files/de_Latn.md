@@ -1,6 +1,6 @@
 ---
 title: "German translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "German"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/de_Latn.json"
@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Timo  Lüke](https://orcid.org/0000-0002-2603-7341), [Caro  Jansky](https://orcid.org/tba), [Helena  Hartmann](https://orcid.org/0000-0002-1331-6683)
+[Timo  Lüke](https://orcid.org/0000-0002-2603-7341), Caro  Jansky, [Helena  Hartmann](https://orcid.org/0000-0002-1331-6683)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Timo  Lüke](https://orcid.org/0000-0002-2603-7341), [Caro  Jansky](https://orcid.org/tba), [Helena  Hartmann](https://orcid.org/0000-0002-1331-6683), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Timo  Lüke](https://orcid.org/0000-0002-2603-7341), Caro  Jansky, [Helena  Hartmann](https://orcid.org/0000-0002-1331-6683), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "ml",
@@ -9,14 +9,12 @@
             {
                 "firstName": "Aswathi",
                 "lastName": "Surendran",
-                "middleName": "",
                 "ORCID": "0000-0002-8709-6417"
             },
             {
                 "firstName": "Varada",
                 "lastName": "Potty",
-                "middleName": "Sadanandan",
-                "ORCID": "na"
+                "middleName": "Sadanandan"
             }
         ],
         "translationProcedure": " Translated from English to Malayalam by Dr Aswathi Surendran and back translated by Ms Varada Sadanandan Potty,  and agreed on the final version."

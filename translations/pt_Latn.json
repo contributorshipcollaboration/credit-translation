@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "pt",
@@ -9,14 +9,13 @@
             {
                 "firstName": "Pietro",
                 "lastName": "Pollo",
-                "middleName": "",
-                "ORCID": "https:\/\/orcid.org\/0000-0001-6555-5400"
+                "ORCID": "0000-0001-6555-5400"
             },
             {
                 "firstName": "Erika",
                 "lastName": "Santana",
                 "middleName": "Marques",
-                "ORCID": "https:\/\/orcid.org\/0000-0001-5883-4284"
+                "ORCID": "0000-0001-5883-4284"
             }
         ],
         "translationProcedure": "PP did the translation and EMS (unfamiliar with CRediT) did the back-translation, then both discussed discrepancies between versions and agreed on a refinement. Both are native speakers of Brazilian Portuguese."

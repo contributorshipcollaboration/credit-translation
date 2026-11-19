@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
         "languageCode": "zh",
@@ -8,15 +8,11 @@
         "translators": [
             {
                 "firstName": "Yefeng",
-                "lastName": "Yang",
-                "middleName": "",
-                "ORCID": ""
+                "lastName": "Yang"
             },
             {
                 "firstName": "Wawa",
-                "lastName": "Yu",
-                "middleName": "",
-                "ORCID": ""
+                "lastName": "Yu"
             },
             {
                 "firstName": "Alex",

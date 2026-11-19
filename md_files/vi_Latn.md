@@ -1,6 +1,6 @@
 ---
 title: "Vietnamese translation of CRediT"
-date: 2026-06-08
+date: 2026-11-19
 language: "Vietnamese"
 layout: "translation/single"
 githublink: "https://github.com/contributorshipcollaboration/credit-translation/blob/main/translations/vi_Latn.json"

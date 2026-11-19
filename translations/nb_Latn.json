@@ -1,15 +1,14 @@
 {
-    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.2.0.json",
+    "$schema": "https://raw.githubusercontent.com/contributorshipcollaboration/credit-translation/refs/heads/main/credit_translation_schema-1.3.0.json",
     "version": "1.0.0",
     "metadata": {
-        "languageCode": "nob",
+        "languageCode": "nb",
         "scriptCode": "Latn",
         "languageName": "Norwegian - Bokmål",
         "translators": [
             {
                 "firstName": "Bjørn",
                 "lastName": "Sætrevik",
-                "middleName": "",
                 "ORCID": "0000-0002-9367-6987"
             },
             {
