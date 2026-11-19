@@ -12,6 +12,14 @@ See our [Instructions for Contributors](https://contributorshipcollaboration.git
 
 All contributors are bound by the [code of conduct](https://github.com/marton-balazs-kovacs/tenzing/blob/master/CODE_OF_CONDUCT.md).
 
+## Tools that use these translations
+
+If you build a tool that uses these translations, please let us know by [opening an issue](https://github.com/contributorshipcollaboration/credit-translation/issues) or a pull request, and we will add it to this list.
+
+| Tool | Description | Languages used |
+| --- | --- | --- |
+| [CRediT Matrix](https://credit.duinlab.nl) ([source](https://github.com/simonvanlierde/credit-matrix)) | Free, open-source web app for writing CRediT statements. Co-authors can check their own roles in the app. The translations are also available in the `credit-matrix` npm package, so scripts, Quarto and MyST documents and a command line tool can write the statement in every supported language. The project [credits every translator](https://github.com/simonvanlierde/credit-matrix/blob/main/src/core/credit-i18n/translations/CREDITS.md). | de, es, fr, it, ja, nl, pt-PT, zh-Hans (plus English) |
+
 
 ## Notes for programmers and project coordinators
 
