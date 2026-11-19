@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Marton  Kovacs](https://orcid.org/0000-0002-8142-8492), [Marton A. Varga](https://orcid.org/0000-0002-8828-3070)
+[Marton Kovacs](https://orcid.org/0000-0002-8142-8492), [Marton A. Varga](https://orcid.org/0000-0002-8828-3070)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Marton  Kovacs](https://orcid.org/0000-0002-8142-8492), [Marton A. Varga](https://orcid.org/0000-0002-8828-3070), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Marton Kovacs](https://orcid.org/0000-0002-8142-8492), [Marton A. Varga](https://orcid.org/0000-0002-8828-3070), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

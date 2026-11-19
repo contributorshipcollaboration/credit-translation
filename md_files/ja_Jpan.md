@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Ayumi  Mizuno](https://orcid.org/0000-0003-0822-5637), Sawaka  Oka
+[Ayumi Mizuno](https://orcid.org/0000-0003-0822-5637), Sawaka Oka
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Ayumi  Mizuno](https://orcid.org/0000-0003-0822-5637), Sawaka  Oka, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Ayumi Mizuno](https://orcid.org/0000-0003-0822-5637), Sawaka Oka, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

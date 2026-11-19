@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Arobindu  Dash](https://orcid.org/0000-0003-4642-512X), Garga  Chatterjee
+[Arobindu Dash](https://orcid.org/0000-0003-4642-512X), Garga Chatterjee
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Arobindu  Dash](https://orcid.org/0000-0003-4642-512X), Garga  Chatterjee, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Arobindu Dash](https://orcid.org/0000-0003-4642-512X), Garga Chatterjee, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

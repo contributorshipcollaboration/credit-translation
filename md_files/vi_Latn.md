@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Manh-Toan  Ho](https://orcid.org/0000-0002-8292-0120), [Đức Hùng  Nguyễn](https://orcid.org/0009-0006-9193-1514)
+[Manh-Toan Ho](https://orcid.org/0000-0002-8292-0120), [Đức Hùng Nguyễn](https://orcid.org/0009-0006-9193-1514)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Manh-Toan  Ho](https://orcid.org/0000-0002-8292-0120), [Đức Hùng  Nguyễn](https://orcid.org/0009-0006-9193-1514), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Manh-Toan Ho](https://orcid.org/0000-0002-8292-0120), [Đức Hùng Nguyễn](https://orcid.org/0009-0006-9193-1514), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

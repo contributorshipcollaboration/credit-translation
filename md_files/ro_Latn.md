@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Octavia-Luciana  Madge](https://orcid.org/0000-0001-5300-2219), [Elena  Popescu](https://orcid.org/0000-0002-6360-259X), Grace  Madge
+[Octavia-Luciana Madge](https://orcid.org/0000-0001-5300-2219), [Elena Popescu](https://orcid.org/0000-0002-6360-259X), Grace Madge
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Octavia-Luciana  Madge](https://orcid.org/0000-0001-5300-2219), [Elena  Popescu](https://orcid.org/0000-0002-6360-259X), Grace  Madge, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Octavia-Luciana Madge](https://orcid.org/0000-0001-5300-2219), [Elena Popescu](https://orcid.org/0000-0002-6360-259X), Grace Madge, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

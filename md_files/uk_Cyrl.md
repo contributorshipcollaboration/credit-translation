@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Avhustyn  Terpeliuk
+Avhustyn Terpeliuk
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Avhustyn  Terpeliuk
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Avhustyn  Terpeliuk, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Avhustyn Terpeliuk, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

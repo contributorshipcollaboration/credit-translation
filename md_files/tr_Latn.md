@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Murat  Tahtali](https://orcid.org/0000-0003-4702-4002), Ugur  Turhan
+[Murat Tahtali](https://orcid.org/0000-0003-4702-4002), Ugur Turhan
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Murat  Tahtali](https://orcid.org/0000-0003-4702-4002), Ugur  Turhan, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Murat Tahtali](https://orcid.org/0000-0003-4702-4002), Ugur Turhan, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

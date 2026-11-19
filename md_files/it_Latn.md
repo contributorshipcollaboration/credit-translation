@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Lorenzo  Ricolfi](https://orcid.org/0000-0001-7101-3309), [Vittoria  Porta](https://orcid.org/0009-0006-3621-3122)
+[Lorenzo Ricolfi](https://orcid.org/0000-0001-7101-3309), [Vittoria Porta](https://orcid.org/0009-0006-3621-3122)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Lorenzo  Ricolfi](https://orcid.org/0000-0001-7101-3309), [Vittoria  Porta](https://orcid.org/0009-0006-3621-3122), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Lorenzo Ricolfi](https://orcid.org/0000-0001-7101-3309), [Vittoria Porta](https://orcid.org/0009-0006-3621-3122), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

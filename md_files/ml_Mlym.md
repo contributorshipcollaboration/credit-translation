@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Aswathi  Surendran](https://orcid.org/0000-0002-8709-6417), Varada Sadanandan Potty
+[Aswathi Surendran](https://orcid.org/0000-0002-8709-6417), Varada Sadanandan Potty
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Aswathi  Surendran](https://orcid.org/0000-0002-8709-6417), Varada Sadanandan Potty, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Aswathi Surendran](https://orcid.org/0000-0002-8709-6417), Varada Sadanandan Potty, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

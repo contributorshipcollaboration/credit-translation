@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Jonas  Knape](https://orcid.org/0000-0002-8012-5131), [Hedvig  Nenzén](https://orcid.org/0000-0002-0189-4283)
+[Jonas Knape](https://orcid.org/0000-0002-8012-5131), [Hedvig Nenzén](https://orcid.org/0000-0002-0189-4283)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jonas  Knape](https://orcid.org/0000-0002-8012-5131), [Hedvig  Nenzén](https://orcid.org/0000-0002-0189-4283), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jonas Knape](https://orcid.org/0000-0002-8012-5131), [Hedvig Nenzén](https://orcid.org/0000-0002-0189-4283), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

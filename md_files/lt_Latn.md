@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Ineta  Kačergytė](https://orcid.org/0000-0003-4756-8253), Barbora  Drąsutytė-Vaičiukynė
+[Ineta Kačergytė](https://orcid.org/0000-0003-4756-8253), Barbora Drąsutytė-Vaičiukynė
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Ineta  Kačergytė](https://orcid.org/0000-0003-4756-8253), Barbora  Drąsutytė-Vaičiukynė, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Ineta Kačergytė](https://orcid.org/0000-0003-4756-8253), Barbora Drąsutytė-Vaičiukynė, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

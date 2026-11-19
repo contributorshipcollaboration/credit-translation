@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Eli S.J. Thoré](https://orcid.org/0000-0002-0029-8404), Ruben  Thoré
+[Eli S.J. Thoré](https://orcid.org/0000-0002-0029-8404), Ruben Thoré
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Eli S.J. Thoré](https://orcid.org/0000-0002-0029-8404), Ruben  Thoré, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Eli S.J. Thoré](https://orcid.org/0000-0002-0029-8404), Ruben Thoré, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

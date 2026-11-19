@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Elina  Takola, Stavroula  Litsiou, Georgia  Daraki
+Elina Takola, Stavroula Litsiou, Georgia Daraki
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Elina  Takola, Stavroula  Litsiou, Georgia  Daraki
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Elina  Takola, Stavroula  Litsiou, Georgia  Daraki, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Elina Takola, Stavroula Litsiou, Georgia Daraki, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

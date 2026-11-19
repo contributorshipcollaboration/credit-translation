@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Nina  Trubanová](https://orcid.org/0000-0001-8156-3304), [Radana  Chytilová](https://orcid.org/0009-0007-9675-5553)
+[Nina Trubanová](https://orcid.org/0000-0001-8156-3304), [Radana Chytilová](https://orcid.org/0009-0007-9675-5553)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Nina  Trubanová](https://orcid.org/0000-0001-8156-3304), [Radana  Chytilová](https://orcid.org/0009-0007-9675-5553), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Nina Trubanová](https://orcid.org/0000-0001-8156-3304), [Radana Chytilová](https://orcid.org/0009-0007-9675-5553), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

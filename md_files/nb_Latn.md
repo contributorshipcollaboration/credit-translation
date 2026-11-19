@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Bjørn  Sætrevik](https://orcid.org/0000-0002-9367-6987), [Ulvhild Helena Tormodsdatter Færøvik](https://orcid.org/0009-0000-6460-6245)
+[Bjørn Sætrevik](https://orcid.org/0000-0002-9367-6987), [Ulvhild Helena Tormodsdatter Færøvik](https://orcid.org/0009-0000-6460-6245)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Bjørn  Sætrevik](https://orcid.org/0000-0002-9367-6987), [Ulvhild Helena Tormodsdatter Færøvik](https://orcid.org/0009-0000-6460-6245), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Bjørn Sætrevik](https://orcid.org/0000-0002-9367-6987), [Ulvhild Helena Tormodsdatter Færøvik](https://orcid.org/0009-0000-6460-6245), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

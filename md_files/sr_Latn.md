@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Milica  Pavlović](https://orcid.org/0000-0002-7799-9831), [Milica  Sevkušić](https://orcid.org/0000-0002-2888-6611), [Anja  Bošnjak](https://orcid.org/0009-0004-4184-9307), [Dunja  Mićunović](https://orcid.org/0009-0000-8986-3061)
+[Milica Pavlović](https://orcid.org/0000-0002-7799-9831), [Milica Sevkušić](https://orcid.org/0000-0002-2888-6611), [Anja Bošnjak](https://orcid.org/0009-0004-4184-9307), [Dunja Mićunović](https://orcid.org/0009-0000-8986-3061)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Milica  Pavlović](https://orcid.org/0000-0002-7799-9831), [Milica  Sevkušić](https://orcid.org/0000-0002-2888-6611), [Anja  Bošnjak](https://orcid.org/0009-0004-4184-9307), [Dunja  Mićunović](https://orcid.org/0009-0000-8986-3061), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Milica Pavlović](https://orcid.org/0000-0002-7799-9831), [Milica Sevkušić](https://orcid.org/0000-0002-2888-6611), [Anja Bošnjak](https://orcid.org/0009-0004-4184-9307), [Dunja Mićunović](https://orcid.org/0009-0000-8986-3061), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

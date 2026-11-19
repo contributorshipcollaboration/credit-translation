@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-Antti-Jussi  Nygård, [Jussi  Lehtonen](https://orcid.org/0000-0001-5260-1041), Heikki  Lehtonen
+Antti-Jussi Nygård, [Jussi Lehtonen](https://orcid.org/0000-0001-5260-1041), Heikki Lehtonen
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ Antti-Jussi  Nygård, [Jussi  Lehtonen](https://orcid.org/0000-0001-5260-1041), 
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Antti-Jussi  Nygård, [Jussi  Lehtonen](https://orcid.org/0000-0001-5260-1041), Heikki  Lehtonen, Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Antti-Jussi Nygård, [Jussi Lehtonen](https://orcid.org/0000-0001-5260-1041), Heikki Lehtonen, Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

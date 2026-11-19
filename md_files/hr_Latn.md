@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Antica  Čulina](https://orcid.org/0000-0003-2910-8085), [Anita  Tarandek](https://orcid.org/0000-0001-7362-0049)
+[Antica Čulina](https://orcid.org/0000-0003-2910-8085), [Anita Tarandek](https://orcid.org/0000-0001-7362-0049)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Antica  Čulina](https://orcid.org/0000-0003-2910-8085), [Anita  Tarandek](https://orcid.org/0000-0001-7362-0049), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Antica Čulina](https://orcid.org/0000-0003-2910-8085), [Anita Tarandek](https://orcid.org/0000-0001-7362-0049), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

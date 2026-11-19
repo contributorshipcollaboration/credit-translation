@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Nina  Trubanová](https://orcid.org/0000-0001-8156-3304), [Marek  Vranka](https://orcid.org/0000-0003-3413-9062), [Viktória  Šinkorová](https://orcid.org/0009-0009-6534-8861), [Zuzana  Irsova](https://orcid.org/0000-0002-0753-8124)
+[Nina Trubanová](https://orcid.org/0000-0001-8156-3304), [Marek Vranka](https://orcid.org/0000-0003-3413-9062), [Viktória Šinkorová](https://orcid.org/0009-0009-6534-8861), [Zuzana Irsova](https://orcid.org/0000-0002-0753-8124)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Nina  Trubanová](https://orcid.org/0000-0001-8156-3304), [Marek  Vranka](https://orcid.org/0000-0003-3413-9062), [Viktória  Šinkorová](https://orcid.org/0009-0009-6534-8861), [Zuzana  Irsova](https://orcid.org/0000-0002-0753-8124), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Nina Trubanová](https://orcid.org/0000-0001-8156-3304), [Marek Vranka](https://orcid.org/0000-0003-3413-9062), [Viktória Šinkorová](https://orcid.org/0009-0009-6534-8861), [Zuzana Irsova](https://orcid.org/0000-0002-0753-8124), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 

@@ -39,7 +39,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## Translators
 
-[Jordi  Lacruz Casado](https://orcid.org/0000-0002-5053-6941), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941)
+[Jordi Lacruz Casado](https://orcid.org/0000-0002-5053-6941), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941)
 
 ## JSON Metadata
 
@@ -47,7 +47,7 @@ githublink: "https://github.com/contributorshipcollaboration/credit-translation/
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jordi  Lacruz Casado](https://orcid.org/0000-0002-5053-6941), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941), Brand, Allen, Altman, Hlava, & Scott
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Jordi Lacruz Casado](https://orcid.org/0000-0002-5053-6941), [Marc Roger Bria Ramirez](https://orcid.org/0000-0001-8485-8941), Brand, Allen, Altman, Hlava, & Scott
 
 ## Translation Procedure
 
