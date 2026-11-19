@@ -23,3 +23,20 @@ How the polished landing page is created, including the [human-readable translat
 Hugo partial, then the top of the page can be edited without affecting the rendering of the list of languages. 
 The rendering is done by Github Action which can be triggered by editing the [webpage repo](https://github.com/contributorshipcollaboration/contributorshipcollaboration.github.io/blob/master/README.md
 )
+
+### Validating translation files
+
+Every translation in `translations/` is checked against the JSON schema (`credit_translation_schema-X.Y.Z.json`) by a GitHub Action on every pull request and push. To run the same checks on your computer before opening a pull request:
+
+```
+pip install -r scripts/requirements.txt
+python scripts/validate.py
+```
+
+The script reports errors (which must be fixed) and warnings (which should be fixed but do not fail the check). Besides the schema it checks, for example, that:
+
+- the file is named `<languageCode>_<scriptCode>.json`, e.g. `nn_Latn.json`;
+- `languageCode` is an [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) code, the two-letter ISO 639-1 code wherever one exists (`it`, not `ita`), and `scriptCode` is an [ISO 15924](https://en.wikipedia.org/wiki/ISO_15924) code, e.g. `Latn`;
+- each translator's `ORCID` is given as the bare iD (`0000-0000-0000-0000`, not a URL) with a valid checksum, and is left out if the translator has none (do not use `""` or `NA`).
+
+Files you change must use the newest schema: set `"$schema"` to the latest `credit_translation_schema-X.Y.Z.json` in this repository. Files you do not touch may stay on an older schema. Bumping a translation's `version` when its content changes is done by hand.
